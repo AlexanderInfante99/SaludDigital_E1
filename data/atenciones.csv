@@ -1,0 +1,3001 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P00001,,42,,San Isidro,Odontología,16/11/2017,326.41
+P00002,María,32,M,San Isidro,Pediatría,13/03/2017,457.37
+P00003,José,88,F,Cajamarca,Ginecología,22/08/2017,411.97
+P00004,null,54,F,NA,Ginecología,30/07/2017,350.56
+P00005,Ana,30,F,La Molina,null,02/01/2020,32.34
+P00006,Ana,33,M,La Molina,Odontología,19/05/2016,438.61
+P00007,María,99,F,Callao,Laboratorio,N/D,388.77
+P00008,Pedro,89,F,Callao,Laboratorio,04/12/2021,226.83
+P00009,null,8,M,,Laboratorio,27/01/2017,253.02
+P00010,Miguel,54,M,Cajamarca,Consulta médica,09/12/2015,124.13
+P00011,Luis,,M,,Pediatría,28/01/2021,57.02
+P00012,Miguel,68,F,Callao,null,01/11/2022,487.15
+P00013,Lucía,26,F,Callao,Pediatría,11/04/2017,366.74
+P00014,Luis,62,M,Callao,Pediatría,06/10/2019,47.25
+P00015,Ana,84,F,N/D,Ginecología,26/06/2022,67.05
+P00016,Valeria,7,F,Callao,Odontología,04/08/2017,190.67
+P00017,José,46,NA,Callao,Ginecología,07/01/2016,334.76
+P00018,Valeria,35,F,null,Odontología,22/12/2017,60.19
+P00019,Carlos,2,F,Cajamarca,Consulta médica,NA,247.7
+P00020,Carlos,30,M,La Molina,Pediatría,09/01/2018,201.86
+P00021,N/D,69,M,Callao,Ginecología,17/04/2022,356.05
+P00022,José,6,M,Surco,Laboratorio,04/04/2023,238.41
+P00023,Valeria,79,M,San Isidro,null,11/02/2020,359.83
+P00024,Lucía,59,null,San Isidro,Ginecología,29/06/2018,288.57
+P00025,Sofía,59,M,Callao,Ginecología,21/10/2020,150.23
+P00026,Valeria,96,F,La Molina,Odontología,21/02/2016,64.35
+P00027,Valeria,76,M,La Molina,Pediatría,25/02/2017,390.65
+P00028,Sofía,92,M,La Molina,Consulta médica,26/01/2020,413.21
+P00029,Miguel,63,F,Callao,Laboratorio,16/01/2020,320.77
+P00030,Sofía,50,M,Cajamarca,Ginecología,24/07/2020,99.11
+P00031,N/D,66,M,La Molina,Ginecología,08/05/2023,235.97
+P00032,Ana,33,F,San Isidro,Emergencia,06/11/2022,182.14
+P00033,Carlos,null,F,Cajamarca,Pediatría,04/09/2022,355.42
+P00034,María,27,,Lince,Emergencia,15/12/2018,387.82
+P00035,Ana,28,M,NA,Laboratorio,19/05/2021,137.95
+P00036,Ana,39,M,Cajamarca,Emergencia,01/08/2020,208.43
+P00037,Lucía,96,M,NA,Emergencia,,240.96
+P00038,Miguel,99,F,Lince,Pediatría,04/08/2016,423.18
+P00039,Valeria,96,M,Surco,Ginecología,NA,221.15
+P00040,Luis,34,F,Lince,Pediatría,31/01/2022,454.16
+P00041,Carlos,3,M,Surco,Laboratorio,03/01/2016,145.97
+P00042,Miguel,61,M,La Molina,Emergencia,11/03/2017,458.28
+P00043,Carlos,68,M,Lince,Consulta médica,31/10/2018,144.14
+P00044,María,N/D,M,La Molina,Odontología,18/10/2019,76.32
+P00045,María,53,M,Lince,Ginecología,20/05/2021,453.03
+P00046,Valeria,25,M,Lince,Emergencia,12/09/2016,20.88
+P00047,María,72,M,La Molina,Odontología,06/01/2021,229.06
+P00048,José,null,,Surco,Laboratorio,23/07/2020,421.68
+P00049,Sofía,85,M,Lince,Laboratorio,05/06/2022,79.5
+P00050,Luis,88,M,San Isidro,null,15/10/2020,255.47
+P00051,N/D,47,F,Callao,Consulta médica,15/02/2015,254.49
+P00052,José,71,M,San Isidro,Ginecología,17/09/2020,301.35
+P00053,Sofía,95,F,Miraflores,Consulta médica,24/03/2017,68.79
+P00054,Valeria,14,M,Callao,null,23/09/2022,456.25
+P00055,Miguel,47,M,La Molina,NA,04/08/2024,432.33
+P00056,Valeria,87,,,Ginecología,22/07/2019,281.26
+P00057,Ana,84,N/D,,Emergencia,09/09/2016,375.44
+P00058,Pedro,95,F,Callao,Ginecología,04/08/2023,191.47
+P00059,Luis,36,F,Lince,Laboratorio,23/03/2019,362.74
+P00060,Pedro,47,M,Cajamarca,Consulta médica,18/10/2021,N/D
+P00061,Pedro,47,F,Surco,Laboratorio,28/02/2022,82.84
+P00062,Valeria,86,F,,Odontología,13/08/2016,63.63
+P00063,Valeria,72,M,Surco,Emergencia,06/05/2023,480.2
+P00064,Pedro,96,M,San Isidro,Ginecología,06/01/2016,411.55
+P00065,Lucía,80,F,Cajamarca,Pediatría,,254.97
+P00066,Luis,75,F,Miraflores,N/D,26/01/2022,263.15
+P00067,Carlos,59,F,Cajamarca,Ginecología,17/09/2015,174.33
+P00068,Valeria,2,F,Surco,Laboratorio,28/11/2016,281.29
+P00069,,7,M,Miraflores,Odontología,15/12/2015,48.83
+P00070,Carlos,57,F,Cajamarca,Emergencia,24/06/2023,82.27
+P00071,María,39,M,Miraflores,Pediatría,22/11/2023,171.08
+P00072,José,98,F,San Isidro,,26/12/2024,NA
+P00073,José,35,M,Surco,Ginecología,11/04/2023,84.46
+P00074,null,39,F,null,Ginecología,11/01/2024,271.36
+P00075,María,10,F,San Isidro,Laboratorio,20/11/2020,294.52
+P00076,Miguel,54,M,San Isidro,Odontología,,223.86
+P00077,Sofía,93,F,Surco,N/D,18/09/2017,237.5
+P00078,Pedro,70,M,La Molina,Emergencia,28/09/2020,31.9
+P00079,Lucía,34,F,NA,Pediatría,30/12/2021,160.26
+P00080,José,46,M,Lince,Consulta médica,17/07/2022,420.09
+P00081,María,NA,M,Surco,Odontología,22/03/2020,120.94
+P00082,José,96,M,Lince,Pediatría,21/10/2018,308.95
+P00083,Valeria,,F,Lince,Odontología,26/10/2015,173.09
+P00084,José,NA,M,Lince,Odontología,21/04/2020,208.01
+P00085,Miguel,N/D,F,La Molina,Pediatría,24/06/2017,204.47
+P00086,Valeria,93,F,N/D,Pediatría,10/09/2018,213.19
+P00087,Sofía,37,F,Callao,Emergencia,01/06/2024,446.89
+P00088,Sofía,39,NA,Cajamarca,Odontología,02/05/2017,89.76
+P00089,Luis,96,F,Cajamarca,Pediatría,04/01/2017,99.18
+P00090,Pedro,61,M,Miraflores,Odontología,15/03/2019,352.31
+P00091,Carlos,52,NA,Callao,Odontología,07/10/2016,331.21
+P00092,Ana,86,F,Surco,Emergencia,17/04/2022,394.72
+P00093,,55,M,NA,Laboratorio,25/10/2015,NA
+P00094,Carlos,92,F,Callao,Ginecología,29/04/2023,192.55
+P00095,Sofía,21,M,Surco,Odontología,20/03/2018,196.47
+P00096,Carlos,3,M,San Isidro,Consulta médica,22/11/2017,26.17
+P00097,José,60,M,Surco,Pediatría,05/12/2021,194.85
+P00098,Carlos,43,M,Callao,Ginecología,07/10/2018,223.72
+P00099,Valeria,33,F,San Isidro,,07/08/2019,27.67
+P00100,Valeria,66,F,La Molina,Pediatría,30/04/2018,null
+P00101,Ana,3,null,Callao,Emergencia,27/01/2015,236.61
+P00102,Valeria,28,F,N/D,Odontología,13/05/2019,137.26
+P00103,María,95,M,Lince,Odontología,13/09/2018,361.95
+P00104,José,86,M,Lince,Emergencia,,462.88
+P00105,Luis,32,M,Callao,Pediatría,25/01/2015,49.22
+P00106,José,85,F,Lince,Consulta médica,18/12/2021,429.25
+P00107,Ana,43,F,San Isidro,Pediatría,07/08/2017,325.58
+P00108,Valeria,61,F,Callao,Laboratorio,14/09/2024,281.66
+P00109,Lucía,82,F,San Isidro,Pediatría,26/10/2019,189.64
+P00110,Ana,87,F,Miraflores,Pediatría,25/12/2021,206.68
+P00111,Lucía,72,F,Miraflores,Consulta médica,04/08/2021,325.65
+P00112,Carlos,N/D,M,N/D,Ginecología,11/03/2023,233.25
+P00113,Miguel,18,M,Lince,Consulta médica,20/09/2022,141.06
+P00114,María,11,M,Lince,Ginecología,25/05/2016,302.78
+P00115,Lucía,1,N/D,Lince,Laboratorio,04/05/2022,null
+P00116,José,73,M,N/D,Pediatría,01/02/2015,109.54
+P00117,Pedro,NA,F,Callao,Consulta médica,12/12/2020,
+P00118,José,6,F,N/D,null,12/12/2015,189.19
+P00119,María,84,M,Miraflores,Emergencia,14/11/2021,314.15
+P00120,Valeria,95,M,San Isidro,Laboratorio,11/11/2016,423.83
+P00121,Carlos,36,F,Cajamarca,Ginecología,13/08/2023,395.06
+P00122,Valeria,N/D,M,Lince,Pediatría,03/05/2023,411.71
+P00123,null,15,F,La Molina,Odontología,,266.91
+P00124,Lucía,82,F,Surco,Laboratorio,30/10/2022,203.21
+P00125,Valeria,,N/D,Surco,Emergencia,05/03/2015,175.57
+P00126,Lucía,5,F,San Isidro,Consulta médica,10/09/2021,378.99
+P00127,Sofía,88,M,Cajamarca,Ginecología,05/10/2020,43.21
+P00128,José,11,M,Cajamarca,Ginecología,29/03/2016,null
+P00129,Ana,72,M,Surco,NA,12/07/2015,223.74
+P00130,Luis,62,F,null,Ginecología,01/01/2022,42.2
+P00131,Valeria,41,F,Miraflores,Pediatría,04/02/2019,258.85
+P00132,N/D,60,F,Miraflores,Pediatría,12/07/2017,203.17
+P00133,José,99,M,Surco,Laboratorio,12/02/2019,354.15
+P00134,María,30,F,La Molina,Odontología,23/12/2021,57.68
+P00135,María,50,M,San Isidro,Consulta médica,07/08/2022,153.79
+P00136,Ana,N/D,M,La Molina,Pediatría,21/02/2018,413.93
+P00137,Sofía,N/D,F,Cajamarca,Laboratorio,16/12/2022,189.35
+P00138,Sofía,,M,San Isidro,Odontología,17/12/2018,
+P00139,Miguel,81,M,San Isidro,Laboratorio,03/01/2016,239.13
+P00140,Lucía,90,M,San Isidro,Consulta médica,19/07/2015,444.71
+P00141,José,7,F,San Isidro,Pediatría,20/03/2018,null
+P00142,Lucía,46,F,Surco,,30/05/2022,
+P00143,María,9,M,Surco,Laboratorio,NA,NA
+P00144,Valeria,79,M,Miraflores,Laboratorio,,321.82
+P00145,Luis,69,M,Lince,Ginecología,06/12/2019,116.6
+P00146,Miguel,73,F,Lince,Consulta médica,20/01/2017,436.55
+P00147,Lucía,91,M,San Isidro,Odontología,26/07/2021,425.99
+P00148,José,29,F,Cajamarca,Ginecología,14/11/2020,31.48
+P00149,José,N/D,M,Surco,Laboratorio,20/03/2017,334.64
+P00150,Pedro,99,M,Callao,Consulta médica,25/04/2017,233.08
+P00151,José,21,M,NA,Consulta médica,24/03/2020,468.68
+P00152,Valeria,26,M,Surco,Pediatría,19/07/2024,262.23
+P00153,María,20,F,Miraflores,Consulta médica,21/06/2023,236.32
+P00154,Miguel,89,,Cajamarca,Emergencia,30/12/2023,347.96
+P00155,José,NA,F,Callao,Pediatría,12/02/2016,243.13
+P00156,Carlos,67,M,Surco,null,16/06/2018,284.44
+P00157,N/D,51,F,Surco,Laboratorio,02/12/2023,74.03
+P00158,María,93,M,Callao,Laboratorio,04/01/2020,437.84
+P00159,Carlos,9,M,Surco,Laboratorio,01/03/2020,NA
+P00160,María,91,F,Surco,Emergencia,08/04/2018,139.43
+P00161,José,15,F,Cajamarca,Emergencia,18/11/2016,399.42
+P00162,null,50,NA,Cajamarca,Consulta médica,13/01/2023,429.39
+P00163,,38,M,Callao,Laboratorio,NA,318.46
+P00164,Valeria,58,M,La Molina,Pediatría,27/05/2018,499.62
+P00165,Luis,90,M,Lince,Ginecología,05/05/2022,
+P00166,María,60,F,Cajamarca,N/D,10/01/2017,123.82
+P00167,María,92,M,Cajamarca,Laboratorio,24/09/2018,437.23
+P00168,Lucía,57,F,Lince,Odontología,NA,132.93
+P00169,Valeria,,F,Cajamarca,Consulta médica,04/12/2021,358.29
+P00170,Carlos,8,F,Surco,Laboratorio,06/03/2017,
+P00171,Luis,25,M,Surco,Odontología,08/01/2021,266.16
+P00172,Pedro,61,M,La Molina,N/D,01/07/2023,50.52
+P00173,Luis,31,M,null,Laboratorio,NA,399.07
+P00174,,23,M,,Consulta médica,01/05/2015,253.09
+P00175,Lucía,90,F,Cajamarca,Consulta médica,04/08/2022,306.2
+P00176,Sofía,16,F,San Isidro,Laboratorio,08/02/2016,307.78
+P00177,Valeria,81,F,Surco,Pediatría,30/11/2017,182.31
+P00178,Sofía,4,M,Callao,Laboratorio,14/06/2022,null
+P00179,Valeria,33,M,Callao,Pediatría,18/04/2024,483.48
+P00180,Sofía,13,F,Miraflores,Consulta médica,28/06/2015,197.76
+P00181,Luis,24,F,Callao,Emergencia,18/02/2023,307.99
+P00182,Ana,12,M,Cajamarca,Odontología,08/03/2016,
+P00183,Lucía,34,F,Surco,Ginecología,30/06/2023,239.54
+P00184,José,72,F,Callao,Odontología,07/05/2015,232.51
+P00185,José,55,F,Surco,N/D,16/12/2020,195.7
+P00186,null,94,M,Surco,Laboratorio,19/05/2024,291.2
+P00187,Pedro,22,F,Lince,Odontología,10/08/2018,247.02
+P00188,Lucía,66,F,Callao,Laboratorio,27/02/2024,287.74
+P00189,Sofía,87,M,Lince,Pediatría,21/03/2020,191.65
+P00190,Sofía,73,F,Lince,Consulta médica,01/06/2015,77.95
+P00191,Ana,5,M,La Molina,Consulta médica,11/06/2015,483.86
+P00192,Valeria,NA,F,,Odontología,27/08/2020,277.02
+P00193,Valeria,N/D,M,NA,Pediatría,01/12/2023,115.23
+P00194,María,null,F,Cajamarca,Consulta médica,06/11/2018,91.92
+P00195,María,10,M,Lince,Laboratorio,26/11/2024,399.7
+P00196,NA,57,M,Miraflores,Emergencia,18/11/2020,
+P00197,Valeria,30,M,Callao,N/D,19/03/2020,
+P00198,Lucía,88,M,Lince,Emergencia,03/06/2021,358.32
+P00199,José,29,F,San Isidro,Laboratorio,28/12/2021,185.63
+P00200,Miguel,61,F,La Molina,Odontología,26/07/2019,412.45
+P00201,N/D,N/D,F,San Isidro,Consulta médica,06/12/2020,null
+P00202,Lucía,26,M,San Isidro,Laboratorio,17/06/2020,366.88
+P00203,Luis,68,NA,Miraflores,Ginecología,22/07/2021,159.47
+P00204,Valeria,52,M,Surco,Consulta médica,27/06/2021,345.43
+P00205,Sofía,null,M,Miraflores,Odontología,18/12/2015,null
+P00206,José,56,M,San Isidro,null,28/08/2016,113.78
+P00207,Valeria,23,NA,Lince,Pediatría,16/10/2018,490.39
+P00208,Lucía,50,M,Surco,NA,30/04/2017,199.46
+P00209,,97,M,null,Emergencia,22/12/2024,328.21
+P00210,Lucía,99,M,NA,Laboratorio,16/10/2022,85.69
+P00211,José,86,M,null,Emergencia,,357.99
+P00212,José,56,F,Miraflores,Pediatría,17/03/2018,310.32
+P00213,Valeria,42,M,Lince,Odontología,11/12/2015,177.64
+P00214,Luis,N/D,F,Miraflores,Laboratorio,06/06/2019,147.06
+P00215,José,,M,Surco,Ginecología,20/04/2019,266.91
+P00216,Valeria,56,M,La Molina,Ginecología,29/12/2016,391.18
+P00217,José,53,M,Miraflores,Emergencia,10/10/2024,112.09
+P00218,Sofía,69,M,N/D,Odontología,NA,176.96
+P00219,Lucía,78,M,null,Laboratorio,07/02/2015,51.88
+P00220,María,null,F,Surco,Emergencia,03/10/2023,227.04
+P00221,Valeria,32,F,Miraflores,null,13/06/2019,443.76
+P00222,Pedro,4,,Callao,Emergencia,05/09/2019,91.39
+P00223,Valeria,,M,San Isidro,Emergencia,11/05/2016,228.98
+P00224,Carlos,52,F,La Molina,Odontología,26/08/2024,N/D
+P00225,José,43,M,NA,Emergencia,02/05/2018,358.85
+P00226,Miguel,25,,Surco,Ginecología,null,499.18
+P00227,Miguel,23,F,Miraflores,Emergencia,24/09/2020,140.85
+P00228,Carlos,48,M,Callao,Odontología,03/04/2017,209.44
+P00229,José,99,M,Surco,Odontología,15/01/2022,253.09
+P00230,Luis,1,M,Surco,,,174.9
+P00231,Pedro,8,F,Miraflores,,10/05/2015,67.47
+P00232,Miguel,92,F,La Molina,Emergencia,15/01/2015,345.98
+P00233,Ana,47,F,Cajamarca,Consulta médica,04/05/2024,488.99
+P00234,Carlos,null,F,Lince,Pediatría,30/09/2021,212.1
+P00235,Miguel,90,F,La Molina,Consulta médica,19/05/2019,N/D
+P00236,Carlos,21,M,La Molina,Emergencia,25/12/2022,305.43
+P00237,,9,F,Surco,Emergencia,11/10/2022,263.38
+P00238,Valeria,82,F,Surco,Odontología,25/11/2019,199.56
+P00239,María,N/D,M,Cajamarca,Laboratorio,10/08/2022,199.75
+P00240,María,99,M,San Isidro,Emergencia,24/07/2021,406.29
+P00241,María,91,F,Miraflores,Pediatría,12/06/2019,256.47
+P00242,Lucía,61,F,Surco,null,NA,345.84
+P00243,María,N/D,F,Lince,Pediatría,10/04/2018,null
+P00244,Valeria,11,NA,La Molina,NA,09/06/2023,277.01
+P00245,Sofía,89,,Miraflores,Consulta médica,06/06/2021,223.05
+P00246,,65,F,La Molina,Odontología,25/07/2023,46.35
+P00247,Valeria,46,M,Miraflores,Emergencia,01/06/2021,33.77
+P00248,Miguel,58,F,La Molina,Laboratorio,23/12/2019,442.62
+P00249,Valeria,NA,,Callao,Ginecología,,61.75
+P00250,Lucía,36,N/D,Miraflores,Pediatría,25/04/2022,224.21
+P00251,María,21,F,Cajamarca,Odontología,null,86.54
+P00252,Sofía,,M,null,NA,28/07/2017,57.19
+P00253,Ana,28,M,La Molina,Laboratorio,07/08/2020,81.67
+P00254,Sofía,8,M,Surco,Consulta médica,05/08/2017,221.4
+P00255,Ana,6,M,Callao,Pediatría,09/05/2023,N/D
+P00256,María,21,F,San Isidro,Laboratorio,30/03/2023,291.87
+P00257,Ana,75,NA,,NA,24/12/2019,465.51
+P00258,Sofía,11,M,NA,Odontología,22/01/2015,203.22
+P00259,Ana,4,M,N/D,Consulta médica,08/06/2016,322.8
+P00260,Lucía,56,F,La Molina,Emergencia,09/01/2015,311.0
+P00261,Carlos,2,F,NA,Odontología,09/11/2019,N/D
+P00262,NA,N/D,F,Callao,Consulta médica,15/05/2022,70.43
+P00263,null,12,F,La Molina,Ginecología,NA,305.27
+P00264,Valeria,92,F,Cajamarca,Consulta médica,22/02/2024,374.7
+P00265,N/D,44,null,Cajamarca,Laboratorio,06/02/2019,132.98
+P00266,Ana,36,M,Callao,Pediatría,08/10/2016,187.47
+P00267,Carlos,29,M,La Molina,Ginecología,06/09/2022,114.5
+P00268,Sofía,19,M,null,Emergencia,17/03/2016,108.08
+P00269,Pedro,13,F,La Molina,Consulta médica,25/06/2022,42.62
+P00270,María,40,M,La Molina,Odontología,10/05/2022,497.44
+P00271,Valeria,3,F,La Molina,Consulta médica,24/04/2020,261.89
+P00272,Pedro,30,M,Surco,Laboratorio,18/05/2019,457.9
+P00273,Sofía,47,M,Cajamarca,Pediatría,20/07/2019,441.91
+P00274,María,37,F,La Molina,Consulta médica,22/12/2022,123.79
+P00275,Lucía,65,F,Miraflores,Odontología,18/02/2015,83.94
+P00276,N/D,12,F,Lince,Pediatría,01/11/2022,68.37
+P00277,José,23,null,Miraflores,Laboratorio,22/11/2018,22.26
+P00278,Ana,43,F,Lince,Pediatría,05/09/2016,403.24
+P00279,Valeria,7,F,Callao,NA,22/03/2017,225.2
+P00280,Luis,97,F,Miraflores,null,17/11/2019,373.93
+P00281,Ana,92,M,Surco,Ginecología,08/05/2023,199.25
+P00282,null,90,F,Lince,Ginecología,19/07/2019,182.85
+P00283,Lucía,82,NA,La Molina,Consulta médica,23/03/2016,56.84
+P00284,Valeria,7,F,Miraflores,Consulta médica,07/11/2021,
+P00285,Lucía,43,,San Isidro,N/D,29/03/2020,273.06
+P00286,Lucía,5,M,Callao,Ginecología,07/11/2017,80.92
+P00287,Carlos,30,F,Cajamarca,Consulta médica,11/06/2020,185.31
+P00288,NA,97,F,Miraflores,Laboratorio,N/D,466.44
+P00289,Lucía,12,M,NA,Emergencia,04/08/2017,null
+P00290,Valeria,52,F,null,Odontología,09/11/2018,76.74
+P00291,Luis,43,M,Miraflores,Laboratorio,26/10/2024,248.16
+P00292,Lucía,81,M,La Molina,NA,02/09/2018,197.58
+P00293,Sofía,21,F,Cajamarca,Odontología,06/02/2019,328.28
+P00294,Ana,24,F,San Isidro,Pediatría,30/07/2019,184.04
+P00295,Lucía,22,F,La Molina,Ginecología,04/03/2020,364.07
+P00296,Valeria,2,M,Callao,Pediatría,24/05/2017,121.46
+P00297,Miguel,32,M,NA,Odontología,01/03/2023,N/D
+P00298,Luis,20,M,San Isidro,Emergencia,06/03/2023,381.66
+P00299,Carlos,N/D,M,N/D,Emergencia,28/06/2019,187.68
+P00300,Carlos,91,F,La Molina,Emergencia,11/02/2015,182.52
+P00301,Lucía,72,M,La Molina,Ginecología,04/06/2016,94.25
+P00302,María,81,F,San Isidro,Odontología,18/02/2022,273.58
+P00303,Pedro,49,M,San Isidro,N/D,21/03/2022,140.55
+P00304,Carlos,NA,M,Miraflores,Ginecología,05/06/2016,375.03
+P00305,Carlos,59,F,Surco,Emergencia,25/05/2021,302.53
+P00306,José,75,M,La Molina,Odontología,N/D,262.32
+P00307,Ana,1,F,Miraflores,Pediatría,05/06/2023,134.61
+P00308,Miguel,40,M,,Odontología,25/12/2016,181.72
+P00309,Valeria,48,M,Surco,N/D,02/02/2017,313.88
+P00310,Pedro,96,F,Callao,Consulta médica,28/12/2017,N/D
+P00311,María,19,F,,Pediatría,27/10/2021,434.87
+P00312,José,16,F,Lince,Odontología,10/04/2017,NA
+P00313,Lucía,3,M,La Molina,Pediatría,06/08/2015,202.35
+P00314,Pedro,55,F,Callao,N/D,16/04/2018,
+P00315,José,81,M,La Molina,Pediatría,13/02/2024,99.27
+P00316,Valeria,23,M,San Isidro,Laboratorio,03/12/2017,296.93
+P00317,Carlos,79,M,Lince,Consulta médica,30/12/2024,469.67
+P00318,Valeria,21,M,,Emergencia,12/12/2020,399.22
+P00319,José,45,F,La Molina,Laboratorio,N/D,495.82
+P00320,Carlos,16,M,Cajamarca,Laboratorio,12/02/2023,85.92
+P00321,Carlos,61,M,Surco,Laboratorio,20/09/2019,N/D
+P00322,Miguel,69,M,San Isidro,null,16/10/2024,288.02
+P00323,Ana,33,F,Lince,Laboratorio,03/06/2024,253.79
+P00324,José,49,M,,Emergencia,12/06/2023,NA
+P00325,Sofía,41,M,Miraflores,Odontología,15/12/2021,260.67
+P00326,Sofía,46,M,Cajamarca,null,23/09/2017,306.95
+P00327,Lucía,14,F,Lince,Odontología,21/11/2017,479.38
+P00328,Lucía,2,M,Cajamarca,Consulta médica,14/05/2018,83.63
+P00329,María,73,F,Cajamarca,Laboratorio,03/08/2020,377.97
+P00330,José,77,F,La Molina,Laboratorio,20/06/2017,406.38
+P00331,Carlos,39,M,Cajamarca,Odontología,28/11/2024,47.31
+P00332,Valeria,52,M,Callao,Ginecología,null,455.4
+P00333,Pedro,33,F,Surco,Consulta médica,07/02/2023,293.45
+P00334,NA,7,F,Callao,Emergencia,07/12/2024,190.87
+P00335,José,84,M,Miraflores,Odontología,30/10/2019,125.22
+P00336,Pedro,24,M,Surco,Odontología,31/12/2016,312.98
+P00337,Carlos,null,M,Cajamarca,Laboratorio,11/03/2024,465.32
+P00338,Luis,95,M,La Molina,Laboratorio,29/09/2018,254.03
+P00339,null,25,M,Cajamarca,Consulta médica,21/10/2020,116.66
+P00340,Carlos,52,M,Miraflores,null,05/08/2020,319.66
+P00341,Pedro,81,F,La Molina,Pediatría,01/02/2020,169.12
+P00342,Lucía,46,M,La Molina,Pediatría,12/07/2020,91.17
+P00343,Pedro,89,null,San Isidro,Odontología,30/12/2015,161.46
+P00344,,91,F,La Molina,Consulta médica,16/02/2017,267.91
+P00345,Ana,4,M,Callao,Laboratorio,29/08/2019,344.51
+P00346,Lucía,19,F,Surco,null,,331.1
+P00347,Miguel,88,M,Callao,Consulta médica,24/10/2022,298.16
+P00348,José,43,F,Cajamarca,Ginecología,23/08/2016,401.7
+P00349,Luis,20,F,San Isidro,Pediatría,NA,365.05
+P00350,Valeria,62,F,La Molina,Ginecología,27/07/2018,200.59
+P00351,Carlos,22,F,La Molina,NA,29/06/2024,416.84
+P00352,Ana,N/D,F,Surco,Laboratorio,18/05/2018,177.55
+P00353,NA,68,M,Miraflores,Pediatría,18/10/2023,179.21
+P00354,Carlos,26,F,Miraflores,Ginecología,13/12/2019,null
+P00355,NA,5,F,Miraflores,Emergencia,26/01/2021,35.95
+P00356,Luis,1,F,Lince,Pediatría,12/01/2015,233.44
+P00357,Miguel,37,M,Surco,Laboratorio,30/01/2021,472.12
+P00358,María,69,M,Miraflores,Emergencia,29/08/2024,32.14
+P00359,Sofía,26,F,Lince,NA,10/08/2023,281.35
+P00360,María,76,F,La Molina,Laboratorio,25/05/2023,224.61
+P00361,Ana,76,F,Lince,Pediatría,17/04/2021,100.85
+P00362,Valeria,93,F,Lince,Emergencia,N/D,377.87
+P00363,N/D,17,F,Miraflores,Consulta médica,26/09/2019,142.65
+P00364,Lucía,13,M,Surco,Odontología,25/02/2022,179.15
+P00365,Carlos,15,F,Lince,Pediatría,25/01/2016,360.92
+P00366,Sofía,42,M,Callao,Laboratorio,05/08/2017,20.1
+P00367,Ana,35,F,San Isidro,Emergencia,29/06/2019,259.8
+P00368,N/D,36,M,Cajamarca,Emergencia,06/07/2015,369.61
+P00369,Miguel,60,M,Cajamarca,Ginecología,20/03/2017,432.47
+P00370,Valeria,14,M,Surco,Emergencia,28/10/2018,90.92
+P00371,Sofía,56,M,Surco,Emergencia,04/07/2015,274.4
+P00372,José,47,M,Surco,Odontología,15/11/2017,147.77
+P00373,Lucía,81,F,NA,Pediatría,17/05/2018,215.67
+P00374,Lucía,29,F,Cajamarca,,01/12/2015,264.31
+P00375,Miguel,47,F,La Molina,NA,10/05/2024,77.73
+P00376,María,33,M,La Molina,Pediatría,09/07/2022,167.59
+P00377,Pedro,57,M,San Isidro,Emergencia,11/10/2021,344.8
+P00378,Luis,33,F,Surco,Odontología,28/03/2021,85.88
+P00379,Valeria,35,F,Miraflores,Consulta médica,20/07/2024,198.43
+P00380,José,21,NA,Miraflores,Odontología,28/10/2015,172.3
+P00381,NA,61,M,Callao,Pediatría,07/01/2015,313.26
+P00382,José,14,M,null,Emergencia,17/03/2017,66.57
+P00383,Luis,80,NA,Cajamarca,Laboratorio,08/06/2024,29.01
+P00384,Ana,32,M,Miraflores,Odontología,12/02/2017,489.4
+P00385,María,48,null,Cajamarca,Emergencia,,40.16
+P00386,Carlos,92,NA,N/D,Laboratorio,27/11/2021,293.4
+P00387,Lucía,17,M,Surco,Ginecología,25/07/2016,173.53
+P00388,Miguel,57,F,NA,Emergencia,30/05/2023,233.71
+P00389,Miguel,36,M,Cajamarca,Pediatría,30/12/2024,263.18
+P00390,N/D,88,F,Surco,Consulta médica,28/10/2017,361.69
+P00391,José,72,M,N/D,Consulta médica,02/11/2023,402.52
+P00392,Lucía,94,F,N/D,Ginecología,27/08/2017,428.65
+P00393,Valeria,84,F,NA,Consulta médica,18/12/2022,227.07
+P00394,,21,F,Callao,Ginecología,18/11/2016,N/D
+P00395,María,1,F,Surco,Laboratorio,03/07/2022,163.7
+P00396,Lucía,41,F,Lince,Ginecología,23/04/2015,117.15
+P00397,José,33,M,San Isidro,Odontología,23/03/2021,475.68
+P00398,Valeria,N/D,M,La Molina,Emergencia,13/05/2019,38.76
+P00399,Luis,28,,Lince,Odontología,21/04/2021,302.15
+P00400,Luis,64,F,Miraflores,Laboratorio,10/11/2020,195.08
+P00401,Valeria,71,M,Miraflores,Odontología,21/07/2019,113.19
+P00402,José,24,F,Lince,Pediatría,20/01/2015,302.52
+P00403,José,19,,Lince,NA,null,491.41
+P00404,Pedro,NA,M,Lince,Consulta médica,08/08/2015,338.31
+P00405,null,75,M,Callao,Pediatría,09/03/2024,NA
+P00406,Lucía,null,,N/D,Ginecología,null,402.55
+P00407,Ana,35,M,Callao,Ginecología,null,54.2
+P00408,Pedro,35,M,Callao,,10/11/2020,100.9
+P00409,Miguel,NA,,San Isidro,Ginecología,27/03/2016,255.2
+P00410,José,86,F,Cajamarca,,06/01/2024,130.32
+P00411,null,28,M,Cajamarca,Emergencia,29/04/2021,475.71
+P00412,Valeria,N/D,M,San Isidro,Laboratorio,28/09/2018,N/D
+P00413,Lucía,40,M,La Molina,Laboratorio,11/10/2020,98.61
+P00414,Lucía,25,F,Miraflores,Laboratorio,08/12/2019,105.73
+P00415,Carlos,67,F,Miraflores,,03/02/2020,
+P00416,NA,86,F,San Isidro,N/D,23/03/2017,334.52
+P00417,Carlos,15,M,La Molina,Laboratorio,,377.79
+P00418,Sofía,66,F,Cajamarca,Laboratorio,04/12/2020,101.9
+P00419,Lucía,31,M,Surco,Emergencia,01/08/2015,445.0
+P00420,María,67,M,Callao,Odontología,16/02/2024,28.35
+P00421,Pedro,70,F,Cajamarca,Ginecología,N/D,316.73
+P00422,Carlos,39,F,Callao,N/D,02/05/2024,235.88
+P00423,N/D,51,M,San Isidro,Consulta médica,14/07/2016,
+P00424,Miguel,52,F,Cajamarca,Laboratorio,17/05/2016,446.72
+P00425,Ana,31,F,Lince,Pediatría,21/11/2021,27.49
+P00426,Sofía,86,F,Surco,Emergencia,05/04/2019,98.75
+P00427,Carlos,14,M,San Isidro,Emergencia,01/05/2024,N/D
+P00428,NA,30,NA,Cajamarca,null,16/02/2015,274.13
+P00429,María,54,M,Lince,Pediatría,16/11/2020,114.72
+P00430,María,47,M,null,Ginecología,09/02/2015,82.06
+P00431,Valeria,26,F,Cajamarca,Emergencia,16/12/2017,178.4
+P00432,Pedro,25,F,Cajamarca,Laboratorio,19/08/2016,307.5
+P00433,Lucía,12,M,Callao,Consulta médica,25/10/2019,106.19
+P00434,Ana,21,M,,Laboratorio,16/03/2017,104.58
+P00435,Miguel,4,F,Surco,Ginecología,02/06/2023,358.55
+P00436,Pedro,1,M,Miraflores,Pediatría,21/12/2021,null
+P00437,José,50,M,Surco,Pediatría,19/05/2019,386.46
+P00438,Pedro,86,F,null,Laboratorio,08/07/2015,183.5
+P00439,Carlos,12,null,Surco,Odontología,09/09/2016,442.59
+P00440,Lucía,61,F,Miraflores,Consulta médica,14/07/2023,282.34
+P00441,José,null,F,San Isidro,Laboratorio,03/11/2019,29.52
+P00442,Luis,64,M,San Isidro,Laboratorio,18/02/2020,25.08
+P00443,Lucía,79,F,Cajamarca,Odontología,22/10/2015,75.57
+P00444,Lucía,null,M,Surco,Laboratorio,18/12/2018,118.45
+P00445,N/D,41,M,Surco,Laboratorio,14/07/2024,187.64
+P00446,Valeria,NA,M,Callao,Ginecología,22/09/2015,139.33
+P00447,Sofía,22,F,San Isidro,Odontología,NA,304.87
+P00448,Lucía,36,M,San Isidro,Ginecología,12/08/2021,292.79
+P00449,Sofía,28,M,Lince,Ginecología,15/02/2018,50.17
+P00450,José,30,M,Miraflores,Emergencia,05/01/2023,474.4
+P00451,Valeria,49,M,Callao,Laboratorio,27/06/2021,246.12
+P00452,null,91,F,Lince,Emergencia,07/09/2016,44.14
+P00453,Carlos,77,M,Surco,Ginecología,11/11/2021,328.06
+P00454,Sofía,20,M,,Pediatría,,388.81
+P00455,Sofía,71,F,La Molina,Laboratorio,22/11/2018,407.91
+P00456,N/D,42,F,Cajamarca,Odontología,23/03/2024,153.26
+P00457,José,16,F,Cajamarca,Consulta médica,23/12/2023,283.77
+P00458,Lucía,66,M,San Isidro,Emergencia,08/04/2022,28.83
+P00459,Luis,75,F,Callao,Consulta médica,12/11/2019,155.94
+P00460,,45,M,Lince,Ginecología,01/08/2019,348.62
+P00461,Lucía,76,N/D,,Consulta médica,02/07/2022,483.03
+P00462,Sofía,34,M,Miraflores,Emergencia,12/03/2016,444.51
+P00463,Valeria,89,F,Miraflores,Emergencia,N/D,25.76
+P00464,Valeria,37,F,Cajamarca,Emergencia,28/12/2015,276.93
+P00465,Lucía,2,M,Cajamarca,,26/10/2016,461.47
+P00466,N/D,26,M,,Odontología,25/06/2021,365.43
+P00467,Miguel,87,N/D,Miraflores,Laboratorio,04/06/2015,223.71
+P00468,José,86,M,Callao,Consulta médica,17/06/2023,233.57
+P00469,Ana,3,F,La Molina,Pediatría,09/11/2021,456.05
+P00470,N/D,71,F,NA,Emergencia,02/01/2024,473.44
+P00471,Ana,37,F,La Molina,Emergencia,07/02/2023,455.08
+P00472,José,74,M,Callao,Ginecología,27/06/2016,286.97
+P00473,Carlos,53,F,Callao,N/D,null,92.71
+P00474,Pedro,23,F,Miraflores,Laboratorio,26/01/2020,319.69
+P00475,Ana,39,M,Miraflores,Laboratorio,23/07/2022,87.73
+P00476,N/D,47,M,Surco,Consulta médica,15/08/2024,443.56
+P00477,Luis,21,F,San Isidro,Pediatría,12/10/2024,null
+P00478,Luis,4,M,Lince,Laboratorio,11/07/2016,199.44
+P00479,Luis,7,M,San Isidro,Pediatría,06/12/2018,145.83
+P00480,José,49,F,Cajamarca,Ginecología,13/02/2021,461.44
+P00481,Ana,84,F,Miraflores,Emergencia,05/03/2024,371.95
+P00482,María,84,M,Surco,Ginecología,19/08/2020,130.19
+P00483,María,73,F,Lince,Laboratorio,29/04/2016,296.41
+P00484,Carlos,79,M,La Molina,Ginecología,30/07/2020,41.42
+P00485,Sofía,45,M,Callao,Consulta médica,,N/D
+P00486,María,43,M,,Emergencia,,287.29
+P00487,,65,M,Surco,N/D,12/04/2015,
+P00488,Ana,95,F,Callao,Consulta médica,14/12/2024,470.06
+P00489,José,76,M,Callao,Laboratorio,N/D,436.81
+P00490,N/D,61,NA,Miraflores,Odontología,16/02/2015,300.76
+P00491,José,7,M,Callao,Emergencia,05/04/2016,296.52
+P00492,José,51,M,La Molina,Odontología,null,481.26
+P00493,José,47,F,Miraflores,Pediatría,16/03/2019,468.4
+P00494,Miguel,4,M,San Isidro,Odontología,03/01/2023,491.97
+P00495,Miguel,21,F,Surco,Emergencia,05/12/2015,109.56
+P00496,María,,M,Surco,Pediatría,01/12/2016,29.68
+P00497,Ana,2,F,Lince,Emergencia,21/07/2023,240.69
+P00498,Carlos,14,F,Cajamarca,NA,02/05/2015,334.71
+P00499,Pedro,2,F,San Isidro,Pediatría,13/04/2015,327.06
+P00500,Pedro,46,M,Callao,null,10/08/2023,301.99
+P00501,Pedro,NA,M,Cajamarca,Consulta médica,17/05/2017,82.81
+P00502,Sofía,70,F,Lince,NA,08/10/2020,185.34
+P00503,Pedro,18,NA,Surco,Laboratorio,02/11/2022,327.8
+P00504,Miguel,23,M,Lince,Pediatría,N/D,483.66
+P00505,Lucía,11,M,Cajamarca,Emergencia,19/09/2022,446.22
+P00506,Sofía,22,M,Cajamarca,Odontología,30/05/2016,87.23
+P00507,Sofía,N/D,M,Cajamarca,NA,,442.4
+P00508,Carlos,NA,N/D,Cajamarca,Consulta médica,28/04/2016,156.78
+P00509,Luis,40,N/D,Cajamarca,Pediatría,11/11/2017,142.2
+P00510,Lucía,32,F,Callao,Laboratorio,25/03/2018,21.8
+P00511,Ana,29,null,Lince,Laboratorio,N/D,276.29
+P00512,Lucía,42,M,Lince,Emergencia,13/09/2020,81.39
+P00513,N/D,61,F,N/D,Laboratorio,02/03/2024,426.15
+P00514,María,43,M,null,Odontología,28/08/2020,265.47
+P00515,José,45,F,null,Emergencia,24/12/2021,351.56
+P00516,Miguel,32,M,Cajamarca,null,12/04/2018,313.87
+P00517,Lucía,53,F,Miraflores,Laboratorio,19/03/2022,335.09
+P00518,Sofía,81,M,Lince,Odontología,null,178.68
+P00519,null,13,F,Surco,Odontología,16/06/2023,400.36
+P00520,Ana,2,F,Callao,Consulta médica,17/08/2020,389.93
+P00521,Carlos,null,M,NA,Odontología,01/03/2016,183.42
+P00522,Luis,9,F,Surco,Odontología,17/09/2024,238.61
+P00523,N/D,85,null,Cajamarca,Ginecología,10/08/2020,136.78
+P00524,Pedro,59,M,San Isidro,Odontología,13/05/2020,41.29
+P00525,Miguel,10,F,null,Emergencia,NA,190.06
+P00526,Ana,54,F,Callao,Pediatría,29/05/2023,36.49
+P00527,José,85,M,La Molina,Emergencia,01/12/2019,247.84
+P00528,NA,81,M,Surco,Odontología,30/09/2016,217.76
+P00529,María,90,F,Lince,Laboratorio,NA,173.32
+P00530,Sofía,2,M,San Isidro,Pediatría,06/08/2023,N/D
+P00531,Carlos,5,M,Callao,Pediatría,30/10/2021,145.29
+P00532,Lucía,40,M,Callao,Odontología,15/03/2021,172.84
+P00533,Miguel,52,F,N/D,Consulta médica,null,142.72
+P00534,NA,N/D,M,Callao,Laboratorio,10/01/2023,427.11
+P00535,Ana,80,F,Miraflores,Consulta médica,16/05/2022,471.84
+P00536,Lucía,,M,Cajamarca,Odontología,18/01/2024,310.44
+P00537,Miguel,78,M,Lince,N/D,13/08/2022,144.34
+P00538,Luis,50,M,Lince,Pediatría,21/12/2022,102.69
+P00539,José,67,M,Callao,Odontología,17/06/2021,127.81
+P00540,Valeria,37,M,Surco,Pediatría,10/09/2019,429.9
+P00541,Pedro,56,F,Surco,Ginecología,03/10/2022,189.59
+P00542,Sofía,41,F,Miraflores,Odontología,06/11/2017,313.85
+P00543,Ana,75,F,N/D,Consulta médica,02/09/2019,282.96
+P00544,María,81,M,Cajamarca,null,26/08/2021,273.11
+P00545,NA,41,N/D,La Molina,Odontología,NA,37.27
+P00546,María,96,M,Lince,Pediatría,27/02/2015,495.29
+P00547,José,4,F,Callao,Ginecología,28/12/2015,249.13
+P00548,Valeria,65,,La Molina,Emergencia,03/12/2020,189.7
+P00549,María,13,F,La Molina,Odontología,22/04/2019,N/D
+P00550,Sofía,11,M,null,Pediatría,04/08/2015,294.05
+P00551,Ana,58,F,San Isidro,Laboratorio,02/09/2023,210.19
+P00552,Lucía,78,N/D,Cajamarca,Consulta médica,25/12/2022,null
+P00553,Ana,40,M,La Molina,Consulta médica,,497.91
+P00554,Carlos,84,F,Callao,Odontología,18/06/2019,82.83
+P00555,José,56,F,N/D,null,02/05/2016,156.29
+P00556,Pedro,63,M,San Isidro,,28/08/2016,478.52
+P00557,Valeria,28,M,Lince,Emergencia,25/08/2021,244.14
+P00558,Valeria,null,F,San Isidro,Pediatría,19/02/2023,157.96
+P00559,Pedro,39,F,Cajamarca,Emergencia,30/06/2017,289.49
+P00560,Luis,38,M,San Isidro,Emergencia,05/08/2018,492.53
+P00561,,36,M,Callao,Laboratorio,26/12/2019,235.05
+P00562,Ana,81,N/D,Callao,Emergencia,28/05/2022,61.82
+P00563,Pedro,86,M,Callao,Odontología,27/01/2021,444.16
+P00564,N/D,13,,Miraflores,Ginecología,21/03/2021,104.59
+P00565,Miguel,99,null,Miraflores,Pediatría,28/06/2017,374.63
+P00566,María,70,M,Lince,Laboratorio,09/10/2024,102.24
+P00567,María,87,M,Miraflores,Odontología,26/03/2021,312.04
+P00568,Luis,NA,F,Cajamarca,Consulta médica,NA,382.93
+P00569,Miguel,55,M,Callao,Laboratorio,15/07/2021,445.19
+P00570,José,58,,La Molina,Consulta médica,12/08/2018,381.93
+P00571,María,88,M,Callao,Ginecología,10/12/2022,201.65
+P00572,NA,82,M,Surco,Emergencia,N/D,316.28
+P00573,Pedro,41,F,null,N/D,01/02/2015,232.46
+P00574,Ana,N/D,F,Cajamarca,Pediatría,N/D,158.45
+P00575,Sofía,39,F,Cajamarca,Emergencia,28/01/2023,80.06
+P00576,Luis,50,NA,San Isidro,Consulta médica,04/03/2021,485.49
+P00577,María,2,F,Surco,Emergencia,08/12/2021,344.29
+P00578,Luis,33,F,San Isidro,Laboratorio,25/12/2022,NA
+P00579,Valeria,46,M,Cajamarca,Pediatría,20/01/2024,235.76
+P00580,Ana,3,F,Cajamarca,Consulta médica,11/03/2022,
+P00581,Sofía,27,F,Cajamarca,NA,NA,171.42
+P00582,Carlos,99,M,Cajamarca,Consulta médica,26/11/2019,175.25
+P00583,Ana,49,F,Surco,NA,16/05/2018,318.19
+P00584,Luis,18,F,NA,Odontología,29/07/2019,254.17
+P00585,María,32,F,Surco,NA,NA,69.81
+P00586,N/D,35,F,Cajamarca,Odontología,28/07/2016,334.84
+P00587,Lucía,70,F,Miraflores,Ginecología,11/11/2020,265.89
+P00588,Ana,50,F,La Molina,Ginecología,16/08/2019,null
+P00589,Ana,49,M,N/D,Emergencia,15/02/2015,172.39
+P00590,Miguel,35,F,San Isidro,Ginecología,19/04/2023,441.35
+P00591,Carlos,null,M,Callao,Emergencia,26/03/2017,493.2
+P00592,,98,NA,Surco,Consulta médica,07/07/2016,214.15
+P00593,Lucía,72,M,San Isidro,Ginecología,19/06/2021,429.79
+P00594,Luis,44,F,N/D,Laboratorio,N/D,472.51
+P00595,José,19,,San Isidro,Laboratorio,04/07/2023,461.07
+P00596,Valeria,30,M,Surco,Ginecología,02/11/2016,406.46
+P00597,Ana,99,M,La Molina,Consulta médica,04/10/2020,198.5
+P00598,José,64,M,Cajamarca,Consulta médica,30/03/2024,487.18
+P00599,,91,M,NA,Odontología,04/09/2023,93.23
+P00600,José,22,M,San Isidro,Ginecología,17/01/2020,315.56
+P00601,Ana,43,M,N/D,Emergencia,30/08/2024,309.35
+P00602,Luis,4,M,Surco,Consulta médica,02/02/2016,470.6
+P00603,Valeria,50,F,,Laboratorio,23/10/2022,N/D
+P00604,Ana,32,M,null,Pediatría,NA,336.57
+P00605,Luis,10,F,Callao,Laboratorio,01/04/2024,319.69
+P00606,Sofía,,F,NA,Ginecología,14/09/2022,125.41
+P00607,Miguel,76,F,Lince,Consulta médica,18/02/2019,289.39
+P00608,Luis,19,M,Callao,Emergencia,01/04/2015,159.92
+P00609,Lucía,69,M,La Molina,Odontología,,395.82
+P00610,Lucía,94,N/D,San Isidro,Ginecología,12/08/2021,261.65
+P00611,María,92,F,Lince,Pediatría,N/D,237.01
+P00612,José,63,M,Miraflores,NA,23/12/2015,167.79
+P00613,Valeria,,F,La Molina,Consulta médica,25/04/2015,312.09
+P00614,NA,,M,Miraflores,Emergencia,16/09/2019,346.44
+P00615,Lucía,17,F,N/D,Odontología,14/02/2022,null
+P00616,N/D,14,F,Lince,N/D,11/11/2023,100.73
+P00617,Miguel,NA,M,La Molina,Laboratorio,,279.58
+P00618,Carlos,96,M,Cajamarca,Laboratorio,12/05/2017,294.43
+P00619,Miguel,67,M,San Isidro,Pediatría,,320.33
+P00620,Sofía,78,M,San Isidro,Emergencia,08/11/2024,157.96
+P00621,Sofía,13,F,San Isidro,Emergencia,20/07/2020,122.39
+P00622,Pedro,82,F,,Pediatría,12/12/2016,195.99
+P00623,Ana,56,M,null,N/D,16/08/2021,103.52
+P00624,Valeria,15,N/D,Miraflores,N/D,null,467.14
+P00625,NA,null,M,N/D,Pediatría,07/11/2019,428.8
+P00626,Valeria,90,F,Cajamarca,Odontología,14/02/2016,430.75
+P00627,Miguel,2,M,Lince,N/D,24/09/2015,295.01
+P00628,José,69,F,NA,Emergencia,null,377.86
+P00629,Carlos,68,M,NA,Odontología,17/07/2015,124.91
+P00630,Valeria,63,F,Surco,Pediatría,11/06/2018,418.31
+P00631,Carlos,62,F,Callao,Pediatría,23/05/2024,236.83
+P00632,Lucía,27,M,N/D,Pediatría,01/01/2017,47.49
+P00633,María,27,F,Miraflores,Ginecología,22/06/2022,74.36
+P00634,Miguel,48,F,Miraflores,Emergencia,14/10/2024,85.82
+P00635,José,96,M,Cajamarca,Emergencia,04/04/2016,186.95
+P00636,José,78,N/D,Surco,Ginecología,26/08/2024,121.64
+P00637,Sofía,96,F,San Isidro,null,24/01/2022,135.45
+P00638,Ana,66,F,San Isidro,Laboratorio,02/06/2020,166.82
+P00639,José,39,,Cajamarca,Odontología,03/07/2016,209.5
+P00640,Miguel,91,N/D,Cajamarca,Emergencia,06/05/2016,76.27
+P00641,María,28,M,Surco,Consulta médica,,427.69
+P00642,Luis,52,F,Callao,Pediatría,13/05/2017,251.31
+P00643,José,10,M,San Isidro,Laboratorio,17/04/2024,467.55
+P00644,María,19,M,Cajamarca,Pediatría,10/01/2015,460.28
+P00645,N/D,15,M,Callao,Consulta médica,08/05/2024,64.29
+P00646,Sofía,49,NA,Cajamarca,Emergencia,29/01/2019,126.85
+P00647,José,26,F,La Molina,Consulta médica,22/10/2015,314.25
+P00648,Ana,44,M,Surco,Emergencia,NA,373.54
+P00649,Lucía,28,F,Callao,Consulta médica,15/10/2016,102.45
+P00650,Carlos,3,F,Surco,null,15/05/2020,154.17
+P00651,Valeria,47,F,Cajamarca,Laboratorio,08/07/2020,285.57
+P00652,Carlos,57,F,La Molina,Odontología,16/07/2020,251.58
+P00653,Ana,,M,Surco,Laboratorio,27/09/2020,425.46
+P00654,Luis,NA,M,Lince,Consulta médica,02/09/2024,95.7
+P00655,Lucía,76,F,Callao,Odontología,15/02/2019,226.57
+P00656,Valeria,28,M,Lince,NA,17/12/2024,164.09
+P00657,Miguel,97,M,La Molina,Odontología,18/10/2016,289.2
+P00658,Valeria,88,F,Lince,Laboratorio,02/08/2015,null
+P00659,María,94,F,Callao,Odontología,16/10/2022,314.64
+P00660,Pedro,60,M,Cajamarca,Emergencia,02/04/2018,247.84
+P00661,Sofía,57,N/D,Callao,Pediatría,17/08/2018,97.34
+P00662,Carlos,38,M,Surco,Laboratorio,N/D,282.68
+P00663,,93,M,Miraflores,Ginecología,13/04/2015,299.12
+P00664,Valeria,70,M,Miraflores,Pediatría,09/06/2018,453.87
+P00665,Pedro,NA,F,La Molina,Pediatría,11/10/2024,210.93
+P00666,NA,62,M,San Isidro,Emergencia,20/02/2017,285.05
+P00667,N/D,84,F,Callao,Emergencia,06/08/2024,
+P00668,Sofía,26,F,Cajamarca,,11/05/2018,459.16
+P00669,,48,M,La Molina,Consulta médica,24/12/2019,331.01
+P00670,María,11,F,San Isidro,Odontología,01/03/2019,NA
+P00671,Carlos,12,N/D,San Isidro,Ginecología,07/02/2019,NA
+P00672,Pedro,90,F,Cajamarca,Consulta médica,22/12/2018,437.32
+P00673,José,96,F,Cajamarca,Ginecología,23/11/2015,362.77
+P00674,Valeria,8,,Lince,Consulta médica,19/05/2024,483.34
+P00675,María,32,M,Callao,null,06/11/2016,171.11
+P00676,Sofía,61,M,San Isidro,Pediatría,N/D,486.79
+P00677,Sofía,29,NA,Cajamarca,Laboratorio,30/07/2020,274.09
+P00678,José,59,F,Miraflores,Consulta médica,24/07/2018,98.62
+P00679,Sofía,86,F,San Isidro,Ginecología,04/02/2019,51.55
+P00680,Pedro,27,M,La Molina,Ginecología,24/06/2015,32.92
+P00681,Sofía,56,M,La Molina,Ginecología,07/05/2022,277.1
+P00682,Carlos,63,,Surco,Consulta médica,27/12/2022,193.69
+P00683,Carlos,49,M,Callao,Consulta médica,29/09/2020,160.26
+P00684,Pedro,50,F,Callao,Emergencia,null,154.56
+P00685,Carlos,44,F,La Molina,Laboratorio,25/10/2018,178.08
+P00686,María,79,M,Lince,Consulta médica,31/12/2017,126.53
+P00687,María,87,F,,Emergencia,17/09/2019,166.74
+P00688,María,58,M,Callao,Laboratorio,17/04/2019,480.65
+P00689,Miguel,4,F,Cajamarca,null,08/02/2023,473.69
+P00690,Sofía,60,M,Surco,Pediatría,02/10/2020,137.29
+P00691,Carlos,65,F,Cajamarca,Odontología,22/01/2019,458.2
+P00692,José,N/D,F,La Molina,Pediatría,11/09/2020,453.77
+P00693,Miguel,66,F,Lince,Consulta médica,NA,230.01
+P00694,Ana,3,F,Surco,Ginecología,30/05/2022,224.9
+P00695,Luis,68,F,Surco,Ginecología,NA,22.19
+P00696,Valeria,34,M,null,Ginecología,27/05/2016,298.72
+P00697,Valeria,31,M,Cajamarca,Odontología,24/02/2022,186.74
+P00698,Luis,98,F,Callao,Ginecología,11/08/2020,288.53
+P00699,María,33,F,Surco,Pediatría,28/11/2015,404.09
+P00700,Valeria,1,M,,Ginecología,14/01/2021,328.86
+P00701,María,5,M,Cajamarca,Pediatría,21/11/2016,76.58
+P00702,Luis,32,M,San Isidro,Odontología,28/10/2022,481.19
+P00703,,33,null,Callao,Consulta médica,13/12/2019,382.35
+P00704,María,65,M,NA,Consulta médica,08/04/2024,128.11
+P00705,María,46,F,Cajamarca,Pediatría,19/12/2022,106.18
+P00706,Miguel,NA,M,Cajamarca,Odontología,28/09/2018,261.62
+P00707,Ana,96,M,Lince,Laboratorio,05/08/2018,24.29
+P00708,N/D,94,F,San Isidro,Laboratorio,02/06/2017,217.53
+P00709,Lucía,75,F,Cajamarca,Ginecología,04/09/2017,296.21
+P00710,José,,M,Cajamarca,Pediatría,30/12/2020,158.02
+P00711,Miguel,29,F,La Molina,null,N/D,399.95
+P00712,Ana,78,F,Surco,Odontología,12/02/2021,293.6
+P00713,Sofía,64,M,Cajamarca,Ginecología,02/02/2019,199.29
+P00714,Ana,76,F,Surco,NA,29/07/2018,243.48
+P00715,Ana,87,,null,Odontología,28/09/2021,264.75
+P00716,Valeria,48,N/D,Callao,Pediatría,18/01/2021,401.45
+P00717,Sofía,11,F,Surco,,04/11/2017,414.57
+P00718,María,74,F,La Molina,Laboratorio,02/06/2019,317.74
+P00719,José,NA,M,Miraflores,Consulta médica,,191.67
+P00720,N/D,52,F,La Molina,Ginecología,04/12/2016,341.48
+P00721,Pedro,16,M,San Isidro,Consulta médica,,66.4
+P00722,Ana,47,F,La Molina,Ginecología,20/06/2018,140.45
+P00723,Pedro,47,F,Callao,Laboratorio,03/04/2016,230.91
+P00724,Miguel,25,M,Lince,Consulta médica,20/10/2020,340.96
+P00725,Miguel,87,M,Cajamarca,Pediatría,29/11/2023,344.66
+P00726,Pedro,89,F,San Isidro,Pediatría,07/04/2024,224.17
+P00727,Ana,5,M,Miraflores,Consulta médica,02/01/2018,112.17
+P00728,José,10,F,Lince,Consulta médica,17/09/2019,NA
+P00729,María,20,M,La Molina,Pediatría,02/11/2015,154.27
+P00730,Miguel,,F,NA,,12/04/2023,288.34
+P00731,Miguel,25,M,San Isidro,Pediatría,,287.01
+P00732,María,9,M,Cajamarca,Odontología,21/02/2017,null
+P00733,Luis,17,M,Surco,Odontología,05/11/2015,24.08
+P00734,María,45,null,Surco,Odontología,21/03/2017,125.62
+P00735,Ana,89,F,Cajamarca,Consulta médica,24/09/2024,491.19
+P00736,,17,M,San Isidro,null,07/06/2024,366.42
+P00737,Ana,38,F,Cajamarca,N/D,24/10/2021,41.46
+P00738,Miguel,87,M,La Molina,Odontología,28/05/2024,187.66
+P00739,null,14,F,Cajamarca,Emergencia,04/10/2019,NA
+P00740,Ana,11,M,Cajamarca,Ginecología,,240.06
+P00741,Carlos,N/D,F,Lince,Pediatría,23/07/2023,161.05
+P00742,Sofía,70,M,La Molina,Pediatría,13/03/2023,163.42
+P00743,María,74,M,null,Pediatría,21/08/2017,78.42
+P00744,José,N/D,F,Miraflores,Ginecología,null,260.19
+P00745,null,74,M,San Isidro,NA,24/06/2015,204.85
+P00746,Luis,5,N/D,Miraflores,Odontología,12/07/2023,424.57
+P00747,Lucía,66,F,La Molina,Emergencia,08/01/2021,37.17
+P00748,null,55,F,Callao,Pediatría,01/04/2020,126.04
+P00749,Valeria,78,M,Cajamarca,Odontología,12/12/2016,474.57
+P00750,Ana,39,F,Cajamarca,Pediatría,20/08/2015,245.25
+P00751,Ana,51,M,null,null,01/11/2017,N/D
+P00752,Luis,57,NA,Lince,Consulta médica,11/10/2020,280.89
+P00753,Pedro,36,M,Callao,Laboratorio,02/09/2019,N/D
+P00754,Valeria,57,F,La Molina,Odontología,23/04/2022,72.17
+P00755,Carlos,67,F,Cajamarca,Pediatría,NA,317.7
+P00756,María,,F,La Molina,Laboratorio,12/04/2018,326.19
+P00757,Luis,54,M,Lince,Odontología,18/02/2018,39.56
+P00758,Miguel,41,F,Cajamarca,Ginecología,23/04/2024,362.52
+P00759,Lucía,84,F,,Pediatría,27/12/2018,N/D
+P00760,Pedro,12,M,Cajamarca,Pediatría,06/10/2024,385.98
+P00761,Pedro,64,M,Callao,Laboratorio,19/07/2018,313.72
+P00762,María,60,,La Molina,Ginecología,NA,410.9
+P00763,Lucía,51,M,Lince,NA,21/12/2022,267.3
+P00764,Carlos,28,F,Surco,,N/D,148.24
+P00765,María,49,null,Surco,,06/05/2017,410.53
+P00766,Pedro,60,M,Cajamarca,Pediatría,06/04/2015,463.93
+P00767,Sofía,19,F,La Molina,N/D,08/12/2020,348.09
+P00768,Lucía,53,M,Miraflores,Pediatría,06/01/2018,417.65
+P00769,Luis,75,M,Cajamarca,Consulta médica,23/07/2018,152.34
+P00770,Ana,65,F,La Molina,Pediatría,15/01/2022,124.35
+P00771,Sofía,31,F,Lince,Laboratorio,NA,
+P00772,Lucía,89,M,Callao,Ginecología,30/06/2015,424.37
+P00773,Pedro,35,F,Miraflores,Pediatría,23/08/2017,226.86
+P00774,Carlos,97,M,Miraflores,NA,17/11/2023,177.72
+P00775,Miguel,22,F,Lince,Laboratorio,10/12/2024,N/D
+P00776,Ana,5,F,null,Laboratorio,08/06/2015,61.67
+P00777,Valeria,2,F,Callao,Pediatría,07/04/2020,
+P00778,Lucía,45,F,Miraflores,Pediatría,28/12/2024,
+P00779,José,95,F,Lince,Consulta médica,27/06/2024,480.92
+P00780,Luis,60,F,Callao,Consulta médica,11/08/2017,271.23
+P00781,Miguel,46,M,Callao,Ginecología,01/03/2018,105.62
+P00782,Ana,23,F,Cajamarca,Ginecología,31/07/2021,NA
+P00783,María,N/D,F,Callao,Pediatría,18/06/2024,486.42
+P00784,José,61,M,La Molina,Emergencia,28/07/2015,354.07
+P00785,,,M,Surco,Consulta médica,23/01/2024,340.88
+P00786,Ana,26,M,Surco,Odontología,15/04/2021,405.4
+P00787,Carlos,54,F,N/D,Laboratorio,14/07/2023,297.81
+P00788,José,95,M,Cajamarca,Pediatría,23/04/2024,195.39
+P00789,Ana,81,F,Surco,Emergencia,19/09/2022,471.69
+P00790,Ana,61,M,Surco,Consulta médica,30/10/2021,184.44
+P00791,Pedro,1,F,La Molina,Laboratorio,21/03/2020,455.56
+P00792,Carlos,59,M,null,Pediatría,,85.25
+P00793,Pedro,77,F,San Isidro,Odontología,03/05/2020,93.41
+P00794,José,50,N/D,NA,Odontología,01/04/2023,114.03
+P00795,Lucía,35,null,Callao,Consulta médica,27/04/2016,352.43
+P00796,José,72,F,Lince,Consulta médica,21/07/2019,null
+P00797,Ana,62,NA,Surco,Emergencia,18/04/2016,423.86
+P00798,Lucía,66,M,La Molina,Pediatría,03/05/2023,196.86
+P00799,María,75,M,Surco,NA,03/10/2018,100.66
+P00800,Sofía,,F,Cajamarca,Consulta médica,07/03/2016,20.85
+P00801,Luis,20,F,San Isidro,Consulta médica,12/05/2017,253.22
+P00802,Miguel,,F,Cajamarca,Consulta médica,07/11/2022,106.2
+P00803,Sofía,3,F,San Isidro,Consulta médica,,NA
+P00804,Carlos,84,F,NA,Emergencia,31/01/2022,486.31
+P00805,José,27,F,N/D,Laboratorio,28/03/2023,186.44
+P00806,Carlos,61,F,La Molina,Pediatría,03/02/2017,276.85
+P00807,Sofía,1,F,Surco,Ginecología,31/12/2019,179.89
+P00808,Lucía,21,M,La Molina,Pediatría,10/07/2023,
+P00809,Luis,21,,Callao,Pediatría,10/06/2021,134.23
+P00810,Carlos,15,NA,Callao,Emergencia,18/09/2023,169.54
+P00811,Luis,78,F,Lince,Laboratorio,11/12/2020,155.6
+P00812,null,34,N/D,Surco,Ginecología,28/03/2015,229.89
+P00813,Valeria,null,M,Callao,Laboratorio,27/02/2020,N/D
+P00814,Sofía,25,F,Miraflores,Odontología,27/05/2017,261.18
+P00815,NA,NA,M,Cajamarca,Emergencia,15/04/2017,N/D
+P00816,Valeria,67,F,Surco,Ginecología,18/05/2018,495.46
+P00817,Lucía,73,M,La Molina,Odontología,04/01/2016,51.79
+P00818,Miguel,3,M,Cajamarca,Consulta médica,17/09/2016,462.62
+P00819,Pedro,18,N/D,San Isidro,Odontología,01/09/2020,N/D
+P00820,Sofía,77,,La Molina,Consulta médica,26/10/2020,85.6
+P00821,Lucía,73,F,Miraflores,Emergencia,23/02/2019,145.57
+P00822,,96,M,Lince,Consulta médica,01/10/2020,142.81
+P00823,N/D,80,M,N/D,Ginecología,03/02/2017,123.18
+P00824,Pedro,,F,Miraflores,Odontología,26/12/2024,120.27
+P00825,Luis,21,null,San Isidro,Odontología,14/02/2015,337.86
+P00826,NA,40,,Callao,Odontología,,154.73
+P00827,Carlos,51,F,Callao,Odontología,31/05/2019,422.06
+P00828,Lucía,84,F,Surco,Ginecología,16/06/2015,109.63
+P00829,Carlos,36,F,Miraflores,null,16/11/2015,
+P00830,María,N/D,F,Miraflores,Consulta médica,19/01/2024,384.32
+P00831,Lucía,97,M,La Molina,Pediatría,01/08/2016,402.32
+P00832,,85,F,Cajamarca,Emergencia,08/01/2017,129.38
+P00833,Valeria,84,F,La Molina,Ginecología,18/03/2021,440.04
+P00834,NA,30,F,San Isidro,Consulta médica,03/04/2016,152.52
+P00835,Lucía,97,M,Lince,Emergencia,05/06/2018,461.79
+P00836,Luis,N/D,NA,La Molina,Consulta médica,03/12/2020,364.17
+P00837,Pedro,59,M,La Molina,Emergencia,03/05/2024,N/D
+P00838,Luis,N/D,F,San Isidro,N/D,02/09/2021,416.75
+P00839,,N/D,M,Surco,Consulta médica,16/07/2022,null
+P00840,José,87,F,San Isidro,Pediatría,21/01/2022,313.52
+P00841,José,22,F,San Isidro,Consulta médica,01/07/2015,NA
+P00842,Ana,23,M,La Molina,Ginecología,24/06/2022,null
+P00843,María,59,M,La Molina,Ginecología,18/10/2024,42.83
+P00844,José,48,M,San Isidro,Ginecología,22/09/2018,486.46
+P00845,Lucía,60,M,Miraflores,Odontología,23/04/2023,193.58
+P00846,Pedro,NA,M,Callao,Emergencia,28/08/2023,192.12
+P00847,José,30,M,Miraflores,Pediatría,06/11/2016,184.88
+P00848,Miguel,6,F,Miraflores,Consulta médica,null,440.14
+P00849,Carlos,9,,Surco,Emergencia,23/08/2021,108.0
+P00850,Valeria,28,F,San Isidro,Laboratorio,06/05/2023,389.65
+P00851,Pedro,37,M,San Isidro,Consulta médica,12/09/2017,316.74
+P00852,Valeria,19,F,Callao,NA,31/08/2019,429.05
+P00853,Pedro,37,F,La Molina,Ginecología,04/01/2019,125.32
+P00854,Pedro,20,M,Cajamarca,,25/08/2024,183.35
+P00855,Pedro,92,M,La Molina,NA,07/11/2018,157.36
+P00856,Sofía,62,M,N/D,Odontología,17/01/2022,267.53
+P00857,Valeria,66,F,Lince,Ginecología,28/05/2016,352.89
+P00858,Ana,64,F,La Molina,Ginecología,24/03/2024,488.7
+P00859,Carlos,93,F,Lince,null,09/10/2016,301.21
+P00860,Carlos,65,F,Surco,Laboratorio,24/09/2023,165.91
+P00861,Pedro,,M,Callao,Emergencia,21/11/2020,345.77
+P00862,,14,F,Miraflores,Laboratorio,03/03/2015,142.37
+P00863,Miguel,12,F,Callao,Consulta médica,25/08/2023,154.96
+P00864,María,53,F,Callao,Emergencia,26/09/2022,32.23
+P00865,María,58,M,San Isidro,Emergencia,31/03/2015,263.35
+P00866,Carlos,11,M,Cajamarca,Laboratorio,04/04/2016,81.96
+P00867,José,78,F,La Molina,Pediatría,26/02/2015,323.72
+P00868,José,72,F,null,Odontología,22/12/2022,120.33
+P00869,Carlos,11,M,La Molina,Pediatría,11/06/2021,260.83
+P00870,Pedro,26,M,,Pediatría,24/03/2018,433.6
+P00871,Ana,97,M,Miraflores,Ginecología,03/06/2016,288.96
+P00872,Sofía,,N/D,San Isidro,Emergencia,20/06/2017,125.37
+P00873,María,87,F,Cajamarca,Odontología,26/02/2020,239.67
+P00874,Luis,99,F,San Isidro,Consulta médica,27/04/2019,362.4
+P00875,Pedro,84,M,Lince,,25/02/2024,264.09
+P00876,,75,F,Cajamarca,Odontología,23/09/2020,48.52
+P00877,Lucía,36,F,La Molina,Emergencia,27/03/2017,295.77
+P00878,Ana,51,M,Lince,Emergencia,17/10/2015,
+P00879,Sofía,26,F,N/D,Odontología,13/03/2019,null
+P00880,Ana,76,N/D,Lince,Emergencia,null,445.55
+P00881,Luis,5,M,San Isidro,Emergencia,21/09/2018,438.76
+P00882,Lucía,20,F,Cajamarca,Emergencia,23/09/2022,308.48
+P00883,Ana,27,M,Lince,Pediatría,21/05/2020,NA
+P00884,Ana,15,F,Miraflores,Ginecología,07/06/2016,54.98
+P00885,Ana,94,M,Cajamarca,Emergencia,09/06/2018,202.81
+P00886,Carlos,64,,San Isidro,Consulta médica,01/02/2019,331.49
+P00887,Luis,51,F,Callao,Consulta médica,03/05/2021,32.94
+P00888,Pedro,97,M,La Molina,Odontología,12/04/2022,239.49
+P00889,Miguel,77,F,Surco,Laboratorio,24/02/2020,null
+P00890,José,,F,La Molina,Emergencia,20/11/2022,
+P00891,María,90,F,Callao,Pediatría,30/10/2021,379.54
+P00892,Luis,99,F,Cajamarca,Laboratorio,18/09/2016,348.59
+P00893,María,87,M,Callao,Laboratorio,N/D,286.37
+P00894,María,27,M,Surco,Odontología,20/02/2017,NA
+P00895,Ana,47,M,null,Laboratorio,29/04/2023,201.4
+P00896,Lucía,71,M,Surco,Consulta médica,28/06/2021,365.05
+P00897,Pedro,79,M,Callao,Consulta médica,01/12/2018,182.76
+P00898,Lucía,45,M,Callao,Consulta médica,28/01/2016,N/D
+P00899,Carlos,59,M,San Isidro,Laboratorio,N/D,203.62
+P00900,Carlos,31,null,La Molina,Pediatría,07/11/2021,154.51
+P00901,Carlos,10,null,Lince,Consulta médica,,464.1
+P00902,Ana,81,F,La Molina,Ginecología,15/10/2017,245.77
+P00903,Pedro,4,M,Lince,Laboratorio,N/D,383.18
+P00904,Luis,19,M,Miraflores,Consulta médica,08/12/2021,104.36
+P00905,Pedro,40,M,Callao,Ginecología,28/05/2016,433.65
+P00906,Pedro,46,F,Miraflores,Emergencia,03/06/2024,301.96
+P00907,Lucía,62,null,Lince,Consulta médica,31/01/2018,36.19
+P00908,Luis,31,M,San Isidro,Ginecología,08/06/2015,291.97
+P00909,Pedro,56,F,Surco,Pediatría,19/07/2020,316.71
+P00910,Sofía,N/D,M,Miraflores,Consulta médica,06/03/2020,463.59
+P00911,Miguel,97,M,San Isidro,Laboratorio,12/11/2015,286.49
+P00912,Miguel,99,F,Miraflores,Emergencia,07/11/2017,196.33
+P00913,José,64,F,Cajamarca,Consulta médica,N/D,408.21
+P00914,Ana,1,F,Cajamarca,Emergencia,29/03/2023,344.78
+P00915,María,40,F,La Molina,Emergencia,31/12/2023,148.56
+P00916,NA,30,F,Surco,Pediatría,07/07/2016,105.32
+P00917,José,25,M,Cajamarca,Pediatría,21/10/2022,376.67
+P00918,Carlos,84,F,Callao,Consulta médica,01/01/2015,321.72
+P00919,Luis,70,F,La Molina,Ginecología,31/05/2019,290.86
+P00920,Miguel,20,M,Lince,Emergencia,22/01/2020,99.25
+P00921,Lucía,96,NA,San Isidro,Odontología,31/03/2016,499.63
+P00922,María,47,N/D,San Isidro,Consulta médica,23/12/2021,160.04
+P00923,María,42,M,Miraflores,Consulta médica,11/07/2016,431.5
+P00924,NA,30,F,Callao,Pediatría,19/07/2016,N/D
+P00925,María,63,F,Callao,Odontología,22/02/2019,245.51
+P00926,Luis,17,M,Cajamarca,Odontología,11/05/2019,316.89
+P00927,Pedro,28,F,Surco,Emergencia,01/04/2019,48.67
+P00928,Luis,32,F,La Molina,Pediatría,27/03/2015,98.48
+P00929,Luis,91,F,Lince,Laboratorio,16/01/2017,408.48
+P00930,José,69,M,La Molina,Consulta médica,31/07/2024,444.42
+P00931,N/D,,F,San Isidro,Emergencia,NA,63.65
+P00932,Luis,48,F,San Isidro,Ginecología,16/02/2015,87.32
+P00933,Pedro,71,F,Cajamarca,null,23/06/2020,87.61
+P00934,Valeria,,M,Surco,null,19/10/2020,470.98
+P00935,Miguel,NA,N/D,La Molina,,25/06/2024,261.06
+P00936,Miguel,NA,M,La Molina,Laboratorio,null,45.9
+P00937,Ana,NA,F,San Isidro,Odontología,30/06/2017,21.83
+P00938,Lucía,81,M,Lince,Ginecología,27/03/2024,239.97
+P00939,Ana,62,F,La Molina,Odontología,03/07/2022,472.84
+P00940,Pedro,64,F,La Molina,null,01/03/2019,391.41
+P00941,Pedro,,F,La Molina,null,02/09/2020,469.81
+P00942,Valeria,72,M,La Molina,Emergencia,12/06/2017,386.12
+P00943,José,24,M,Miraflores,NA,null,208.58
+P00944,Carlos,78,F,Callao,Consulta médica,06/11/2022,37.13
+P00945,NA,42,F,Cajamarca,Emergencia,11/08/2024,83.82
+P00946,null,35,M,Lince,null,20/02/2019,257.88
+P00947,Sofía,68,F,Surco,Ginecología,03/07/2022,null
+P00948,María,11,M,Surco,Ginecología,06/11/2024,28.36
+P00949,Valeria,66,F,Lince,Pediatría,17/07/2023,383.02
+P00950,Sofía,2,F,Callao,Odontología,07/11/2022,408.4
+P00951,,33,M,Lince,Emergencia,02/07/2017,127.87
+P00952,Luis,90,F,San Isidro,Emergencia,12/10/2018,446.36
+P00953,Pedro,N/D,M,Miraflores,Emergencia,13/09/2015,404.87
+P00954,Pedro,16,M,Callao,Odontología,05/12/2023,243.21
+P00955,José,31,M,Cajamarca,Emergencia,04/07/2022,173.51
+P00956,Carlos,6,M,Lince,Odontología,24/08/2022,212.33
+P00957,Valeria,null,M,San Isidro,Emergencia,08/11/2015,101.55
+P00958,Valeria,12,M,Callao,Laboratorio,28/02/2018,NA
+P00959,Miguel,41,F,Lince,,18/09/2018,190.96
+P00960,Sofía,23,F,Surco,Laboratorio,13/03/2023,462.52
+P00961,María,null,F,Miraflores,null,22/08/2024,22.16
+P00962,Luis,37,M,Surco,Ginecología,14/10/2018,467.73
+P00963,Lucía,27,M,Miraflores,Pediatría,N/D,66.47
+P00964,José,22,F,Callao,Laboratorio,24/04/2019,248.67
+P00965,Sofía,21,M,Lince,Odontología,02/04/2019,321.92
+P00966,Sofía,17,M,Lince,Odontología,21/11/2023,141.76
+P00967,José,34,F,San Isidro,Pediatría,03/02/2017,107.14
+P00968,Lucía,28,NA,La Molina,Consulta médica,12/05/2020,404.43
+P00969,José,4,F,Cajamarca,null,10/12/2023,44.89
+P00970,Luis,67,M,,Ginecología,20/03/2024,345.54
+P00971,Carlos,24,M,La Molina,Emergencia,01/04/2015,88.28
+P00972,Ana,null,M,N/D,Laboratorio,07/10/2023,116.69
+P00973,Pedro,84,F,Surco,Consulta médica,07/04/2020,159.77
+P00974,Carlos,89,M,Miraflores,Ginecología,NA,470.63
+P00975,Valeria,70,F,Surco,,19/04/2015,487.34
+P00976,José,N/D,F,Surco,Odontología,29/12/2015,471.67
+P00977,Sofía,63,M,Miraflores,Emergencia,24/08/2023,240.33
+P00978,Miguel,34,F,Surco,Ginecología,21/11/2016,187.75
+P00979,Sofía,45,M,Lince,Ginecología,21/08/2024,187.75
+P00980,María,67,M,Lince,null,01/01/2025,232.02
+P00981,María,33,F,Cajamarca,Laboratorio,01/08/2016,35.31
+P00982,Carlos,83,M,Miraflores,NA,07/02/2020,452.57
+P00983,Lucía,67,F,Surco,null,17/03/2020,120.55
+P00984,José,59,F,Surco,Ginecología,21/01/2015,434.69
+P00985,María,46,,Callao,Pediatría,15/12/2015,106.53
+P00986,José,29,F,San Isidro,NA,12/03/2017,230.01
+P00987,María,N/D,M,La Molina,Consulta médica,,54.16
+P00988,Pedro,78,F,Cajamarca,Odontología,05/07/2019,N/D
+P00989,Miguel,11,M,Callao,Emergencia,19/09/2022,351.54
+P00990,Ana,2,M,Miraflores,Pediatría,25/03/2023,95.16
+P00991,Miguel,95,M,null,Odontología,23/04/2023,266.18
+P00992,María,80,M,San Isidro,Consulta médica,14/10/2023,470.55
+P00993,José,63,F,Cajamarca,Laboratorio,29/03/2019,372.07
+P00994,Ana,18,F,Callao,Emergencia,29/01/2023,379.1
+P00995,NA,70,M,San Isidro,Laboratorio,13/01/2018,439.58
+P00996,Sofía,,M,Lince,Emergencia,22/06/2018,null
+P00997,Miguel,30,M,Miraflores,,14/05/2016,313.41
+P00998,Miguel,36,M,Cajamarca,Odontología,,112.79
+P00999,José,28,F,La Molina,null,18/04/2018,118.73
+P01000,Valeria,15,M,San Isidro,Laboratorio,12/12/2020,176.28
+P01001,Carlos,15,M,Miraflores,Emergencia,02/12/2024,167.68
+P01002,Pedro,null,M,San Isidro,Pediatría,23/07/2023,110.99
+P01003,Sofía,N/D,M,Miraflores,Laboratorio,28/05/2023,144.71
+P01004,Ana,35,NA,La Molina,Laboratorio,30/12/2020,292.08
+P01005,Ana,52,null,Cajamarca,Odontología,25/02/2016,440.18
+P01006,José,34,M,Lince,Pediatría,27/04/2021,N/D
+P01007,José,11,F,San Isidro,Consulta médica,26/01/2018,145.0
+P01008,Carlos,65,M,La Molina,Laboratorio,23/10/2020,61.98
+P01009,María,7,M,Lince,NA,09/03/2015,415.17
+P01010,Luis,6,F,Lince,Laboratorio,13/12/2019,101.13
+P01011,María,91,F,Cajamarca,Pediatría,30/06/2020,104.0
+P01012,Pedro,62,F,Cajamarca,Consulta médica,14/04/2018,158.95
+P01013,Valeria,43,M,Callao,Odontología,27/06/2022,478.86
+P01014,Carlos,63,F,Callao,Consulta médica,25/04/2020,190.49
+P01015,Valeria,8,F,San Isidro,Emergencia,15/09/2024,N/D
+P01016,Valeria,35,F,La Molina,Emergencia,09/11/2015,371.32
+P01017,Pedro,19,F,Cajamarca,Consulta médica,,142.05
+P01018,Miguel,15,M,Surco,Odontología,06/09/2016,248.01
+P01019,N/D,3,F,La Molina,Odontología,20/09/2018,269.0
+P01020,Carlos,97,M,Miraflores,Odontología,29/08/2018,426.53
+P01021,Luis,N/D,M,Miraflores,Laboratorio,07/09/2020,305.28
+P01022,Luis,68,F,Callao,Laboratorio,26/01/2015,NA
+P01023,José,,F,Miraflores,N/D,10/01/2023,210.64
+P01024,Valeria,38,F,Surco,Consulta médica,28/07/2020,203.29
+P01025,Miguel,8,F,San Isidro,Odontología,07/12/2021,364.77
+P01026,Miguel,92,M,Surco,Ginecología,15/11/2015,126.62
+P01027,Valeria,71,M,Lince,Pediatría,04/08/2023,121.49
+P01028,Miguel,22,M,N/D,Consulta médica,20/05/2021,402.63
+P01029,Ana,43,M,La Molina,Laboratorio,24/01/2018,73.78
+P01030,Valeria,N/D,M,Surco,Ginecología,13/08/2015,N/D
+P01031,Sofía,50,M,Callao,Odontología,05/06/2018,372.75
+P01032,,3,M,Cajamarca,Pediatría,16/06/2020,67.17
+P01033,Carlos,49,F,Callao,Laboratorio,07/02/2016,350.81
+P01034,Luis,4,F,Cajamarca,Laboratorio,29/08/2017,396.59
+P01035,José,18,F,Callao,Odontología,27/06/2017,null
+P01036,Luis,54,F,Miraflores,Pediatría,03/12/2016,N/D
+P01037,Valeria,4,M,Lince,Emergencia,23/09/2023,285.97
+P01038,Miguel,28,null,Miraflores,Ginecología,31/07/2024,68.61
+P01039,Ana,16,F,La Molina,Odontología,24/11/2015,
+P01040,José,92,M,Lince,Pediatría,29/09/2018,346.69
+P01041,Sofía,40,,Lince,Pediatría,01/08/2016,null
+P01042,Miguel,80,F,Surco,Ginecología,07/09/2019,154.51
+P01043,Luis,50,M,Miraflores,Pediatría,14/10/2023,95.33
+P01044,NA,47,M,Callao,Pediatría,08/02/2015,147.58
+P01045,María,N/D,M,Miraflores,Ginecología,28/02/2020,160.74
+P01046,Luis,99,M,Miraflores,Pediatría,30/11/2021,64.91
+P01047,Pedro,70,M,Callao,Pediatría,21/01/2020,409.79
+P01048,Valeria,51,M,Surco,Consulta médica,07/05/2024,120.5
+P01049,Sofía,70,F,Surco,Consulta médica,27/03/2018,
+P01050,Carlos,23,M,N/D,N/D,30/12/2023,NA
+P01051,José,,M,Surco,Emergencia,16/09/2019,428.43
+P01052,Pedro,91,M,Miraflores,Ginecología,27/02/2016,329.52
+P01053,María,,F,Callao,Consulta médica,09/04/2016,141.63
+P01054,Ana,7,F,San Isidro,Ginecología,09/09/2024,420.55
+P01055,María,74,F,La Molina,Ginecología,,null
+P01056,Sofía,5,M,Lince,Consulta médica,07/01/2015,289.18
+P01057,Lucía,79,F,,Emergencia,14/06/2019,248.74
+P01058,Ana,26,F,Miraflores,Pediatría,07/07/2024,336.75
+P01059,José,92,F,Surco,Consulta médica,15/08/2016,
+P01060,,95,M,Miraflores,Pediatría,21/02/2019,21.14
+P01061,Miguel,25,M,Surco,Odontología,08/09/2023,320.58
+P01062,Carlos,39,NA,La Molina,Laboratorio,03/09/2020,36.12
+P01063,Pedro,62,F,Miraflores,Odontología,25/11/2023,163.33
+P01064,Luis,64,F,Lince,Emergencia,11/10/2024,160.54
+P01065,Valeria,61,NA,San Isidro,Pediatría,04/10/2023,419.82
+P01066,María,12,F,NA,Odontología,03/10/2015,32.83
+P01067,Valeria,13,F,San Isidro,Laboratorio,22/03/2019,371.79
+P01068,Pedro,52,M,Lince,Consulta médica,28/06/2024,495.57
+P01069,Carlos,N/D,F,Surco,Odontología,24/04/2017,402.17
+P01070,,72,F,Callao,Odontología,,433.37
+P01071,María,50,NA,San Isidro,Odontología,01/12/2021,25.33
+P01072,Valeria,64,F,San Isidro,Emergencia,NA,450.39
+P01073,José,82,F,Cajamarca,NA,28/05/2024,256.91
+P01074,Miguel,19,F,Miraflores,Pediatría,03/02/2015,356.23
+P01075,Lucía,48,F,Cajamarca,Laboratorio,16/04/2020,null
+P01076,Lucía,90,F,San Isidro,Pediatría,13/09/2023,452.13
+P01077,Miguel,49,M,Cajamarca,Odontología,25/01/2017,432.94
+P01078,N/D,34,F,,Consulta médica,03/05/2020,350.37
+P01079,Lucía,15,M,Cajamarca,Emergencia,27/05/2019,330.63
+P01080,Miguel,22,M,Miraflores,Ginecología,06/06/2021,183.66
+P01081,Valeria,28,M,Miraflores,Laboratorio,07/02/2015,40.62
+P01082,José,31,M,Cajamarca,Odontología,07/08/2018,330.62
+P01083,María,39,F,La Molina,Consulta médica,25/09/2015,72.08
+P01084,Pedro,76,M,San Isidro,Emergencia,05/09/2016,407.56
+P01085,Valeria,61,F,San Isidro,Odontología,29/01/2015,150.54
+P01086,Miguel,36,F,San Isidro,Odontología,06/01/2021,442.8
+P01087,Ana,15,F,Callao,Odontología,06/12/2024,291.74
+P01088,María,81,M,N/D,Laboratorio,null,253.57
+P01089,Valeria,93,M,Lince,Odontología,20/11/2022,412.58
+P01090,Valeria,45,F,La Molina,Emergencia,20/09/2019,292.7
+P01091,Lucía,99,M,Miraflores,Consulta médica,22/03/2016,492.55
+P01092,N/D,91,F,Miraflores,Odontología,01/01/2017,417.99
+P01093,Ana,null,M,Callao,Consulta médica,N/D,349.89
+P01094,Ana,N/D,M,Lince,Ginecología,,NA
+P01095,Carlos,14,M,Lince,Emergencia,N/D,268.51
+P01096,José,98,NA,Callao,Odontología,24/12/2019,68.59
+P01097,María,35,M,La Molina,Pediatría,06/10/2021,379.33
+P01098,Carlos,98,M,Callao,Odontología,14/02/2018,430.3
+P01099,Luis,97,F,Callao,Odontología,04/03/2023,36.1
+P01100,NA,79,NA,Callao,N/D,04/07/2022,190.66
+P01101,Sofía,69,F,La Molina,Ginecología,16/06/2020,483.36
+P01102,Sofía,,M,San Isidro,Laboratorio,13/03/2019,320.02
+P01103,José,98,,Miraflores,Pediatría,26/02/2024,66.02
+P01104,Carlos,45,,San Isidro,Pediatría,28/03/2023,86.7
+P01105,Ana,49,F,Cajamarca,Pediatría,23/10/2023,156.63
+P01106,NA,41,M,Surco,Odontología,null,426.26
+P01107,José,null,F,Lince,Pediatría,25/07/2019,
+P01108,Miguel,,M,La Molina,Laboratorio,26/11/2018,486.2
+P01109,José,8,M,Cajamarca,NA,03/02/2023,325.35
+P01110,Miguel,9,M,La Molina,Consulta médica,04/01/2016,24.97
+P01111,Lucía,59,M,Cajamarca,Pediatría,04/02/2015,428.52
+P01112,María,75,NA,La Molina,N/D,08/07/2016,87.26
+P01113,N/D,73,M,Callao,Consulta médica,05/02/2018,185.6
+P01114,Luis,52,M,Cajamarca,Laboratorio,27/05/2016,
+P01115,Ana,51,F,San Isidro,Ginecología,23/05/2016,475.43
+P01116,Ana,49,M,La Molina,Ginecología,04/10/2016,308.06
+P01117,Ana,51,M,Lince,Consulta médica,26/09/2023,413.57
+P01118,null,55,F,Callao,Emergencia,02/04/2016,31.62
+P01119,María,81,F,Callao,Emergencia,03/06/2018,286.96
+P01120,Carlos,27,F,Miraflores,Laboratorio,24/04/2016,66.71
+P01121,Ana,13,F,Lince,Pediatría,16/03/2024,190.72
+P01122,Lucía,49,F,Miraflores,Odontología,07/01/2022,N/D
+P01123,Carlos,23,M,La Molina,Pediatría,27/06/2018,NA
+P01124,Sofía,,F,null,NA,01/11/2016,466.41
+P01125,N/D,3,F,Lince,,11/07/2023,N/D
+P01126,Carlos,23,M,,Ginecología,06/02/2024,
+P01127,Pedro,5,M,Callao,Ginecología,NA,151.04
+P01128,Carlos,NA,M,Miraflores,Laboratorio,27/08/2015,82.06
+P01129,María,71,M,null,Laboratorio,23/11/2017,171.89
+P01130,,N/D,M,La Molina,Pediatría,09/10/2022,465.29
+P01131,Pedro,40,M,La Molina,null,26/12/2016,421.86
+P01132,Pedro,81,M,Miraflores,,,N/D
+P01133,Miguel,64,F,Surco,Consulta médica,18/06/2019,267.63
+P01134,Lucía,62,F,Callao,Odontología,17/02/2018,229.05
+P01135,Sofía,,F,Surco,Consulta médica,28/05/2022,489.11
+P01136,Ana,18,M,Surco,Odontología,31/05/2023,440.06
+P01137,Luis,10,M,Cajamarca,Emergencia,19/04/2019,122.4
+P01138,Sofía,27,M,Cajamarca,Laboratorio,12/10/2018,null
+P01139,null,97,M,Surco,Consulta médica,03/05/2019,390.94
+P01140,Valeria,72,M,Miraflores,Emergencia,17/08/2021,NA
+P01141,Ana,99,M,Lince,Odontología,09/04/2019,405.81
+P01142,María,77,F,Surco,N/D,02/01/2023,432.47
+P01143,null,56,M,La Molina,Laboratorio,25/07/2023,43.61
+P01144,Pedro,8,F,San Isidro,Pediatría,18/12/2016,480.55
+P01145,N/D,20,F,San Isidro,N/D,20/09/2017,317.23
+P01146,Lucía,93,F,Miraflores,Odontología,N/D,143.01
+P01147,Miguel,26,F,Callao,Pediatría,05/12/2022,NA
+P01148,Miguel,90,F,Callao,Laboratorio,12/06/2023,134.1
+P01149,Lucía,35,M,Miraflores,NA,23/03/2022,35.06
+P01150,Miguel,54,M,Lince,NA,N/D,182.48
+P01151,Ana,95,M,Cajamarca,Laboratorio,31/01/2023,23.02
+P01152,Miguel,83,F,Cajamarca,Emergencia,30/11/2016,110.61
+P01153,Ana,49,M,Callao,Consulta médica,13/08/2016,null
+P01154,Lucía,27,M,NA,Odontología,04/08/2017,106.94
+P01155,Lucía,45,F,Callao,Pediatría,28/08/2018,309.19
+P01156,María,88,M,Callao,Emergencia,24/01/2020,267.29
+P01157,Carlos,15,F,San Isidro,Emergencia,20/10/2015,338.9
+P01158,Lucía,76,,Lince,Laboratorio,03/04/2015,277.58
+P01159,Sofía,46,F,Miraflores,Odontología,23/06/2020,191.06
+P01160,Miguel,99,N/D,Surco,Ginecología,28/03/2017,382.57
+P01161,Ana,74,M,Lince,Ginecología,07/05/2021,490.66
+P01162,Sofía,65,F,null,Ginecología,,193.26
+P01163,Ana,46,F,Surco,Pediatría,29/01/2017,300.46
+P01164,Lucía,N/D,,San Isidro,Ginecología,10/06/2018,70.45
+P01165,Sofía,,M,Callao,NA,N/D,105.9
+P01166,Ana,53,M,Miraflores,Odontología,10/06/2017,254.47
+P01167,Carlos,46,M,Surco,Ginecología,10/09/2015,122.39
+P01168,Carlos,63,M,null,Consulta médica,18/01/2020,422.31
+P01169,Valeria,92,N/D,La Molina,Laboratorio,04/09/2019,115.46
+P01170,Pedro,9,null,La Molina,Odontología,29/12/2020,125.4
+P01171,José,90,null,NA,Consulta médica,08/09/2019,326.57
+P01172,María,53,F,Miraflores,Ginecología,19/12/2016,152.33
+P01173,Pedro,2,N/D,Surco,,15/03/2018,205.6
+P01174,Pedro,28,M,Cajamarca,Odontología,,266.58
+P01175,Lucía,71,F,San Isidro,Laboratorio,20/10/2020,365.75
+P01176,Miguel,85,M,Cajamarca,,09/02/2016,183.59
+P01177,José,5,NA,Cajamarca,Laboratorio,15/04/2017,393.69
+P01178,Miguel,58,F,Cajamarca,Laboratorio,30/11/2024,150.4
+P01179,José,2,M,Cajamarca,Pediatría,15/05/2015,351.34
+P01180,Carlos,88,M,Cajamarca,Ginecología,30/09/2021,213.88
+P01181,José,50,F,Surco,Ginecología,15/10/2019,153.16
+P01182,José,38,M,,Pediatría,15/05/2020,392.77
+P01183,Ana,37,NA,Cajamarca,Pediatría,09/05/2017,214.37
+P01184,Lucía,,M,Lince,Ginecología,03/04/2015,117.83
+P01185,null,5,M,Cajamarca,Consulta médica,13/09/2017,270.64
+P01186,Sofía,null,F,Cajamarca,Ginecología,22/06/2017,67.72
+P01187,Pedro,82,NA,San Isidro,Emergencia,06/06/2017,450.88
+P01188,Valeria,29,F,Surco,Emergencia,25/12/2015,241.76
+P01189,Pedro,20,F,NA,Laboratorio,26/10/2020,467.45
+P01190,Ana,NA,M,Surco,Odontología,02/05/2024,241.22
+P01191,Valeria,43,M,Miraflores,,02/12/2016,297.81
+P01192,Sofía,44,M,Cajamarca,Odontología,28/08/2015,432.7
+P01193,María,38,M,NA,,28/04/2019,316.82
+P01194,Pedro,99,M,Miraflores,Ginecología,16/03/2023,135.06
+P01195,Ana,7,M,N/D,Ginecología,08/09/2017,417.7
+P01196,Luis,53,M,San Isidro,Pediatría,null,412.42
+P01197,María,10,M,null,Emergencia,14/07/2024,299.17
+P01198,N/D,73,F,San Isidro,Laboratorio,06/07/2015,388.61
+P01199,,21,F,Lince,Ginecología,27/07/2024,296.25
+P01200,Valeria,92,F,Cajamarca,Odontología,11/09/2023,55.59
+P01201,Luis,16,F,Callao,Emergencia,10/03/2019,408.25
+P01202,Sofía,N/D,M,San Isidro,Emergencia,05/09/2020,158.31
+P01203,,6,M,Cajamarca,Laboratorio,16/08/2020,35.58
+P01204,Lucía,87,M,Lince,Pediatría,02/02/2019,63.11
+P01205,Sofía,67,F,Lince,Laboratorio,28/08/2020,NA
+P01206,Sofía,N/D,N/D,La Molina,Emergencia,11/09/2022,214.93
+P01207,María,26,F,La Molina,Emergencia,05/08/2016,
+P01208,NA,60,F,San Isidro,Consulta médica,30/04/2023,236.58
+P01209,María,N/D,M,San Isidro,Odontología,02/02/2022,81.31
+P01210,Ana,37,M,Callao,Laboratorio,12/05/2024,380.14
+P01211,Pedro,95,M,NA,Pediatría,09/05/2021,135.78
+P01212,Sofía,29,F,Callao,Emergencia,05/05/2024,205.24
+P01213,Pedro,6,F,Cajamarca,Consulta médica,17/12/2022,451.81
+P01214,Ana,95,F,N/D,Pediatría,21/05/2020,416.85
+P01215,José,42,F,Miraflores,Emergencia,N/D,266.92
+P01216,Ana,40,F,Miraflores,Emergencia,18/07/2022,84.79
+P01217,Pedro,88,M,NA,null,18/01/2024,471.43
+P01218,Carlos,76,F,Callao,Ginecología,null,433.07
+P01219,Ana,59,M,La Molina,Laboratorio,01/09/2019,321.83
+P01220,Pedro,36,F,Lince,N/D,08/11/2022,324.54
+P01221,Pedro,32,M,Miraflores,null,01/07/2024,170.62
+P01222,Lucía,20,F,null,Ginecología,20/09/2023,269.46
+P01223,Pedro,N/D,M,Miraflores,Emergencia,05/10/2024,120.75
+P01224,Luis,25,F,Cajamarca,Emergencia,NA,386.92
+P01225,Miguel,N/D,F,Surco,Pediatría,N/D,97.12
+P01226,María,70,F,Callao,Ginecología,07/08/2024,111.88
+P01227,Luis,94,F,La Molina,Pediatría,08/08/2017,497.87
+P01228,Sofía,52,F,La Molina,Consulta médica,05/04/2018,165.86
+P01229,Luis,30,F,Lince,Pediatría,02/03/2015,371.25
+P01230,Carlos,61,M,La Molina,Odontología,14/01/2016,481.79
+P01231,Sofía,64,F,La Molina,Odontología,05/02/2017,414.08
+P01232,María,68,M,null,Odontología,01/04/2015,186.86
+P01233,Lucía,13,M,Cajamarca,,02/02/2023,123.22
+P01234,Ana,2,F,Cajamarca,Odontología,03/03/2024,80.14
+P01235,Carlos,56,M,Cajamarca,Pediatría,,234.84
+P01236,Luis,71,F,La Molina,,04/08/2020,461.26
+P01237,Luis,89,NA,Callao,Pediatría,25/06/2015,70.23
+P01238,José,74,M,San Isidro,Laboratorio,11/02/2016,
+P01239,Lucía,52,M,N/D,Laboratorio,22/04/2020,220.39
+P01240,Lucía,86,M,Callao,N/D,09/10/2016,265.1
+P01241,José,NA,F,NA,Odontología,26/05/2018,292.19
+P01242,Lucía,67,M,null,Emergencia,02/05/2021,495.35
+P01243,Luis,74,M,Cajamarca,Ginecología,,null
+P01244,María,null,M,null,Laboratorio,20/06/2022,243.09
+P01245,Carlos,67,M,Cajamarca,Ginecología,18/04/2022,232.98
+P01246,Sofía,79,F,Miraflores,Odontología,11/01/2019,
+P01247,María,94,F,Cajamarca,Emergencia,07/08/2021,375.67
+P01248,José,5,M,San Isidro,Emergencia,25/07/2015,443.71
+P01249,Valeria,78,F,San Isidro,Laboratorio,15/06/2024,360.49
+P01250,María,91,M,Lince,Emergencia,30/12/2024,52.4
+P01251,Ana,5,NA,Surco,Pediatría,10/01/2017,88.69
+P01252,N/D,39,F,Callao,Pediatría,30/11/2019,229.33
+P01253,Miguel,80,F,Cajamarca,Ginecología,05/07/2016,
+P01254,Miguel,36,,La Molina,NA,06/06/2023,68.7
+P01255,Pedro,22,null,Surco,Odontología,04/09/2017,138.27
+P01256,María,10,M,Callao,Ginecología,23/10/2017,386.18
+P01257,Lucía,64,F,Surco,Laboratorio,01/02/2023,270.69
+P01258,Ana,10,F,Miraflores,Consulta médica,08/04/2019,499.91
+P01259,Lucía,92,F,La Molina,Emergencia,02/09/2020,27.66
+P01260,Miguel,5,null,Lince,Emergencia,12/09/2018,367.29
+P01261,Sofía,87,M,Cajamarca,Emergencia,18/09/2024,null
+P01262,Valeria,22,M,Miraflores,Consulta médica,16/09/2016,329.85
+P01263,N/D,70,M,N/D,null,02/11/2022,245.68
+P01264,Miguel,59,F,Cajamarca,Odontología,24/10/2017,311.53
+P01265,Lucía,75,M,La Molina,Emergencia,31/05/2023,152.81
+P01266,Sofía,21,M,Callao,Odontología,19/01/2023,320.21
+P01267,María,12,M,N/D,Laboratorio,NA,185.4
+P01268,Sofía,93,F,San Isidro,null,N/D,62.46
+P01269,Valeria,38,M,Surco,Pediatría,30/08/2019,471.43
+P01270,Luis,23,F,NA,Laboratorio,04/06/2018,392.63
+P01271,Miguel,98,F,Miraflores,Emergencia,01/10/2023,346.8
+P01272,Valeria,86,F,La Molina,Pediatría,19/01/2019,460.73
+P01273,José,4,M,Miraflores,Consulta médica,01/01/2016,24.65
+P01274,Carlos,79,F,Miraflores,N/D,01/10/2019,250.49
+P01275,José,21,M,Callao,Pediatría,20/12/2016,
+P01276,Valeria,13,M,Surco,Consulta médica,22/05/2022,376.53
+P01277,Valeria,98,M,Cajamarca,Emergencia,22/05/2023,44.35
+P01278,Valeria,79,F,Callao,Consulta médica,09/11/2015,357.71
+P01279,María,N/D,M,San Isidro,N/D,09/04/2015,
+P01280,Miguel,43,M,Surco,Pediatría,N/D,113.7
+P01281,Carlos,79,M,Surco,Pediatría,21/11/2022,null
+P01282,María,92,F,Cajamarca,Pediatría,27/12/2020,443.23
+P01283,José,21,M,Cajamarca,Ginecología,01/12/2015,
+P01284,Luis,,null,Miraflores,Emergencia,05/10/2019,414.45
+P01285,Ana,57,M,Miraflores,Emergencia,24/06/2021,387.79
+P01286,Miguel,25,M,Lince,Laboratorio,21/04/2022,383.62
+P01287,Miguel,52,M,Surco,Odontología,07/03/2024,454.97
+P01288,Miguel,65,F,La Molina,Odontología,20/04/2019,382.82
+P01289,María,60,M,Surco,Odontología,10/09/2016,391.53
+P01290,,53,F,San Isidro,Odontología,11/06/2019,416.87
+P01291,Carlos,5,M,La Molina,Odontología,10/04/2020,37.24
+P01292,Ana,68,M,San Isidro,NA,27/04/2015,455.63
+P01293,Sofía,null,M,Cajamarca,Ginecología,30/05/2016,308.96
+P01294,Luis,69,F,La Molina,Consulta médica,15/08/2016,400.47
+P01295,María,12,F,Lince,Emergencia,16/06/2024,167.41
+P01296,María,76,M,Miraflores,Laboratorio,10/02/2021,390.31
+P01297,Ana,12,M,La Molina,Laboratorio,17/11/2017,454.31
+P01298,Pedro,72,M,N/D,Pediatría,NA,201.26
+P01299,Sofía,45,M,Lince,Laboratorio,29/06/2015,158.17
+P01300,N/D,84,M,Surco,Consulta médica,18/03/2020,110.22
+P01301,Luis,22,F,Surco,,17/06/2016,65.11
+P01302,Pedro,N/D,M,La Molina,Consulta médica,27/08/2018,229.75
+P01303,Miguel,10,F,Cajamarca,null,19/08/2019,95.52
+P01304,Lucía,48,F,,Emergencia,20/01/2015,281.9
+P01305,María,49,M,Surco,Emergencia,08/09/2019,50.79
+P01306,Valeria,69,F,Callao,Consulta médica,23/04/2022,
+P01307,José,75,F,Surco,Ginecología,15/02/2022,43.75
+P01308,Ana,31,F,Lince,Consulta médica,N/D,275.75
+P01309,Lucía,87,M,Callao,Pediatría,05/07/2015,121.5
+P01310,Ana,18,F,Surco,Ginecología,null,267.75
+P01311,Lucía,9,F,Lince,Emergencia,11/09/2023,409.95
+P01312,Miguel,32,NA,Cajamarca,Pediatría,14/01/2018,380.96
+P01313,Luis,72,F,null,Consulta médica,05/09/2024,209.89
+P01314,José,84,M,Cajamarca,Consulta médica,null,104.42
+P01315,José,39,F,Miraflores,Odontología,,
+P01316,Lucía,1,F,Miraflores,Odontología,26/02/2018,248.07
+P01317,Pedro,10,F,Callao,Emergencia,01/08/2017,347.69
+P01318,Ana,36,M,Surco,Laboratorio,12/09/2018,25.86
+P01319,Carlos,null,M,Surco,Pediatría,15/02/2015,121.32
+P01320,Luis,69,F,Miraflores,Odontología,16/01/2020,32.31
+P01321,Sofía,9,F,La Molina,Consulta médica,19/11/2020,163.92
+P01322,Pedro,7,,Miraflores,Emergencia,18/08/2016,225.01
+P01323,N/D,95,M,La Molina,Ginecología,21/05/2024,151.11
+P01324,Luis,NA,M,Callao,Ginecología,21/01/2015,329.91
+P01325,Carlos,93,F,Cajamarca,Odontología,26/03/2021,null
+P01326,Luis,86,F,Callao,Laboratorio,06/12/2018,340.51
+P01327,Luis,9,F,Miraflores,Laboratorio,,434.64
+P01328,Luis,15,F,San Isidro,Laboratorio,02/07/2023,166.2
+P01329,María,77,F,Lince,Ginecología,19/07/2022,404.0
+P01330,Sofía,31,N/D,Callao,Emergencia,20/06/2016,306.36
+P01331,María,10,M,Lince,Odontología,05/03/2023,141.99
+P01332,Luis,2,F,Surco,Ginecología,18/05/2018,
+P01333,Ana,14,F,Cajamarca,Pediatría,18/09/2022,82.47
+P01334,Luis,,M,,Pediatría,14/10/2023,N/D
+P01335,Valeria,72,F,Miraflores,NA,09/03/2016,127.87
+P01336,Lucía,32,M,Callao,Emergencia,19/02/2023,272.32
+P01337,María,2,F,La Molina,Pediatría,07/03/2018,202.33
+P01338,Carlos,54,F,Cajamarca,Emergencia,20/07/2023,442.75
+P01339,Pedro,47,F,Miraflores,Consulta médica,15/02/2022,460.97
+P01340,Carlos,31,F,Lince,Consulta médica,,247.65
+P01341,Luis,42,F,La Molina,Ginecología,22/01/2019,111.56
+P01342,Luis,84,M,Miraflores,Pediatría,,42.94
+P01343,Pedro,22,M,San Isidro,Consulta médica,null,333.75
+P01344,Pedro,NA,M,N/D,Consulta médica,13/03/2020,266.55
+P01345,Sofía,61,F,Lince,Odontología,27/06/2023,N/D
+P01346,Lucía,47,F,San Isidro,Laboratorio,30/10/2019,402.95
+P01347,Pedro,4,M,,Ginecología,24/09/2024,205.03
+P01348,José,30,F,,Emergencia,31/08/2016,374.94
+P01349,Miguel,91,M,Miraflores,Laboratorio,12/05/2018,202.4
+P01350,Miguel,53,M,Cajamarca,Pediatría,15/02/2017,
+P01351,María,35,F,Miraflores,Laboratorio,27/02/2022,305.22
+P01352,Luis,42,M,La Molina,Laboratorio,30/04/2015,233.82
+P01353,Valeria,8,F,Miraflores,Odontología,17/12/2016,263.63
+P01354,Pedro,,F,Lince,N/D,09/09/2019,220.04
+P01355,Miguel,85,M,Lince,Ginecología,24/07/2024,132.82
+P01356,Carlos,48,M,Surco,Pediatría,29/05/2017,341.03
+P01357,Lucía,N/D,NA,Miraflores,Ginecología,21/03/2021,null
+P01358,Lucía,95,F,Lince,Laboratorio,27/11/2016,257.42
+P01359,Luis,43,F,Lince,Ginecología,02/06/2016,159.97
+P01360,Ana,78,NA,Surco,Laboratorio,29/02/2024,N/D
+P01361,Pedro,71,F,Surco,Emergencia,14/08/2019,422.53
+P01362,María,13,F,Lince,Consulta médica,26/09/2015,465.23
+P01363,Miguel,49,M,Cajamarca,Pediatría,04/11/2022,154.47
+P01364,Ana,60,M,La Molina,Pediatría,31/01/2018,293.45
+P01365,Valeria,49,M,Callao,Emergencia,,142.71
+P01366,NA,91,M,Miraflores,Pediatría,18/04/2015,421.95
+P01367,Carlos,23,F,NA,Laboratorio,02/08/2017,152.3
+P01368,Ana,90,,Callao,Pediatría,25/12/2019,220.49
+P01369,Valeria,24,M,,Emergencia,N/D,57.03
+P01370,José,32,M,Lince,Odontología,22/12/2015,26.55
+P01371,Sofía,89,NA,null,,23/10/2018,289.47
+P01372,Miguel,,F,Lince,Odontología,26/05/2015,98.64
+P01373,Ana,57,M,La Molina,Odontología,12/07/2024,177.55
+P01374,Miguel,54,M,Callao,Odontología,03/02/2020,383.25
+P01375,Sofía,66,F,Miraflores,N/D,null,145.89
+P01376,Valeria,47,M,San Isidro,Laboratorio,17/05/2018,446.03
+P01377,Miguel,7,M,Miraflores,Emergencia,03/07/2016,183.02
+P01378,Sofía,10,M,San Isidro,Ginecología,05/07/2016,123.72
+P01379,Miguel,82,M,Miraflores,Laboratorio,20/08/2017,380.84
+P01380,Luis,19,M,Surco,Laboratorio,16/07/2017,118.17
+P01381,Valeria,28,F,San Isidro,Laboratorio,13/05/2022,360.08
+P01382,José,11,M,San Isidro,Odontología,,33.87
+P01383,Luis,NA,M,Cajamarca,Pediatría,NA,435.24
+P01384,Miguel,58,null,Cajamarca,Ginecología,29/09/2018,263.32
+P01385,Miguel,56,M,Cajamarca,Odontología,27/05/2016,101.73
+P01386,Valeria,29,F,Callao,Odontología,28/05/2022,365.91
+P01387,José,87,F,Lince,Consulta médica,15/07/2020,472.87
+P01388,Miguel,43,M,San Isidro,Odontología,18/06/2016,N/D
+P01389,María,25,F,Surco,Odontología,05/06/2015,175.66
+P01390,Sofía,25,F,Cajamarca,Emergencia,26/03/2022,335.16
+P01391,José,66,F,Miraflores,Ginecología,16/08/2020,163.61
+P01392,Lucía,51,F,Surco,Emergencia,null,387.55
+P01393,Carlos,49,M,San Isidro,,17/10/2023,236.96
+P01394,Pedro,72,F,Cajamarca,Odontología,29/12/2018,156.84
+P01395,Ana,52,M,La Molina,Emergencia,11/12/2020,305.46
+P01396,Lucía,38,NA,Cajamarca,Emergencia,15/09/2022,179.67
+P01397,Luis,26,M,Callao,Ginecología,05/09/2024,272.03
+P01398,Miguel,74,F,Surco,Consulta médica,01/03/2015,170.75
+P01399,Miguel,94,F,San Isidro,Odontología,15/10/2019,363.18
+P01400,José,30,null,Miraflores,Emergencia,,278.23
+P01401,Pedro,43,M,San Isidro,Ginecología,20/01/2022,68.06
+P01402,Miguel,90,NA,Cajamarca,Consulta médica,01/11/2015,60.41
+P01403,Ana,23,F,La Molina,N/D,18/06/2020,426.94
+P01404,José,88,M,Lince,Emergencia,06/05/2015,276.64
+P01405,Ana,58,F,La Molina,Emergencia,09/01/2023,391.96
+P01406,Ana,14,M,Surco,Emergencia,01/12/2015,203.4
+P01407,Luis,35,M,,Laboratorio,26/08/2015,310.0
+P01408,José,64,M,Callao,Consulta médica,01/11/2017,292.04
+P01409,José,46,M,Surco,Odontología,18/09/2023,499.75
+P01410,Lucía,63,N/D,Callao,Pediatría,24/12/2023,344.25
+P01411,Ana,28,null,Miraflores,Pediatría,14/04/2021,468.98
+P01412,José,36,F,Callao,Ginecología,21/07/2023,118.57
+P01413,Miguel,37,F,Cajamarca,Emergencia,24/05/2021,355.29
+P01414,Valeria,45,M,Cajamarca,Consulta médica,05/06/2018,354.13
+P01415,,53,M,Surco,NA,14/09/2016,235.81
+P01416,Miguel,28,M,Lince,Odontología,05/04/2017,189.0
+P01417,José,11,M,La Molina,Emergencia,16/04/2020,N/D
+P01418,Carlos,10,M,Cajamarca,Consulta médica,23/05/2020,346.15
+P01419,Miguel,NA,M,Callao,Pediatría,13/01/2017,331.83
+P01420,Lucía,93,F,La Molina,Emergencia,22/12/2020,357.33
+P01421,Pedro,43,F,Surco,Emergencia,NA,279.72
+P01422,Pedro,76,NA,San Isidro,Emergencia,NA,437.75
+P01423,Miguel,51,M,San Isidro,NA,10/11/2024,380.27
+P01424,María,12,M,Miraflores,Emergencia,27/08/2022,384.89
+P01425,NA,20,M,Surco,Consulta médica,20/06/2021,N/D
+P01426,NA,23,F,Miraflores,Odontología,14/03/2016,63.29
+P01427,María,N/D,M,NA,null,07/10/2016,120.91
+P01428,Carlos,69,M,Surco,Ginecología,null,40.37
+P01429,Luis,58,F,Lince,N/D,25/03/2021,269.78
+P01430,N/D,99,,Miraflores,Laboratorio,02/11/2022,258.44
+P01431,Ana,93,M,Lince,Emergencia,27/12/2024,46.97
+P01432,Ana,2,F,Callao,Odontología,19/08/2024,201.93
+P01433,Luis,62,M,Lince,Laboratorio,11/03/2016,423.4
+P01434,Luis,39,,San Isidro,Ginecología,26/06/2016,336.02
+P01435,Carlos,87,M,La Molina,Ginecología,27/03/2021,423.79
+P01436,Pedro,97,F,Cajamarca,Pediatría,19/05/2021,237.3
+P01437,Pedro,59,F,Surco,Laboratorio,18/09/2024,50.46
+P01438,null,NA,F,,Pediatría,25/12/2024,371.32
+P01439,José,11,F,NA,Odontología,,429.87
+P01440,Valeria,63,null,Surco,Ginecología,15/10/2017,252.89
+P01441,Valeria,97,F,La Molina,Pediatría,31/08/2018,251.26
+P01442,Lucía,99,M,Lince,N/D,12/08/2019,75.11
+P01443,Ana,78,M,San Isidro,Pediatría,27/05/2017,268.71
+P01444,Miguel,57,F,,Laboratorio,11/03/2023,null
+P01445,Pedro,23,NA,Surco,Pediatría,12/02/2020,420.78
+P01446,José,75,F,Miraflores,Ginecología,31/05/2015,162.02
+P01447,Valeria,95,F,Lince,Ginecología,12/06/2022,194.84
+P01448,María,86,F,Callao,Pediatría,23/04/2018,346.22
+P01449,Pedro,57,M,San Isidro,,21/12/2021,329.54
+P01450,María,10,M,Callao,Ginecología,21/09/2020,353.43
+P01451,NA,69,F,La Molina,Laboratorio,02/11/2021,131.93
+P01452,N/D,NA,F,Cajamarca,Ginecología,17/02/2023,466.59
+P01453,Valeria,20,M,Lince,Emergencia,19/09/2024,55.02
+P01454,María,66,F,La Molina,Ginecología,30/12/2017,212.37
+P01455,Pedro,48,null,Surco,Laboratorio,11/02/2019,241.59
+P01456,Sofía,63,M,null,N/D,07/09/2018,NA
+P01457,María,70,F,Cajamarca,Laboratorio,24/04/2022,92.76
+P01458,Carlos,18,F,Cajamarca,Laboratorio,22/09/2023,324.42
+P01459,José,30,M,Lince,Ginecología,27/02/2023,459.41
+P01460,NA,36,M,La Molina,Laboratorio,26/06/2017,294.91
+P01461,María,44,F,Callao,Pediatría,23/06/2024,221.84
+P01462,José,40,M,null,Ginecología,05/03/2023,92.28
+P01463,Valeria,55,M,San Isidro,Consulta médica,23/08/2016,189.72
+P01464,Lucía,15,M,La Molina,Emergencia,10/12/2017,269.02
+P01465,Ana,62,F,La Molina,Pediatría,26/01/2024,411.89
+P01466,Lucía,66,F,Surco,N/D,24/05/2024,45.68
+P01467,Sofía,84,F,Callao,Laboratorio,14/08/2021,42.07
+P01468,Luis,7,M,San Isidro,Consulta médica,12/10/2022,336.4
+P01469,María,86,F,Miraflores,Ginecología,16/05/2022,326.42
+P01470,José,68,F,Callao,Ginecología,01/06/2020,366.45
+P01471,María,32,M,La Molina,Laboratorio,26/12/2015,89.79
+P01472,,87,F,null,null,15/03/2017,328.91
+P01473,José,10,F,Cajamarca,Emergencia,03/12/2016,295.89
+P01474,Sofía,71,F,Miraflores,Consulta médica,07/10/2020,
+P01475,Sofía,85,M,Surco,Odontología,N/D,441.75
+P01476,N/D,75,F,Miraflores,Ginecología,null,383.07
+P01477,Sofía,41,NA,Cajamarca,Ginecología,20/08/2019,N/D
+P01478,Valeria,81,M,N/D,Odontología,13/04/2018,184.15
+P01479,Luis,10,M,Cajamarca,Emergencia,28/05/2021,482.74
+P01480,Miguel,94,M,Callao,Consulta médica,09/04/2019,323.88
+P01481,Sofía,24,F,Cajamarca,Laboratorio,06/11/2019,398.28
+P01482,Carlos,56,F,Callao,Laboratorio,14/03/2015,NA
+P01483,Luis,N/D,F,La Molina,Ginecología,22/11/2021,35.67
+P01484,Luis,,N/D,Callao,Emergencia,28/03/2018,209.96
+P01485,NA,87,F,Callao,Consulta médica,NA,211.84
+P01486,Pedro,30,F,San Isidro,Consulta médica,31/05/2024,359.11
+P01487,Ana,67,F,San Isidro,Pediatría,23/07/2020,32.59
+P01488,Miguel,40,M,Cajamarca,NA,08/09/2022,421.68
+P01489,Luis,96,F,Callao,Odontología,17/09/2015,154.18
+P01490,Carlos,32,F,Surco,Odontología,23/01/2024,209.27
+P01491,Lucía,77,M,Lince,Laboratorio,19/02/2020,297.34
+P01492,Sofía,75,M,Callao,Odontología,27/08/2023,47.21
+P01493,Valeria,5,F,Miraflores,Ginecología,13/01/2019,209.01
+P01494,NA,53,F,Callao,Ginecología,04/08/2019,279.57
+P01495,Miguel,36,F,Callao,Emergencia,18/01/2019,405.57
+P01496,Carlos,42,M,La Molina,Pediatría,20/10/2019,430.04
+P01497,,55,M,Cajamarca,Pediatría,01/06/2016,338.48
+P01498,,,M,La Molina,Consulta médica,01/07/2023,368.19
+P01499,NA,46,M,Surco,Pediatría,18/07/2018,345.36
+P01500,Sofía,18,NA,Miraflores,NA,27/10/2021,32.77
+P01501,Valeria,null,N/D,Miraflores,Pediatría,06/01/2022,194.52
+P01502,Valeria,57,M,Lince,Laboratorio,04/05/2023,NA
+P01503,Luis,88,F,Callao,Pediatría,16/03/2023,350.0
+P01504,Pedro,34,F,Miraflores,Ginecología,26/06/2016,189.9
+P01505,Sofía,76,M,Lince,Ginecología,21/05/2015,22.38
+P01506,Luis,94,F,Cajamarca,Ginecología,10/10/2019,468.35
+P01507,Valeria,72,M,La Molina,Pediatría,26/12/2015,456.61
+P01508,null,92,M,Surco,Laboratorio,06/09/2017,79.67
+P01509,María,65,F,San Isidro,Emergencia,14/10/2019,296.8
+P01510,Carlos,18,M,Miraflores,Pediatría,20/10/2017,399.33
+P01511,Carlos,83,F,Miraflores,Consulta médica,13/01/2023,65.13
+P01512,Luis,93,M,La Molina,Emergencia,null,384.76
+P01513,Valeria,36,M,Surco,Laboratorio,05/01/2017,433.45
+P01514,N/D,23,F,Lince,Consulta médica,18/06/2024,313.6
+P01515,Valeria,25,F,N/D,Ginecología,28/10/2017,479.69
+P01516,Ana,55,M,Cajamarca,Laboratorio,25/09/2020,128.17
+P01517,Ana,83,M,Surco,Ginecología,26/10/2022,39.3
+P01518,null,22,M,Cajamarca,Odontología,12/02/2017,
+P01519,José,56,F,La Molina,Emergencia,26/03/2024,172.65
+P01520,Luis,2,N/D,La Molina,Ginecología,13/03/2015,165.61
+P01521,Lucía,92,F,Cajamarca,Ginecología,19/06/2018,238.5
+P01522,null,99,F,Lince,Ginecología,25/08/2020,228.57
+P01523,José,10,M,Miraflores,Pediatría,13/06/2015,35.31
+P01524,Valeria,NA,M,Surco,N/D,28/05/2015,163.92
+P01525,Carlos,33,M,Cajamarca,Laboratorio,26/03/2021,359.53
+P01526,Miguel,12,F,Miraflores,Odontología,,55.89
+P01527,Miguel,46,F,Lince,Consulta médica,27/11/2023,264.34
+P01528,Lucía,82,N/D,Cajamarca,,04/10/2018,262.3
+P01529,María,45,M,Surco,Emergencia,15/07/2020,341.1
+P01530,,60,F,Cajamarca,Laboratorio,17/08/2018,432.68
+P01531,Miguel,43,M,Miraflores,Consulta médica,03/07/2023,482.92
+P01532,Carlos,34,F,N/D,Consulta médica,04/10/2016,190.42
+P01533,Carlos,16,F,La Molina,Laboratorio,23/05/2024,NA
+P01534,José,39,F,NA,N/D,,28.79
+P01535,María,28,M,null,Emergencia,17/09/2018,75.79
+P01536,Pedro,12,F,NA,Emergencia,,193.13
+P01537,Lucía,81,F,San Isidro,Odontología,13/09/2015,316.8
+P01538,José,53,M,,Laboratorio,,497.51
+P01539,N/D,13,F,,Laboratorio,09/12/2018,210.58
+P01540,Pedro,48,F,Lince,Odontología,24/10/2021,N/D
+P01541,Luis,95,M,Lince,Emergencia,19/01/2019,93.16
+P01542,María,N/D,M,La Molina,Emergencia,23/10/2023,472.24
+P01543,José,14,F,La Molina,Laboratorio,06/09/2022,430.58
+P01544,Valeria,36,M,Cajamarca,Pediatría,10/03/2015,214.69
+P01545,Pedro,72,F,Callao,Ginecología,14/07/2016,null
+P01546,,49,M,,Pediatría,31/07/2019,153.67
+P01547,José,N/D,F,null,Emergencia,05/04/2022,null
+P01548,Valeria,10,F,San Isidro,Pediatría,16/02/2015,430.27
+P01549,N/D,38,M,Cajamarca,Consulta médica,N/D,406.38
+P01550,José,29,null,Miraflores,Emergencia,09/09/2018,20.4
+P01551,Valeria,76,F,San Isidro,Odontología,null,47.11
+P01552,Miguel,50,F,Callao,Pediatría,08/12/2016,258.46
+P01553,Lucía,9,M,N/D,Ginecología,07/11/2019,467.17
+P01554,Carlos,26,F,La Molina,Ginecología,05/04/2016,
+P01555,Valeria,null,F,Cajamarca,null,20/04/2018,163.06
+P01556,José,49,F,Cajamarca,Consulta médica,04/07/2023,94.6
+P01557,Lucía,,M,Lince,Laboratorio,null,47.27
+P01558,José,32,F,Lince,Ginecología,10/11/2017,112.39
+P01559,Pedro,29,F,Surco,Laboratorio,16/06/2022,386.86
+P01560,Carlos,94,M,Miraflores,Pediatría,08/10/2022,278.71
+P01561,Pedro,42,F,Lince,,05/06/2020,405.59
+P01562,Sofía,41,F,San Isidro,Emergencia,N/D,252.63
+P01563,N/D,,F,,Laboratorio,02/03/2018,177.17
+P01564,Miguel,15,F,La Molina,Ginecología,NA,341.63
+P01565,Sofía,14,NA,Lince,Ginecología,03/09/2015,485.14
+P01566,Sofía,87,F,San Isidro,Pediatría,null,169.79
+P01567,NA,45,,San Isidro,Ginecología,30/03/2021,83.37
+P01568,Lucía,85,M,Callao,Laboratorio,27/04/2023,135.67
+P01569,Miguel,51,N/D,Lince,Ginecología,,366.43
+P01570,Ana,1,M,Surco,Laboratorio,20/02/2018,240.4
+P01571,María,50,F,San Isidro,Laboratorio,07/09/2019,393.98
+P01572,Ana,55,F,Callao,Ginecología,15/02/2020,115.25
+P01573,Valeria,57,M,Miraflores,Pediatría,NA,274.35
+P01574,Luis,66,M,San Isidro,Ginecología,15/11/2022,358.46
+P01575,Ana,50,M,Cajamarca,Odontología,16/05/2019,415.21
+P01576,,19,M,Lince,Emergencia,02/04/2019,108.42
+P01577,Miguel,62,F,Miraflores,Consulta médica,13/11/2020,NA
+P01578,Ana,78,M,Cajamarca,Consulta médica,24/03/2018,281.62
+P01579,Lucía,11,F,Lince,Consulta médica,,66.4
+P01580,Lucía,79,M,Surco,Ginecología,24/09/2020,184.61
+P01581,Carlos,72,M,Surco,Laboratorio,20/02/2024,167.31
+P01582,María,84,M,Callao,Ginecología,18/10/2019,455.09
+P01583,Lucía,95,N/D,San Isidro,Laboratorio,14/07/2021,56.66
+P01584,Carlos,N/D,M,Miraflores,Emergencia,06/03/2022,397.91
+P01585,Carlos,36,M,La Molina,Pediatría,N/D,91.07
+P01586,Carlos,82,F,Surco,Consulta médica,10/06/2019,354.0
+P01587,Luis,35,M,La Molina,Odontología,02/09/2022,62.8
+P01588,Miguel,78,F,Cajamarca,Emergencia,02/07/2019,496.8
+P01589,N/D,40,F,La Molina,Pediatría,20/11/2016,327.11
+P01590,José,N/D,F,Callao,Laboratorio,NA,95.85
+P01591,José,2,M,Lince,Odontología,29/05/2022,257.97
+P01592,José,96,F,Cajamarca,Pediatría,null,75.41
+P01593,María,94,M,Cajamarca,Pediatría,08/07/2015,27.36
+P01594,Valeria,22,F,Cajamarca,Ginecología,01/08/2018,490.33
+P01595,Miguel,14,M,La Molina,Pediatría,09/12/2020,95.0
+P01596,Pedro,24,F,Lince,Pediatría,26/11/2023,329.18
+P01597,Sofía,,F,La Molina,Ginecología,29/08/2017,39.0
+P01598,Pedro,24,M,Surco,Consulta médica,27/10/2019,227.73
+P01599,Luis,7,M,Cajamarca,Ginecología,07/08/2023,380.99
+P01600,Miguel,25,F,San Isidro,Consulta médica,23/03/2017,390.64
+P01601,José,12,F,Miraflores,Emergencia,05/08/2021,171.82
+P01602,Miguel,70,F,La Molina,Emergencia,27/12/2015,397.38
+P01603,Sofía,90,F,null,Emergencia,11/12/2016,418.31
+P01604,Carlos,72,M,Lince,NA,06/09/2020,170.15
+P01605,Valeria,13,M,San Isidro,Pediatría,03/01/2019,376.93
+P01606,José,79,NA,Cajamarca,N/D,02/08/2024,46.05
+P01607,Carlos,72,F,San Isidro,Pediatría,26/05/2015,107.87
+P01608,Sofía,80,F,Callao,Consulta médica,20/08/2016,139.68
+P01609,NA,40,M,,Consulta médica,12/10/2021,N/D
+P01610,Pedro,91,M,San Isidro,NA,10/08/2024,452.17
+P01611,Luis,85,M,Lince,Emergencia,N/D,72.61
+P01612,Pedro,90,F,NA,Ginecología,18/02/2019,185.89
+P01613,Sofía,55,null,La Molina,Emergencia,02/09/2020,28.12
+P01614,Sofía,96,M,Callao,N/D,19/12/2018,378.35
+P01615,Valeria,38,M,Cajamarca,Odontología,19/12/2023,32.16
+P01616,Sofía,85,M,Lince,Emergencia,25/12/2020,464.58
+P01617,Pedro,63,F,Lince,Consulta médica,17/05/2016,473.63
+P01618,Luis,NA,M,Lince,Pediatría,23/08/2021,224.51
+P01619,Pedro,38,M,Cajamarca,Pediatría,18/10/2015,276.33
+P01620,Pedro,68,N/D,Miraflores,Pediatría,04/05/2018,194.69
+P01621,Sofía,61,M,Cajamarca,Laboratorio,16/01/2023,274.03
+P01622,Sofía,34,M,Cajamarca,Ginecología,26/04/2017,41.4
+P01623,Pedro,70,F,La Molina,NA,01/10/2021,433.04
+P01624,null,42,F,Lince,Pediatría,15/09/2020,49.05
+P01625,Carlos,41,F,Miraflores,Pediatría,27/07/2023,285.64
+P01626,Luis,50,F,Cajamarca,Ginecología,02/09/2023,389.34
+P01627,Valeria,85,M,Lince,Ginecología,12/10/2023,330.74
+P01628,Lucía,43,F,Callao,Pediatría,23/10/2024,412.1
+P01629,Carlos,84,M,Lince,NA,15/05/2020,87.4
+P01630,José,97,F,Cajamarca,Ginecología,NA,367.81
+P01631,Lucía,8,F,Cajamarca,Laboratorio,29/06/2022,209.5
+P01632,Lucía,94,F,San Isidro,Consulta médica,05/06/2021,403.31
+P01633,José,null,M,Cajamarca,Consulta médica,N/D,119.84
+P01634,María,2,F,San Isidro,Ginecología,30/08/2022,89.8
+P01635,Sofía,27,M,La Molina,,16/12/2015,163.59
+P01636,José,NA,F,Cajamarca,Laboratorio,18/10/2020,211.94
+P01637,Carlos,24,M,Miraflores,Odontología,13/12/2015,N/D
+P01638,María,8,F,Cajamarca,Emergencia,21/10/2016,140.05
+P01639,Valeria,95,F,Surco,Pediatría,12/06/2024,240.87
+P01640,Ana,12,F,Miraflores,Odontología,29/09/2021,362.08
+P01641,Valeria,83,M,Lince,Consulta médica,16/05/2019,70.86
+P01642,Lucía,19,M,Callao,Consulta médica,20/11/2017,64.15
+P01643,Ana,93,M,Surco,Odontología,28/02/2024,147.49
+P01644,José,95,F,Callao,Pediatría,14/06/2020,469.1
+P01645,Valeria,6,F,Surco,Odontología,23/05/2015,NA
+P01646,Carlos,null,F,San Isidro,Laboratorio,01/01/2022,175.28
+P01647,Pedro,54,,La Molina,Ginecología,null,169.47
+P01648,null,68,F,Cajamarca,Laboratorio,11/11/2020,202.23
+P01649,Lucía,44,F,Miraflores,Consulta médica,29/07/2023,276.45
+P01650,Lucía,99,M,Callao,N/D,11/03/2017,213.45
+P01651,Carlos,16,N/D,,null,15/10/2015,160.14
+P01652,Valeria,N/D,F,Miraflores,Ginecología,02/02/2024,null
+P01653,Miguel,89,F,Miraflores,null,null,187.32
+P01654,Valeria,89,F,null,Consulta médica,13/01/2018,54.39
+P01655,Pedro,8,F,Surco,Emergencia,15/06/2020,423.04
+P01656,María,74,F,Surco,Odontología,10/02/2020,156.84
+P01657,Luis,28,F,Miraflores,Emergencia,13/09/2016,191.58
+P01658,Miguel,5,F,Cajamarca,Laboratorio,05/03/2023,371.39
+P01659,Lucía,44,F,San Isidro,Emergencia,08/04/2020,23.34
+P01660,Miguel,39,N/D,Miraflores,Pediatría,10/10/2015,154.11
+P01661,N/D,33,M,La Molina,Pediatría,03/11/2016,268.21
+P01662,Miguel,49,M,Miraflores,Emergencia,11/08/2022,224.09
+P01663,Luis,63,F,San Isidro,,,44.57
+P01664,Lucía,22,F,null,Odontología,22/02/2016,287.38
+P01665,Miguel,96,M,Cajamarca,Emergencia,01/10/2022,409.95
+P01666,Carlos,null,NA,La Molina,Pediatría,18/09/2023,463.72
+P01667,Luis,null,F,Lince,Pediatría,31/03/2022,148.93
+P01668,Carlos,24,M,Surco,,24/12/2015,94.18
+P01669,Valeria,null,F,Callao,Emergencia,29/10/2017,443.04
+P01670,Pedro,86,M,La Molina,Pediatría,22/12/2015,93.55
+P01671,María,N/D,,La Molina,,10/08/2022,null
+P01672,Pedro,53,F,Miraflores,Ginecología,,328.09
+P01673,Sofía,98,F,Surco,Laboratorio,05/09/2020,264.95
+P01674,Pedro,32,M,Lince,Emergencia,03/02/2024,316.7
+P01675,José,79,F,Surco,Odontología,07/12/2020,349.16
+P01676,Carlos,1,M,Lince,Emergencia,26/03/2020,496.65
+P01677,Luis,3,F,Miraflores,N/D,09/08/2016,430.95
+P01678,Lucía,91,M,N/D,Odontología,04/06/2024,490.73
+P01679,null,1,M,Lince,Consulta médica,24/09/2017,78.87
+P01680,José,10,M,Callao,Laboratorio,25/07/2022,140.57
+P01681,Pedro,36,M,Surco,Emergencia,03/02/2016,325.78
+P01682,Lucía,20,F,Miraflores,Consulta médica,14/08/2016,148.6
+P01683,Miguel,25,M,Cajamarca,Odontología,29/01/2017,279.95
+P01684,Valeria,89,M,Miraflores,Consulta médica,20/12/2015,117.82
+P01685,Lucía,67,M,NA,Consulta médica,24/09/2024,351.53
+P01686,Carlos,95,F,Lince,Odontología,05/02/2023,102.01
+P01687,Sofía,34,M,Cajamarca,Pediatría,01/02/2019,303.08
+P01688,Miguel,99,M,NA,Pediatría,03/02/2023,299.92
+P01689,José,null,M,La Molina,Pediatría,21/01/2019,151.0
+P01690,Miguel,83,M,Miraflores,Consulta médica,09/09/2023,443.14
+P01691,,null,F,La Molina,Emergencia,10/02/2020,32.91
+P01692,Sofía,75,F,Callao,Pediatría,13/09/2020,211.21
+P01693,José,,F,Cajamarca,Pediatría,25/01/2024,65.07
+P01694,Sofía,73,M,Cajamarca,Pediatría,09/08/2016,254.04
+P01695,Sofía,N/D,M,Cajamarca,Odontología,15/08/2017,264.06
+P01696,Miguel,19,M,Lince,Consulta médica,16/07/2015,39.43
+P01697,Lucía,32,F,La Molina,Laboratorio,08/08/2019,434.61
+P01698,,9,M,Callao,Laboratorio,30/04/2018,null
+P01699,Luis,37,F,NA,Consulta médica,05/12/2020,59.1
+P01700,José,83,M,San Isidro,Laboratorio,08/02/2021,225.74
+P01701,María,,M,Surco,Laboratorio,02/09/2022,
+P01702,Carlos,39,F,Miraflores,Laboratorio,27/12/2015,221.42
+P01703,Carlos,94,F,Callao,Pediatría,01/12/2022,
+P01704,Ana,,M,Lince,Pediatría,14/04/2022,296.21
+P01705,Ana,null,M,La Molina,Laboratorio,03/01/2021,
+P01706,N/D,6,F,Miraflores,Emergencia,03/08/2018,157.65
+P01707,Miguel,56,M,Cajamarca,Emergencia,NA,425.95
+P01708,Valeria,76,M,San Isidro,Laboratorio,21/04/2015,167.91
+P01709,José,95,F,La Molina,NA,24/05/2020,173.17
+P01710,José,50,F,Cajamarca,Consulta médica,06/02/2021,393.96
+P01711,Sofía,NA,M,Lince,Ginecología,06/04/2022,466.11
+P01712,Miguel,46,M,La Molina,Emergencia,01/04/2024,495.72
+P01713,Valeria,80,NA,Callao,Consulta médica,04/07/2015,265.53
+P01714,María,93,M,San Isidro,Ginecología,N/D,217.64
+P01715,Sofía,90,M,Lince,,25/09/2015,180.41
+P01716,Luis,96,M,La Molina,Odontología,10/06/2016,439.02
+P01717,N/D,85,NA,Cajamarca,Consulta médica,14/09/2023,69.38
+P01718,Miguel,72,F,San Isidro,null,02/11/2021,N/D
+P01719,María,71,F,Miraflores,Ginecología,31/03/2017,481.18
+P01720,Sofía,27,F,Surco,,18/01/2022,N/D
+P01721,Sofía,45,M,La Molina,Pediatría,NA,496.27
+P01722,Miguel,,F,San Isidro,Laboratorio,16/03/2019,329.2
+P01723,José,27,M,Cajamarca,,29/10/2024,
+P01724,,17,F,Surco,Laboratorio,20/06/2021,149.31
+P01725,Lucía,86,F,San Isidro,Consulta médica,NA,182.98
+P01726,Ana,30,F,Miraflores,Laboratorio,10/02/2018,352.38
+P01727,Carlos,79,M,Lince,Ginecología,22/01/2016,221.54
+P01728,María,70,F,Cajamarca,Ginecología,null,360.97
+P01729,María,36,M,Cajamarca,Laboratorio,12/05/2016,null
+P01730,Miguel,84,M,Miraflores,Pediatría,30/05/2019,163.18
+P01731,Ana,N/D,F,Lince,Emergencia,25/10/2020,43.85
+P01732,José,2,F,San Isidro,Ginecología,04/09/2019,63.24
+P01733,José,26,M,Callao,Laboratorio,11/02/2019,
+P01734,Luis,21,F,Lince,Ginecología,,273.55
+P01735,Lucía,23,F,Miraflores,Laboratorio,14/01/2017,194.6
+P01736,Pedro,60,F,Cajamarca,N/D,01/06/2022,195.31
+P01737,NA,38,F,Lince,Ginecología,08/04/2021,385.27
+P01738,Sofía,26,F,Callao,Odontología,11/01/2017,N/D
+P01739,Lucía,88,M,Miraflores,,17/09/2020,85.22
+P01740,Pedro,81,M,Cajamarca,Laboratorio,27/07/2021,NA
+P01741,Carlos,29,F,null,Odontología,22/06/2018,101.69
+P01742,Lucía,N/D,F,Surco,Odontología,05/12/2021,406.71
+P01743,Valeria,NA,N/D,Cajamarca,Laboratorio,17/08/2023,124.53
+P01744,José,60,M,La Molina,Ginecología,12/02/2024,340.46
+P01745,Lucía,66,M,La Molina,Emergencia,16/12/2022,187.96
+P01746,Miguel,77,M,San Isidro,Emergencia,08/12/2019,null
+P01747,Sofía,68,F,San Isidro,Consulta médica,19/03/2016,387.55
+P01748,María,55,M,Cajamarca,Laboratorio,04/01/2024,155.1
+P01749,Carlos,90,null,Cajamarca,Odontología,07/03/2016,234.03
+P01750,N/D,NA,M,Cajamarca,Ginecología,16/12/2017,278.42
+P01751,María,15,F,Cajamarca,Odontología,20/03/2017,100.46
+P01752,Luis,33,F,San Isidro,Pediatría,24/09/2015,348.27
+P01753,María,null,M,La Molina,Ginecología,13/05/2016,119.09
+P01754,N/D,41,M,San Isidro,Odontología,12/09/2015,406.29
+P01755,NA,84,M,La Molina,Laboratorio,NA,94.2
+P01756,José,65,M,Lince,Consulta médica,09/11/2023,
+P01757,Luis,34,F,Surco,Laboratorio,05/05/2021,455.93
+P01758,Sofía,58,F,Lince,Pediatría,07/09/2020,189.22
+P01759,María,48,F,Miraflores,Odontología,23/05/2022,36.55
+P01760,Sofía,1,M,Callao,Emergencia,13/12/2022,447.76
+P01761,Carlos,36,F,Cajamarca,Odontología,11/11/2019,430.51
+P01762,Pedro,52,M,Miraflores,Consulta médica,14/03/2021,280.79
+P01763,Pedro,7,M,San Isidro,Emergencia,15/06/2020,479.17
+P01764,NA,52,F,La Molina,Pediatría,20/04/2020,424.28
+P01765,Ana,39,F,Surco,Emergencia,18/07/2019,306.79
+P01766,Sofía,72,M,Cajamarca,Pediatría,02/08/2023,381.55
+P01767,Valeria,NA,F,La Molina,Pediatría,10/08/2019,459.96
+P01768,Ana,19,M,Surco,Emergencia,04/02/2019,null
+P01769,Lucía,29,F,Lince,Ginecología,02/04/2024,266.11
+P01770,Carlos,,F,San Isidro,N/D,23/04/2021,104.43
+P01771,Pedro,13,F,Surco,Emergencia,14/02/2021,467.0
+P01772,Luis,76,M,Cajamarca,Ginecología,12/08/2018,243.74
+P01773,Pedro,65,F,San Isidro,N/D,12/04/2018,486.32
+P01774,Lucía,65,F,San Isidro,Consulta médica,11/01/2023,206.72
+P01775,José,4,F,Lince,Emergencia,08/03/2018,433.58
+P01776,Carlos,34,F,Cajamarca,Pediatría,12/10/2022,
+P01777,Miguel,3,N/D,Surco,,12/02/2016,null
+P01778,Lucía,86,M,Surco,Odontología,02/01/2019,300.02
+P01779,Luis,85,M,San Isidro,Consulta médica,09/03/2016,343.11
+P01780,Miguel,5,M,Miraflores,Laboratorio,21/08/2016,461.46
+P01781,Carlos,72,,Lince,Ginecología,26/09/2023,25.62
+P01782,Miguel,96,M,NA,,09/11/2018,372.64
+P01783,Sofía,10,F,Surco,Pediatría,21/10/2017,39.0
+P01784,N/D,89,M,Surco,Pediatría,null,304.65
+P01785,Luis,88,F,null,Consulta médica,27/07/2023,263.92
+P01786,Sofía,77,F,Miraflores,Consulta médica,08/08/2019,328.92
+P01787,Ana,33,F,Callao,Pediatría,23/04/2016,129.32
+P01788,Pedro,97,F,Cajamarca,Odontología,10/12/2017,72.38
+P01789,Sofía,N/D,F,Miraflores,null,19/09/2017,65.31
+P01790,Valeria,87,F,Miraflores,Odontología,NA,494.78
+P01791,María,60,F,Surco,Laboratorio,25/01/2019,115.29
+P01792,Carlos,N/D,M,Miraflores,Pediatría,NA,
+P01793,Ana,75,F,Lince,Consulta médica,01/05/2015,195.86
+P01794,Sofía,46,NA,Callao,Laboratorio,26/04/2024,405.26
+P01795,María,12,M,La Molina,Ginecología,29/02/2020,262.51
+P01796,María,41,M,La Molina,Laboratorio,,31.85
+P01797,María,35,M,La Molina,Pediatría,29/03/2020,418.38
+P01798,Valeria,29,F,Miraflores,Emergencia,23/10/2022,486.01
+P01799,Miguel,10,F,San Isidro,Ginecología,31/05/2022,169.64
+P01800,Sofía,91,,Callao,Pediatría,null,NA
+P01801,null,,F,Surco,Ginecología,26/09/2024,254.1
+P01802,Miguel,88,F,,Consulta médica,11/05/2019,457.06
+P01803,José,54,M,Lince,Emergencia,12/10/2022,null
+P01804,Pedro,24,NA,Miraflores,Emergencia,07/07/2020,81.86
+P01805,Miguel,98,M,Surco,N/D,27/04/2015,48.62
+P01806,Sofía,84,N/D,La Molina,Consulta médica,16/11/2018,439.93
+P01807,Ana,68,NA,Surco,Odontología,17/10/2021,386.31
+P01808,null,46,F,Cajamarca,,01/09/2015,495.68
+P01809,Carlos,43,,Callao,Emergencia,NA,20.17
+P01810,Valeria,15,M,Miraflores,NA,27/07/2018,null
+P01811,Pedro,71,F,Cajamarca,Consulta médica,19/05/2017,166.79
+P01812,Luis,null,F,NA,Odontología,03/09/2016,454.18
+P01813,Miguel,40,F,Surco,Consulta médica,19/08/2019,336.7
+P01814,Pedro,59,M,Miraflores,Consulta médica,26/01/2016,136.16
+P01815,Luis,83,N/D,Lince,Consulta médica,19/02/2022,299.6
+P01816,Carlos,82,F,Cajamarca,Laboratorio,NA,280.89
+P01817,Valeria,10,M,La Molina,Laboratorio,NA,460.25
+P01818,Lucía,85,M,Lince,Ginecología,04/06/2021,302.53
+P01819,Sofía,65,F,San Isidro,Consulta médica,null,436.64
+P01820,Pedro,93,F,La Molina,Laboratorio,27/10/2015,248.58
+P01821,Sofía,41,M,Lince,Pediatría,16/05/2019,175.07
+P01822,Valeria,32,F,Surco,Consulta médica,21/06/2017,274.74
+P01823,N/D,52,M,Cajamarca,Odontología,,91.37
+P01824,Miguel,83,M,N/D,Emergencia,NA,292.56
+P01825,Valeria,45,F,Miraflores,Ginecología,null,43.36
+P01826,Luis,6,M,San Isidro,Pediatría,19/01/2016,208.48
+P01827,Carlos,18,F,Lince,Emergencia,N/D,497.33
+P01828,Lucía,11,M,Cajamarca,Ginecología,11/01/2024,464.35
+P01829,José,81,M,Lince,Odontología,27/01/2015,455.23
+P01830,Valeria,,F,Surco,Laboratorio,26/10/2023,111.9
+P01831,Ana,55,M,Surco,Emergencia,22/01/2022,235.49
+P01832,José,97,F,San Isidro,Consulta médica,25/03/2019,479.99
+P01833,Ana,77,M,La Molina,Odontología,NA,59.88
+P01834,null,59,M,Lince,Emergencia,10/08/2023,144.33
+P01835,Ana,59,M,Miraflores,Consulta médica,25/02/2015,31.67
+P01836,Luis,17,M,Surco,Emergencia,18/05/2023,90.37
+P01837,Pedro,71,F,Surco,Pediatría,07/04/2019,348.8
+P01838,Luis,18,M,Surco,Laboratorio,,72.24
+P01839,Miguel,84,F,La Molina,Odontología,24/11/2015,341.68
+P01840,null,61,M,Callao,Odontología,01/11/2019,NA
+P01841,María,57,M,Cajamarca,Odontología,23/06/2023,422.87
+P01842,N/D,91,M,N/D,Odontología,11/09/2020,NA
+P01843,Valeria,33,M,Callao,Ginecología,NA,160.51
+P01844,Luis,27,null,La Molina,Emergencia,24/03/2018,266.99
+P01845,María,58,F,San Isidro,Consulta médica,10/02/2019,357.17
+P01846,Luis,88,F,Lince,Pediatría,17/10/2015,467.55
+P01847,null,8,M,null,Odontología,26/10/2018,
+P01848,José,28,M,Miraflores,Emergencia,03/10/2015,73.12
+P01849,María,38,F,Callao,Consulta médica,27/12/2023,441.13
+P01850,José,70,F,Surco,Consulta médica,06/12/2015,480.27
+P01851,Pedro,94,M,Lince,Emergencia,20/08/2019,432.05
+P01852,Valeria,45,F,San Isidro,Pediatría,13/10/2016,338.63
+P01853,Sofía,24,F,Surco,Emergencia,07/12/2019,326.01
+P01854,Miguel,25,F,San Isidro,Laboratorio,02/03/2016,54.63
+P01855,Carlos,61,M,Cajamarca,Odontología,06/12/2021,211.19
+P01856,Pedro,36,F,Cajamarca,Pediatría,22/05/2018,233.97
+P01857,Luis,58,NA,San Isidro,Consulta médica,14/11/2016,343.98
+P01858,Carlos,39,M,La Molina,Emergencia,28/04/2016,282.41
+P01859,Ana,18,M,La Molina,Ginecología,29/08/2021,405.8
+P01860,Lucía,89,F,Lince,Odontología,13/05/2017,44.3
+P01861,N/D,33,F,Miraflores,Pediatría,23/04/2021,425.24
+P01862,Valeria,52,null,Cajamarca,Ginecología,03/12/2020,189.98
+P01863,Carlos,56,,San Isidro,Odontología,22/11/2017,454.01
+P01864,Luis,72,M,,,16/06/2018,311.36
+P01865,Pedro,29,M,San Isidro,Consulta médica,16/10/2018,355.4
+P01866,Lucía,54,M,Miraflores,Consulta médica,01/04/2019,133.1
+P01867,Valeria,10,null,Surco,Odontología,18/03/2020,302.91
+P01868,Miguel,74,F,Lince,Ginecología,05/06/2022,204.98
+P01869,Luis,16,F,Surco,Ginecología,01/01/2025,226.04
+P01870,N/D,3,F,Callao,Odontología,26/01/2015,121.22
+P01871,Ana,59,M,NA,Emergencia,10/08/2020,366.03
+P01872,José,33,F,Callao,Odontología,02/12/2023,164.89
+P01873,Luis,98,F,Cajamarca,Pediatría,20/07/2024,198.42
+P01874,Carlos,29,M,Surco,Emergencia,10/03/2023,114.0
+P01875,Luis,14,M,San Isidro,Emergencia,04/05/2023,260.51
+P01876,Pedro,,M,Cajamarca,Consulta médica,16/08/2019,285.45
+P01877,Sofía,81,NA,Callao,Odontología,12/06/2015,462.78
+P01878,Carlos,28,F,San Isidro,null,15/11/2022,352.72
+P01879,Pedro,,F,San Isidro,Emergencia,11/03/2015,396.79
+P01880,María,null,M,La Molina,Laboratorio,24/08/2021,310.16
+P01881,Luis,50,F,Cajamarca,Ginecología,14/04/2015,N/D
+P01882,Lucía,98,F,San Isidro,Odontología,15/11/2016,196.82
+P01883,María,22,M,N/D,Laboratorio,30/07/2023,140.4
+P01884,Sofía,54,F,Surco,Pediatría,29/06/2015,null
+P01885,Luis,8,F,Callao,Ginecología,31/07/2022,404.18
+P01886,Pedro,97,F,,Pediatría,06/01/2020,257.52
+P01887,Lucía,81,M,Surco,Emergencia,20/07/2019,128.11
+P01888,Valeria,19,F,Surco,Consulta médica,06/07/2018,260.32
+P01889,Carlos,61,F,NA,Emergencia,NA,475.99
+P01890,null,22,F,Surco,Consulta médica,22/12/2018,388.19
+P01891,Valeria,20,F,La Molina,Odontología,15/11/2016,NA
+P01892,Luis,81,M,Miraflores,Pediatría,13/01/2017,207.46
+P01893,N/D,60,F,Surco,Ginecología,,481.59
+P01894,Lucía,,F,San Isidro,Consulta médica,03/04/2016,101.55
+P01895,Ana,43,F,San Isidro,Pediatría,10/01/2015,391.2
+P01896,Sofía,48,F,San Isidro,Ginecología,12/10/2024,50.92
+P01897,,49,null,Miraflores,Emergencia,08/12/2019,142.53
+P01898,Sofía,73,M,Miraflores,NA,05/12/2023,436.53
+P01899,María,76,M,La Molina,Pediatría,18/11/2018,130.33
+P01900,Pedro,81,F,San Isidro,Laboratorio,19/01/2021,137.42
+P01901,Carlos,92,F,San Isidro,Laboratorio,21/12/2019,N/D
+P01902,Miguel,5,F,Surco,null,27/08/2024,141.89
+P01903,Carlos,39,M,Miraflores,N/D,28/03/2024,267.29
+P01904,Lucía,7,F,Cajamarca,Ginecología,27/01/2018,336.92
+P01905,José,36,,Lince,,02/05/2023,null
+P01906,Miguel,63,M,San Isidro,Odontología,15/12/2020,31.74
+P01907,José,7,M,Lince,Consulta médica,18/02/2022,364.77
+P01908,Luis,51,M,La Molina,Laboratorio,23/01/2022,208.87
+P01909,,87,F,Callao,null,20/11/2024,144.53
+P01910,Lucía,44,M,Miraflores,Odontología,15/11/2016,
+P01911,Pedro,96,F,La Molina,Pediatría,14/06/2016,355.83
+P01912,José,51,M,Cajamarca,Ginecología,22/12/2017,NA
+P01913,NA,56,null,Cajamarca,,NA,97.33
+P01914,Lucía,55,M,San Isidro,Ginecología,04/04/2021,357.59
+P01915,NA,61,N/D,Lince,,17/12/2024,null
+P01916,Lucía,36,F,Surco,Odontología,24/07/2022,289.0
+P01917,N/D,84,M,Cajamarca,Emergencia,08/12/2021,209.45
+P01918,María,57,F,La Molina,Laboratorio,19/12/2020,370.17
+P01919,Valeria,52,F,Miraflores,Odontología,14/12/2020,121.39
+P01920,Miguel,4,M,Surco,Consulta médica,NA,38.66
+P01921,Carlos,20,M,Callao,Pediatría,11/09/2017,430.93
+P01922,Carlos,11,M,Cajamarca,Consulta médica,31/07/2017,443.37
+P01923,Pedro,33,M,null,Consulta médica,28/02/2021,224.09
+P01924,Ana,40,M,Surco,Consulta médica,18/01/2023,408.78
+P01925,Sofía,75,M,Callao,Consulta médica,24/04/2020,NA
+P01926,Pedro,7,M,Cajamarca,Emergencia,23/05/2019,106.91
+P01927,Pedro,54,F,Callao,null,10/12/2022,326.33
+P01928,Valeria,17,F,La Molina,Consulta médica,17/03/2021,32.0
+P01929,null,8,NA,La Molina,Consulta médica,10/01/2023,451.49
+P01930,Valeria,null,F,Surco,Ginecología,14/04/2021,249.66
+P01931,Pedro,1,M,null,Consulta médica,17/02/2015,317.33
+P01932,María,60,F,Lince,Laboratorio,08/12/2015,56.9
+P01933,Lucía,33,M,Cajamarca,null,19/08/2023,202.36
+P01934,Sofía,79,F,Cajamarca,NA,18/05/2019,94.43
+P01935,José,95,F,La Molina,Ginecología,10/10/2022,311.06
+P01936,null,34,M,Lince,Laboratorio,17/10/2015,231.18
+P01937,Ana,,,Cajamarca,Ginecología,10/04/2015,481.79
+P01938,Lucía,30,M,Lince,Ginecología,02/07/2018,420.37
+P01939,Sofía,23,F,San Isidro,Pediatría,06/09/2018,24.9
+P01940,Sofía,31,F,San Isidro,Ginecología,05/02/2019,127.23
+P01941,Lucía,86,M,Lince,Consulta médica,NA,402.77
+P01942,María,54,F,Miraflores,Pediatría,12/09/2020,320.04
+P01943,María,7,M,La Molina,Consulta médica,30/12/2016,185.28
+P01944,,N/D,N/D,null,Ginecología,12/12/2018,
+P01945,Ana,15,M,Lince,Pediatría,05/05/2020,121.31
+P01946,Luis,35,M,Surco,Laboratorio,26/09/2015,N/D
+P01947,Pedro,83,F,Cajamarca,Emergencia,NA,
+P01948,Pedro,79,F,Cajamarca,Pediatría,30/07/2024,303.56
+P01949,José,44,M,Surco,,28/08/2015,154.72
+P01950,null,58,F,Cajamarca,Emergencia,14/10/2020,222.68
+P01951,Lucía,98,F,Cajamarca,Pediatría,19/03/2023,308.43
+P01952,Lucía,52,M,Callao,Consulta médica,16/01/2019,null
+P01953,Ana,51,F,Lince,Consulta médica,10/05/2018,298.37
+P01954,José,3,M,La Molina,Laboratorio,25/02/2023,335.39
+P01955,Miguel,75,F,Callao,null,14/03/2021,177.05
+P01956,Ana,49,F,Surco,NA,09/06/2020,296.06
+P01957,Luis,52,,Cajamarca,Emergencia,20/02/2017,410.87
+P01958,Pedro,1,M,Cajamarca,Pediatría,13/10/2016,NA
+P01959,José,18,M,Miraflores,Emergencia,09/03/2022,376.03
+P01960,Lucía,70,F,,null,18/02/2015,480.21
+P01961,NA,NA,M,La Molina,Emergencia,02/11/2021,400.73
+P01962,,98,F,Lince,Emergencia,10/01/2015,344.0
+P01963,Pedro,50,F,Lince,Consulta médica,18/10/2015,271.72
+P01964,Pedro,63,M,La Molina,Pediatría,null,47.42
+P01965,Ana,N/D,F,Lince,Consulta médica,23/02/2015,480.64
+P01966,Lucía,52,F,Cajamarca,Consulta médica,10/06/2021,408.24
+P01967,Pedro,61,F,La Molina,Laboratorio,04/03/2023,73.06
+P01968,Sofía,8,F,N/D,,25/03/2023,67.65
+P01969,Carlos,80,F,Lince,Odontología,28/05/2016,277.54
+P01970,,75,F,San Isidro,Ginecología,03/07/2024,N/D
+P01971,Pedro,31,,Callao,Pediatría,07/10/2015,136.44
+P01972,Carlos,NA,F,San Isidro,Consulta médica,12/11/2021,N/D
+P01973,Pedro,87,M,La Molina,Consulta médica,13/11/2024,374.46
+P01974,Pedro,2,M,Cajamarca,Emergencia,20/08/2016,481.52
+P01975,Ana,20,F,Miraflores,Consulta médica,30/06/2019,126.88
+P01976,Sofía,90,M,San Isidro,Emergencia,27/06/2016,65.28
+P01977,NA,76,F,San Isidro,Pediatría,30/04/2018,297.56
+P01978,Pedro,27,M,Miraflores,Ginecología,29/04/2017,N/D
+P01979,NA,13,M,San Isidro,Consulta médica,20/12/2021,492.81
+P01980,María,91,F,Lince,Ginecología,22/08/2017,413.99
+P01981,Valeria,23,M,Miraflores,Odontología,08/01/2018,72.78
+P01982,Valeria,3,F,Lince,Ginecología,27/08/2018,484.22
+P01983,Carlos,2,null,Callao,Consulta médica,12/03/2020,
+P01984,Lucía,43,F,San Isidro,Pediatría,10/03/2016,null
+P01985,Ana,NA,null,Callao,Emergencia,15/02/2019,229.63
+P01986,Carlos,37,F,Callao,Consulta médica,NA,229.07
+P01987,Carlos,76,M,NA,null,22/05/2022,445.82
+P01988,Valeria,NA,M,La Molina,Odontología,27/05/2020,278.59
+P01989,Luis,72,M,Surco,Emergencia,24/12/2018,57.24
+P01990,Luis,95,M,N/D,Ginecología,NA,447.72
+P01991,Luis,28,F,Cajamarca,Consulta médica,20/04/2019,439.82
+P01992,Luis,35,F,Lince,Laboratorio,08/10/2015,46.99
+P01993,Lucía,65,F,San Isidro,Emergencia,05/04/2023,470.17
+P01994,Miguel,83,F,La Molina,Laboratorio,NA,479.6
+P01995,José,50,F,San Isidro,Odontología,20/12/2021,233.53
+P01996,María,78,F,Lince,Consulta médica,26/08/2016,285.9
+P01997,Sofía,52,F,Lince,N/D,06/01/2021,354.46
+P01998,Miguel,53,M,Cajamarca,Laboratorio,13/05/2024,286.59
+P01999,Luis,93,M,Lince,Emergencia,21/10/2015,208.01
+P02000,Miguel,86,M,Callao,Consulta médica,18/05/2024,339.28
+P02001,Luis,N/D,F,Callao,Ginecología,30/07/2024,90.21
+P02002,José,69,F,San Isidro,Ginecología,17/09/2018,225.54
+P02003,N/D,15,M,Miraflores,Pediatría,03/11/2022,283.9
+P02004,Carlos,18,F,Lince,Laboratorio,30/03/2015,440.25
+P02005,Miguel,61,F,Cajamarca,Laboratorio,11/02/2015,24.69
+P02006,José,24,F,Cajamarca,Consulta médica,12/11/2019,133.56
+P02007,María,90,,Surco,Odontología,25/07/2022,94.68
+P02008,Lucía,67,F,NA,,05/08/2022,490.51
+P02009,Miguel,27,M,Cajamarca,Ginecología,16/12/2018,59.9
+P02010,Valeria,7,F,Cajamarca,Odontología,14/03/2017,229.17
+P02011,José,43,F,Cajamarca,Emergencia,NA,71.47
+P02012,Sofía,57,null,Miraflores,Ginecología,18/11/2019,348.11
+P02013,José,89,M,Surco,Pediatría,04/04/2020,264.15
+P02014,N/D,67,F,La Molina,,NA,425.47
+P02015,María,12,F,Lince,Pediatría,09/08/2018,367.08
+P02016,Ana,39,null,Cajamarca,N/D,,91.92
+P02017,N/D,66,F,Cajamarca,Odontología,25/09/2018,435.59
+P02018,Pedro,18,M,Lince,Emergencia,15/03/2024,
+P02019,Carlos,46,F,La Molina,Laboratorio,06/08/2017,N/D
+P02020,Lucía,87,M,San Isidro,Pediatría,26/04/2021,419.42
+P02021,Sofía,3,F,N/D,Consulta médica,06/04/2017,480.98
+P02022,Ana,NA,M,Surco,Ginecología,11/04/2022,339.0
+P02023,Ana,,F,San Isidro,Emergencia,27/03/2022,488.94
+P02024,null,36,F,Miraflores,Laboratorio,12/12/2016,266.17
+P02025,Sofía,41,M,Lince,Odontología,05/04/2018,342.13
+P02026,Luis,8,M,Lince,Ginecología,28/12/2023,N/D
+P02027,Carlos,N/D,F,La Molina,Consulta médica,30/01/2015,111.88
+P02028,Valeria,20,M,Surco,,24/07/2020,322.12
+P02029,Lucía,59,NA,NA,Odontología,22/11/2023,296.64
+P02030,Valeria,41,F,San Isidro,Odontología,04/01/2015,205.67
+P02031,Sofía,40,M,N/D,Odontología,10/06/2023,353.51
+P02032,Ana,17,M,Miraflores,Emergencia,05/05/2018,406.39
+P02033,Lucía,80,M,Miraflores,Laboratorio,14/08/2015,377.39
+P02034,José,54,M,Lince,Ginecología,17/09/2020,302.83
+P02035,Lucía,44,N/D,Cajamarca,Emergencia,08/12/2022,328.23
+P02036,Valeria,43,F,Surco,Ginecología,26/11/2016,421.48
+P02037,NA,78,NA,Surco,Pediatría,09/09/2022,159.09
+P02038,Sofía,7,M,La Molina,Emergencia,11/11/2018,271.8
+P02039,Luis,53,F,Cajamarca,Pediatría,02/04/2017,253.02
+P02040,José,4,M,Surco,Pediatría,17/11/2015,NA
+P02041,Valeria,21,M,La Molina,Ginecología,09/05/2015,295.33
+P02042,Lucía,78,F,Lince,Odontología,04/06/2018,275.68
+P02043,José,97,F,San Isidro,Emergencia,24/01/2023,44.19
+P02044,José,20,F,Cajamarca,Ginecología,N/D,195.52
+P02045,,13,F,,Emergencia,23/01/2017,25.15
+P02046,Carlos,11,F,San Isidro,Odontología,22/02/2015,375.38
+P02047,Valeria,28,M,La Molina,Laboratorio,N/D,49.11
+P02048,Sofía,98,M,Callao,Ginecología,28/07/2019,174.09
+P02049,Valeria,76,M,Surco,Emergencia,N/D,495.91
+P02050,José,81,M,Miraflores,Odontología,27/07/2018,441.33
+P02051,Ana,11,F,La Molina,Laboratorio,N/D,NA
+P02052,NA,N/D,M,San Isidro,Emergencia,06/11/2019,356.41
+P02053,María,19,M,Miraflores,Emergencia,17/06/2017,25.7
+P02054,Pedro,37,M,Miraflores,Consulta médica,10/12/2017,469.63
+P02055,Luis,10,M,La Molina,Pediatría,15/10/2024,330.46
+P02056,Luis,33,M,Lince,,13/03/2019,348.17
+P02057,Ana,35,M,Lince,Pediatría,01/08/2019,N/D
+P02058,Lucía,82,M,Miraflores,Pediatría,18/12/2015,438.81
+P02059,Valeria,62,N/D,La Molina,Ginecología,N/D,316.19
+P02060,Luis,65,F,Surco,Pediatría,23/01/2019,98.48
+P02061,Valeria,null,M,Surco,Ginecología,24/05/2020,421.7
+P02062,Sofía,18,F,La Molina,Pediatría,02/12/2021,195.2
+P02063,Lucía,null,F,San Isidro,Pediatría,28/02/2016,400.24
+P02064,Lucía,11,M,Callao,Odontología,22/09/2016,300.97
+P02065,Lucía,56,F,Surco,Laboratorio,14/07/2017,420.34
+P02066,Valeria,79,M,Cajamarca,Consulta médica,24/03/2019,115.51
+P02067,Miguel,76,M,Lince,Ginecología,NA,307.3
+P02068,Pedro,65,M,Surco,Pediatría,04/10/2021,189.17
+P02069,Sofía,4,F,Miraflores,Emergencia,17/03/2020,419.38
+P02070,José,86,F,Cajamarca,Laboratorio,04/06/2016,363.95
+P02071,José,7,M,Lince,Ginecología,05/11/2016,283.67
+P02072,Sofía,14,M,Surco,N/D,10/07/2015,230.72
+P02073,José,80,M,Miraflores,Emergencia,21/05/2024,368.52
+P02074,María,4,F,Callao,Consulta médica,03/08/2021,480.56
+P02075,,12,M,Callao,Odontología,12/04/2015,399.45
+P02076,Miguel,79,M,La Molina,Consulta médica,27/02/2020,153.21
+P02077,null,4,M,Lince,Consulta médica,01/12/2019,141.02
+P02078,Lucía,50,M,Miraflores,Emergencia,30/08/2022,232.0
+P02079,Carlos,3,M,Callao,,17/10/2017,379.4
+P02080,Luis,88,M,Callao,Odontología,05/07/2024,177.76
+P02081,Pedro,NA,F,,NA,30/08/2017,432.2
+P02082,Luis,93,M,La Molina,Pediatría,24/11/2021,421.92
+P02083,Luis,45,,Surco,Odontología,19/02/2022,480.85
+P02084,José,,F,San Isidro,Consulta médica,25/06/2023,397.58
+P02085,Luis,67,F,Cajamarca,Emergencia,30/12/2015,149.94
+P02086,null,84,,N/D,Pediatría,19/10/2021,157.58
+P02087,Miguel,35,F,San Isidro,Laboratorio,18/04/2016,101.17
+P02088,María,41,F,Lince,Odontología,14/10/2015,81.33
+P02089,Sofía,77,F,Surco,Consulta médica,27/06/2017,294.97
+P02090,Lucía,null,F,Cajamarca,Pediatría,26/02/2015,449.63
+P02091,Lucía,94,M,Cajamarca,Pediatría,01/05/2020,149.54
+P02092,Valeria,22,F,Callao,Laboratorio,24/03/2021,466.69
+P02093,Lucía,null,M,Cajamarca,Ginecología,NA,485.18
+P02094,Pedro,41,M,Cajamarca,Emergencia,28/06/2023,353.62
+P02095,Sofía,,F,La Molina,Emergencia,03/06/2015,329.43
+P02096,Lucía,41,M,Surco,Odontología,19/11/2015,120.63
+P02097,Lucía,96,M,Miraflores,Odontología,24/03/2018,469.75
+P02098,Carlos,30,M,Miraflores,Emergencia,N/D,393.46
+P02099,Ana,82,M,Callao,Emergencia,28/12/2024,278.78
+P02100,Miguel,70,F,San Isidro,NA,NA,45.35
+P02101,Lucía,N/D,NA,Miraflores,Consulta médica,13/12/2021,461.42
+P02102,Ana,30,F,Cajamarca,Odontología,12/09/2024,97.56
+P02103,Sofía,21,M,San Isidro,Ginecología,N/D,337.38
+P02104,N/D,53,F,San Isidro,Emergencia,16/03/2015,250.1
+P02105,NA,44,M,Miraflores,Emergencia,08/03/2016,270.07
+P02106,Lucía,78,M,NA,Laboratorio,14/03/2018,485.85
+P02107,Carlos,32,M,Miraflores,Emergencia,16/01/2019,209.95
+P02108,N/D,83,F,La Molina,Laboratorio,null,464.31
+P02109,NA,61,F,La Molina,Pediatría,07/09/2016,80.01
+P02110,Miguel,6,F,Surco,,20/07/2015,298.97
+P02111,María,94,,La Molina,Consulta médica,03/01/2024,295.1
+P02112,Carlos,81,M,San Isidro,Pediatría,09/03/2024,363.56
+P02113,Carlos,33,M,San Isidro,Ginecología,29/11/2018,N/D
+P02114,Miguel,18,F,Miraflores,Ginecología,null,26.67
+P02115,Valeria,64,F,San Isidro,Laboratorio,02/05/2021,233.88
+P02116,Carlos,4,F,Callao,Laboratorio,01/07/2019,399.14
+P02117,Miguel,97,M,Surco,Emergencia,29/05/2023,365.03
+P02118,Sofía,9,F,Lince,Pediatría,23/08/2017,328.03
+P02119,María,67,M,La Molina,Emergencia,11/02/2018,275.31
+P02120,,62,F,Callao,Consulta médica,24/08/2023,382.0
+P02121,Pedro,41,M,Lince,Laboratorio,05/10/2019,452.55
+P02122,Pedro,44,M,Miraflores,Odontología,28/12/2018,60.28
+P02123,Luis,17,F,Cajamarca,Consulta médica,20/07/2015,232.67
+P02124,Sofía,76,M,Miraflores,Laboratorio,04/08/2024,323.7
+P02125,Sofía,36,M,Lince,Ginecología,12/11/2018,403.1
+P02126,María,,M,Surco,Pediatría,09/09/2024,462.26
+P02127,José,23,F,Callao,Pediatría,04/09/2023,94.59
+P02128,Sofía,34,F,,Odontología,13/11/2016,241.54
+P02129,Ana,68,M,Lince,Odontología,07/06/2024,327.98
+P02130,Miguel,65,M,Surco,Pediatría,12/07/2023,254.88
+P02131,Sofía,93,M,,Laboratorio,02/08/2017,null
+P02132,Carlos,76,M,N/D,Consulta médica,22/10/2022,341.12
+P02133,Pedro,73,M,La Molina,Pediatría,18/09/2023,389.74
+P02134,Carlos,6,N/D,Miraflores,Odontología,02/11/2023,251.43
+P02135,Luis,86,N/D,Cajamarca,Ginecología,13/06/2017,486.13
+P02136,Ana,16,F,Lince,Ginecología,03/04/2018,426.45
+P02137,Carlos,59,null,Callao,Odontología,22/11/2019,N/D
+P02138,Ana,17,M,San Isidro,Emergencia,03/02/2024,440.94
+P02139,Valeria,12,M,San Isidro,Ginecología,23/08/2017,379.08
+P02140,Ana,13,M,Cajamarca,Ginecología,15/11/2018,24.58
+P02141,Sofía,61,F,Miraflores,Ginecología,08/12/2024,192.19
+P02142,María,NA,F,Cajamarca,Consulta médica,03/06/2018,201.09
+P02143,Miguel,91,M,La Molina,null,22/01/2022,138.63
+P02144,Valeria,N/D,,Surco,Ginecología,18/01/2021,381.05
+P02145,Valeria,62,F,Lince,Emergencia,14/11/2022,165.08
+P02146,José,NA,F,null,NA,02/06/2022,122.0
+P02147,Miguel,null,F,Miraflores,Ginecología,21/11/2016,21.36
+P02148,Pedro,null,M,Miraflores,Laboratorio,28/04/2017,465.21
+P02149,José,null,null,NA,Pediatría,09/06/2021,192.99
+P02150,,89,M,Cajamarca,,05/05/2017,352.04
+P02151,Sofía,50,M,Miraflores,Odontología,25/05/2023,129.28
+P02152,Lucía,13,M,Miraflores,Emergencia,01/10/2019,317.37
+P02153,Lucía,95,M,San Isidro,Laboratorio,null,165.06
+P02154,Sofía,96,F,Miraflores,Consulta médica,31/07/2022,212.55
+P02155,María,70,M,Miraflores,Emergencia,05/03/2015,
+P02156,Miguel,27,M,Surco,Odontología,12/09/2021,452.24
+P02157,Lucía,null,F,Surco,Consulta médica,19/07/2023,220.12
+P02158,Ana,NA,M,Lince,Odontología,09/01/2019,497.44
+P02159,Ana,89,F,Miraflores,Consulta médica,28/09/2015,181.11
+P02160,Sofía,35,M,Cajamarca,Laboratorio,05/02/2023,440.75
+P02161,María,72,,null,Odontología,02/03/2024,448.43
+P02162,María,19,F,Cajamarca,Odontología,23/05/2017,399.8
+P02163,Lucía,71,M,Surco,Laboratorio,25/10/2018,496.52
+P02164,null,26,M,Lince,Ginecología,24/07/2018,234.15
+P02165,Valeria,97,M,Miraflores,Emergencia,NA,361.48
+P02166,Sofía,23,F,Surco,Ginecología,18/12/2023,79.6
+P02167,Luis,72,N/D,Callao,Consulta médica,11/03/2024,null
+P02168,Lucía,55,M,NA,Ginecología,06/01/2020,
+P02169,Sofía,64,M,San Isidro,Laboratorio,N/D,432.57
+P02170,Luis,83,M,Callao,Pediatría,02/10/2017,243.35
+P02171,María,65,F,La Molina,Consulta médica,26/02/2019,NA
+P02172,María,NA,F,San Isidro,N/D,,379.44
+P02173,Sofía,38,NA,,Consulta médica,10/03/2016,N/D
+P02174,Valeria,32,F,Miraflores,Odontología,28/09/2023,221.72
+P02175,José,15,F,San Isidro,Laboratorio,21/04/2018,N/D
+P02176,Luis,43,M,Cajamarca,Laboratorio,31/05/2020,414.57
+P02177,José,64,M,La Molina,,11/02/2022,241.7
+P02178,José,96,M,La Molina,Emergencia,N/D,331.22
+P02179,NA,78,M,Lince,Consulta médica,29/08/2018,161.29
+P02180,NA,40,,Lince,Odontología,26/11/2018,179.21
+P02181,Luis,78,F,La Molina,Pediatría,18/08/2016,126.35
+P02182,Sofía,null,M,Lince,Laboratorio,07/09/2018,467.06
+P02183,María,89,F,Lince,Emergencia,02/12/2016,360.96
+P02184,José,31,M,San Isidro,,11/10/2017,159.31
+P02185,Ana,83,F,La Molina,Pediatría,11/03/2017,59.46
+P02186,Pedro,62,F,Surco,Laboratorio,07/03/2017,
+P02187,Valeria,70,F,Callao,Ginecología,01/04/2021,384.27
+P02188,María,26,M,San Isidro,Pediatría,09/09/2019,198.72
+P02189,Valeria,36,M,La Molina,Emergencia,14/08/2020,289.33
+P02190,Lucía,30,F,Surco,Ginecología,24/03/2024,428.04
+P02191,,24,F,La Molina,Emergencia,02/08/2015,176.32
+P02192,Luis,62,NA,San Isidro,Pediatría,23/12/2019,465.57
+P02193,Miguel,48,M,La Molina,Laboratorio,12/03/2018,271.75
+P02194,Luis,22,F,La Molina,Emergencia,09/11/2022,NA
+P02195,José,35,N/D,La Molina,Pediatría,14/03/2024,382.23
+P02196,,35,F,,Laboratorio,26/09/2023,444.86
+P02197,Luis,49,M,La Molina,Pediatría,23/10/2017,223.5
+P02198,Miguel,41,M,Miraflores,Ginecología,25/02/2023,161.54
+P02199,Valeria,74,M,Callao,Laboratorio,10/03/2018,324.42
+P02200,Pedro,28,F,Cajamarca,Consulta médica,08/02/2015,178.83
+P02201,Pedro,null,F,,NA,23/06/2018,36.18
+P02202,Lucía,83,F,NA,Pediatría,06/03/2018,130.75
+P02203,María,63,,N/D,Laboratorio,13/10/2019,434.42
+P02204,Pedro,53,M,Callao,Laboratorio,11/01/2016,97.39
+P02205,Lucía,null,NA,Lince,Odontología,12/07/2016,194.66
+P02206,Pedro,83,F,Surco,Pediatría,,461.51
+P02207,María,30,null,null,Laboratorio,01/05/2018,317.57
+P02208,Valeria,98,F,La Molina,Emergencia,05/12/2018,424.46
+P02209,Carlos,,M,Surco,Consulta médica,NA,260.3
+P02210,Miguel,18,F,,Consulta médica,22/12/2024,311.82
+P02211,NA,80,F,Lince,Odontología,,464.2
+P02212,Miguel,23,M,Surco,Odontología,27/10/2020,249.94
+P02213,,94,M,Cajamarca,Consulta médica,16/01/2015,478.26
+P02214,null,9,F,Surco,Pediatría,17/08/2023,441.65
+P02215,José,52,M,La Molina,Consulta médica,04/04/2017,
+P02216,Lucía,20,M,San Isidro,Ginecología,09/03/2020,
+P02217,Miguel,90,F,San Isidro,Pediatría,29/11/2016,137.04
+P02218,Lucía,57,F,Callao,Emergencia,12/06/2018,null
+P02219,Lucía,25,M,Lince,Laboratorio,17/05/2017,72.99
+P02220,Ana,14,M,La Molina,NA,01/10/2015,335.28
+P02221,,57,M,Lince,Ginecología,30/12/2016,391.9
+P02222,Valeria,50,M,La Molina,NA,09/12/2020,242.76
+P02223,Luis,91,N/D,Cajamarca,Odontología,31/10/2019,275.21
+P02224,Carlos,20,M,Surco,Odontología,13/07/2022,167.36
+P02225,NA,42,F,Lince,Odontología,10/03/2015,303.17
+P02226,José,51,M,Lince,Ginecología,14/08/2021,
+P02227,Ana,95,M,La Molina,Pediatría,24/06/2024,402.8
+P02228,Miguel,31,F,La Molina,Emergencia,18/06/2021,228.36
+P02229,null,,M,Callao,Ginecología,04/09/2016,318.06
+P02230,María,13,F,Lince,Pediatría,23/04/2016,395.16
+P02231,José,null,F,null,Odontología,26/04/2021,493.13
+P02232,Miguel,,M,Callao,Laboratorio,24/07/2019,421.62
+P02233,Sofía,10,F,San Isidro,Laboratorio,16/01/2022,364.58
+P02234,Valeria,37,M,Lince,Consulta médica,04/11/2020,57.05
+P02235,Lucía,5,M,Miraflores,Consulta médica,16/12/2020,246.58
+P02236,Miguel,40,M,Callao,Consulta médica,19/03/2017,272.87
+P02237,Sofía,37,NA,Surco,Emergencia,08/06/2024,null
+P02238,José,73,F,Surco,Consulta médica,21/06/2021,364.23
+P02239,María,91,F,Miraflores,Laboratorio,07/02/2024,165.2
+P02240,N/D,65,NA,NA,Pediatría,15/12/2022,450.98
+P02241,Ana,6,M,Miraflores,Ginecología,19/02/2024,299.04
+P02242,José,58,F,Surco,NA,08/03/2020,145.63
+P02243,Luis,52,F,La Molina,Odontología,19/02/2018,
+P02244,Sofía,27,F,Cajamarca,Consulta médica,23/05/2015,158.53
+P02245,José,59,M,La Molina,Pediatría,08/06/2019,171.9
+P02246,Pedro,32,M,Callao,Odontología,14/11/2018,269.55
+P02247,José,null,F,San Isidro,Ginecología,01/01/2024,329.34
+P02248,Lucía,58,F,Miraflores,Consulta médica,02/05/2017,362.26
+P02249,N/D,42,F,San Isidro,Laboratorio,07/06/2017,N/D
+P02250,Miguel,NA,M,Cajamarca,Consulta médica,01/04/2020,472.96
+P02251,Pedro,null,M,Miraflores,Ginecología,21/08/2020,161.35
+P02252,María,47,F,Callao,Ginecología,10/02/2015,194.61
+P02253,Luis,57,M,La Molina,Pediatría,15/09/2018,458.67
+P02254,Ana,31,F,Callao,Ginecología,17/10/2018,253.63
+P02255,Luis,37,NA,La Molina,Consulta médica,15/10/2015,57.8
+P02256,Ana,56,M,Cajamarca,Laboratorio,10/02/2023,449.89
+P02257,Lucía,33,M,Callao,NA,28/02/2022,153.14
+P02258,Lucía,36,F,Miraflores,Laboratorio,04/05/2019,382.67
+P02259,Valeria,25,F,Miraflores,N/D,24/06/2017,N/D
+P02260,null,95,F,San Isidro,Odontología,20/04/2020,121.25
+P02261,Sofía,28,F,Miraflores,Ginecología,08/01/2019,109.57
+P02262,Valeria,84,F,San Isidro,Laboratorio,22/08/2016,367.14
+P02263,Luis,null,M,Miraflores,Laboratorio,21/05/2015,212.94
+P02264,María,8,F,Cajamarca,Emergencia,31/05/2018,89.77
+P02265,Pedro,52,F,Callao,N/D,02/04/2024,null
+P02266,Pedro,81,F,Cajamarca,N/D,N/D,388.35
+P02267,María,86,NA,Miraflores,Pediatría,27/05/2016,265.09
+P02268,null,49,M,Miraflores,Odontología,26/01/2015,355.89
+P02269,Carlos,36,F,Surco,Odontología,20/04/2018,454.98
+P02270,Luis,9,F,Cajamarca,Laboratorio,09/12/2017,293.52
+P02271,Carlos,null,M,Cajamarca,Ginecología,15/12/2024,32.02
+P02272,Luis,67,F,Surco,NA,01/04/2024,57.11
+P02273,Lucía,NA,,Surco,Emergencia,11/09/2017,195.23
+P02274,Lucía,59,N/D,null,Consulta médica,23/05/2021,363.82
+P02275,null,65,M,San Isidro,Consulta médica,24/01/2020,33.06
+P02276,María,13,F,La Molina,Ginecología,13/07/2020,
+P02277,Miguel,44,F,Callao,Emergencia,08/02/2020,NA
+P02278,Miguel,64,M,Surco,Consulta médica,22/10/2021,
+P02279,Pedro,46,M,Callao,Emergencia,26/06/2024,109.37
+P02280,Sofía,null,F,Lince,Ginecología,23/04/2018,476.65
+P02281,Valeria,29,M,Miraflores,Ginecología,NA,
+P02282,Valeria,70,N/D,Callao,Pediatría,15/03/2020,210.68
+P02283,,N/D,M,Callao,Ginecología,30/10/2024,302.3
+P02284,Valeria,18,M,Lince,Laboratorio,09/09/2019,197.99
+P02285,José,16,M,Surco,Emergencia,01/10/2018,31.36
+P02286,Ana,4,F,Lince,Odontología,01/10/2019,22.48
+P02287,Luis,86,NA,NA,Ginecología,09/04/2018,N/D
+P02288,María,92,F,La Molina,Odontología,06/10/2017,436.05
+P02289,Ana,58,F,Lince,null,31/10/2024,450.96
+P02290,Carlos,29,M,La Molina,,N/D,NA
+P02291,Sofía,NA,F,La Molina,Consulta médica,29/04/2015,144.09
+P02292,N/D,53,null,N/D,Emergencia,29/12/2017,238.17
+P02293,N/D,44,F,La Molina,Pediatría,27/06/2022,483.42
+P02294,Lucía,7,M,La Molina,Pediatría,07/02/2015,223.25
+P02295,Carlos,7,M,Lince,Laboratorio,25/08/2022,311.57
+P02296,Miguel,4,M,Miraflores,Emergencia,,489.64
+P02297,Carlos,92,M,Surco,Emergencia,04/09/2024,338.36
+P02298,Miguel,54,M,Surco,Odontología,02/05/2021,NA
+P02299,María,40,F,San Isidro,Ginecología,12/08/2024,409.21
+P02300,María,31,F,La Molina,N/D,10/06/2018,223.31
+P02301,Lucía,99,M,Lince,Pediatría,14/05/2018,423.6
+P02302,Carlos,75,F,Callao,Emergencia,05/03/2020,N/D
+P02303,Valeria,13,F,Miraflores,Consulta médica,29/08/2018,230.18
+P02304,Valeria,47,F,San Isidro,Emergencia,null,339.31
+P02305,Valeria,48,F,Cajamarca,Laboratorio,31/05/2018,250.27
+P02306,Pedro,54,M,La Molina,Emergencia,17/10/2023,239.11
+P02307,Carlos,15,M,La Molina,Laboratorio,13/07/2024,59.78
+P02308,Pedro,39,F,Cajamarca,Odontología,11/03/2022,488.53
+P02309,José,N/D,F,Cajamarca,Laboratorio,null,269.16
+P02310,Miguel,,F,Miraflores,Laboratorio,05/08/2022,165.43
+P02311,María,,F,Miraflores,Laboratorio,28/11/2024,478.57
+P02312,Carlos,44,M,Lince,,20/10/2019,54.84
+P02313,Carlos,31,F,Callao,Emergencia,21/06/2016,152.47
+P02314,Miguel,30,null,Miraflores,Emergencia,12/06/2023,105.35
+P02315,Sofía,56,F,Callao,Ginecología,14/10/2022,384.57
+P02316,Miguel,6,F,Surco,Pediatría,15/01/2017,null
+P02317,N/D,71,F,Miraflores,Consulta médica,23/07/2023,360.53
+P02318,NA,65,F,Callao,Emergencia,24/10/2020,106.22
+P02319,Miguel,,M,Callao,,12/04/2017,436.66
+P02320,Luis,1,F,null,Emergencia,29/07/2020,487.25
+P02321,Lucía,42,F,La Molina,Ginecología,20/09/2018,418.36
+P02322,,52,F,Miraflores,Laboratorio,12/10/2018,358.15
+P02323,Miguel,36,NA,Surco,Consulta médica,19/06/2024,298.81
+P02324,Carlos,76,F,San Isidro,Ginecología,13/04/2023,129.56
+P02325,Ana,84,M,Surco,Ginecología,27/10/2020,194.51
+P02326,Lucía,22,F,Cajamarca,Emergencia,02/10/2020,154.47
+P02327,María,37,M,Surco,N/D,07/03/2022,null
+P02328,Valeria,43,M,Callao,Odontología,02/10/2017,285.78
+P02329,Pedro,19,F,Lince,Pediatría,18/06/2019,237.18
+P02330,null,88,F,Lince,Pediatría,11/06/2015,39.38
+P02331,Carlos,41,F,Callao,Ginecología,18/03/2021,33.78
+P02332,Valeria,,F,Callao,Laboratorio,14/01/2020,178.77
+P02333,Luis,13,F,Cajamarca,Emergencia,08/08/2018,122.01
+P02334,Miguel,N/D,F,Surco,Consulta médica,22/03/2022,182.01
+P02335,Luis,92,F,Callao,null,26/11/2022,344.04
+P02336,Sofía,26,NA,Callao,Laboratorio,31/01/2015,355.6
+P02337,Miguel,null,,Cajamarca,Ginecología,07/05/2017,485.11
+P02338,N/D,null,F,Cajamarca,Odontología,04/06/2018,304.79
+P02339,Miguel,8,F,Surco,null,07/08/2021,149.57
+P02340,Carlos,6,M,Callao,Consulta médica,12/09/2024,494.82
+P02341,José,,F,,Laboratorio,26/05/2020,79.68
+P02342,N/D,86,M,La Molina,Emergencia,04/08/2019,NA
+P02343,María,NA,F,Lince,Consulta médica,27/07/2023,494.78
+P02344,Carlos,9,F,Callao,Odontología,29/05/2016,308.98
+P02345,null,27,M,Miraflores,Pediatría,09/02/2023,358.59
+P02346,María,82,M,Lince,Pediatría,,412.26
+P02347,Pedro,56,F,Surco,Odontología,02/05/2015,30.19
+P02348,Luis,33,M,Miraflores,Consulta médica,27/05/2023,312.53
+P02349,Pedro,35,F,Surco,Emergencia,12/02/2022,448.46
+P02350,María,68,F,null,Ginecología,09/12/2021,194.46
+P02351,Ana,33,F,Miraflores,Ginecología,18/05/2015,281.16
+P02352,Luis,23,NA,Callao,Laboratorio,28/11/2024,255.28
+P02353,Luis,24,M,Lince,Odontología,,N/D
+P02354,Valeria,60,,San Isidro,Odontología,30/10/2021,150.08
+P02355,Sofía,1,M,Lince,Pediatría,14/03/2015,481.7
+P02356,Pedro,86,F,Lince,Odontología,12/08/2022,350.83
+P02357,Sofía,N/D,M,Miraflores,Laboratorio,10/11/2024,175.29
+P02358,N/D,29,F,null,Consulta médica,29/03/2015,469.55
+P02359,Sofía,NA,F,Cajamarca,Emergencia,02/05/2017,92.57
+P02360,Luis,70,M,NA,Pediatría,13/02/2018,352.78
+P02361,Lucía,70,F,Cajamarca,Consulta médica,27/01/2021,295.93
+P02362,Pedro,23,F,Miraflores,null,11/11/2017,354.08
+P02363,Carlos,92,F,Lince,Odontología,22/12/2020,118.82
+P02364,Miguel,66,null,Cajamarca,Consulta médica,19/10/2021,167.08
+P02365,Valeria,74,M,La Molina,Consulta médica,28/09/2018,197.22
+P02366,María,39,F,N/D,Pediatría,19/10/2018,406.68
+P02367,Miguel,36,M,null,Laboratorio,NA,313.64
+P02368,Lucía,NA,F,Lince,Pediatría,28/01/2023,N/D
+P02369,Miguel,NA,F,N/D,,01/01/2021,259.58
+P02370,Miguel,87,F,Callao,Odontología,18/10/2021,400.34
+P02371,N/D,9,F,Cajamarca,Ginecología,18/04/2017,223.69
+P02372,Luis,5,N/D,Cajamarca,Laboratorio,07/05/2015,330.28
+P02373,Luis,98,F,Lince,Pediatría,16/08/2018,484.62
+P02374,null,NA,N/D,Callao,Pediatría,26/08/2015,400.63
+P02375,José,14,M,Miraflores,Ginecología,17/09/2018,139.46
+P02376,Lucía,,F,Cajamarca,Laboratorio,17/06/2023,116.66
+P02377,Lucía,45,M,Miraflores,Laboratorio,20/02/2015,N/D
+P02378,NA,4,F,Lince,Ginecología,21/01/2022,424.58
+P02379,María,78,F,Lince,Ginecología,28/04/2021,444.52
+P02380,José,11,M,La Molina,Ginecología,15/01/2016,null
+P02381,Ana,44,F,NA,Odontología,N/D,54.3
+P02382,Miguel,15,N/D,Callao,Consulta médica,11/06/2019,337.25
+P02383,Lucía,85,F,N/D,Odontología,20/01/2016,459.98
+P02384,,65,F,Miraflores,Laboratorio,04/12/2022,225.13
+P02385,María,24,F,San Isidro,Pediatría,03/06/2018,387.43
+P02386,Pedro,89,N/D,San Isidro,Ginecología,02/08/2016,193.23
+P02387,Valeria,10,F,Miraflores,Consulta médica,null,369.32
+P02388,Lucía,81,M,Lince,Pediatría,13/04/2022,
+P02389,María,26,M,San Isidro,Consulta médica,16/02/2019,373.42
+P02390,Valeria,82,F,Callao,Odontología,13/12/2018,57.7
+P02391,Sofía,65,F,Surco,Laboratorio,30/06/2024,360.78
+P02392,Ana,17,F,San Isidro,N/D,24/04/2016,248.91
+P02393,Ana,35,M,Miraflores,Consulta médica,13/12/2023,306.8
+P02394,Valeria,24,M,San Isidro,Odontología,09/07/2022,N/D
+P02395,María,92,F,Miraflores,Laboratorio,27/09/2023,282.42
+P02396,María,93,M,Miraflores,Odontología,null,458.9
+P02397,José,16,M,Cajamarca,Ginecología,10/07/2018,460.73
+P02398,Luis,73,F,La Molina,Emergencia,27/06/2017,258.26
+P02399,Valeria,5,F,La Molina,Emergencia,NA,207.82
+P02400,Sofía,NA,F,Miraflores,,11/03/2018,475.08
+P02401,María,53,F,Lince,Consulta médica,03/09/2024,290.89
+P02402,Lucía,93,,La Molina,Ginecología,06/03/2016,131.39
+P02403,Lucía,44,F,Surco,Emergencia,30/11/2021,392.71
+P02404,Sofía,83,F,Miraflores,Pediatría,04/07/2024,453.26
+P02405,Miguel,99,M,Lince,Consulta médica,13/06/2019,470.15
+P02406,,62,null,La Molina,Laboratorio,,184.73
+P02407,Sofía,85,M,null,Pediatría,15/03/2016,152.08
+P02408,Ana,13,M,La Molina,Consulta médica,25/10/2018,NA
+P02409,Valeria,49,M,Lince,Pediatría,26/11/2024,186.45
+P02410,María,10,F,Lince,Odontología,29/08/2024,298.12
+P02411,María,54,F,Lince,Ginecología,02/05/2016,91.69
+P02412,null,10,M,Surco,Consulta médica,31/01/2017,233.95
+P02413,Sofía,40,F,NA,Laboratorio,26/04/2019,363.14
+P02414,Sofía,65,F,Surco,,23/07/2020,31.49
+P02415,Sofía,46,F,null,N/D,21/06/2023,238.86
+P02416,Pedro,20,M,La Molina,NA,01/09/2023,150.3
+P02417,Carlos,42,M,NA,NA,,71.36
+P02418,N/D,,F,Surco,Laboratorio,24/12/2016,485.47
+P02419,Lucía,71,M,Callao,Emergencia,05/08/2024,171.32
+P02420,José,11,M,Lince,Consulta médica,12/08/2018,210.77
+P02421,Luis,31,F,Callao,Emergencia,08/12/2022,248.8
+P02422,Valeria,4,F,San Isidro,Ginecología,02/11/2016,114.25
+P02423,Carlos,75,F,La Molina,Consulta médica,25/05/2024,58.86
+P02424,Sofía,52,M,Lince,Odontología,15/08/2024,
+P02425,Luis,29,F,Callao,Laboratorio,10/11/2019,241.12
+P02426,Miguel,N/D,F,San Isidro,Laboratorio,03/12/2023,null
+P02427,Ana,60,F,Miraflores,Ginecología,,80.18
+P02428,Valeria,18,F,San Isidro,Pediatría,01/08/2019,259.57
+P02429,José,51,NA,Surco,Emergencia,11/12/2021,44.92
+P02430,NA,32,M,Surco,Consulta médica,18/10/2021,399.71
+P02431,María,10,M,Surco,Consulta médica,04/10/2016,484.04
+P02432,Pedro,63,M,Miraflores,Laboratorio,05/02/2022,409.28
+P02433,Lucía,51,M,La Molina,Laboratorio,23/09/2015,NA
+P02434,Carlos,NA,F,Cajamarca,Consulta médica,07/06/2021,47.63
+P02435,Pedro,27,M,Miraflores,Consulta médica,07/03/2020,316.53
+P02436,Carlos,21,,Cajamarca,Emergencia,02/02/2021,151.92
+P02437,Lucía,72,M,La Molina,Consulta médica,18/02/2018,221.26
+P02438,Carlos,89,M,Cajamarca,Emergencia,20/12/2015,431.6
+P02439,María,NA,M,Cajamarca,Laboratorio,21/02/2022,44.59
+P02440,Valeria,81,M,Callao,Consulta médica,02/10/2023,62.86
+P02441,Luis,50,M,San Isidro,Consulta médica,15/12/2017,137.98
+P02442,Lucía,22,F,Surco,Emergencia,03/06/2024,null
+P02443,Lucía,99,NA,Lince,Consulta médica,10/06/2015,292.24
+P02444,Ana,N/D,NA,Lince,Pediatría,N/D,447.61
+P02445,Pedro,64,null,Miraflores,Odontología,26/08/2015,351.77
+P02446,Ana,15,null,Cajamarca,Emergencia,null,469.84
+P02447,José,14,F,Callao,Emergencia,17/05/2024,167.05
+P02448,Lucía,74,M,N/D,Consulta médica,18/05/2017,171.91
+P02449,Sofía,38,F,N/D,Odontología,16/10/2023,333.08
+P02450,Lucía,17,M,Lince,Laboratorio,,391.87
+P02451,María,42,M,Lince,Ginecología,06/06/2024,408.0
+P02452,Lucía,42,M,La Molina,Consulta médica,19/11/2015,79.08
+P02453,María,76,F,San Isidro,Pediatría,05/02/2018,441.75
+P02454,Carlos,4,M,San Isidro,Pediatría,20/08/2023,203.68
+P02455,María,40,F,Cajamarca,Ginecología,31/10/2022,143.78
+P02456,María,72,F,San Isidro,Laboratorio,02/11/2023,null
+P02457,,34,F,Cajamarca,Consulta médica,31/12/2022,473.51
+P02458,Ana,53,F,Cajamarca,Ginecología,17/10/2019,269.19
+P02459,Sofía,null,M,Lince,Laboratorio,20/07/2021,93.43
+P02460,Luis,80,F,Miraflores,Laboratorio,NA,154.79
+P02461,Valeria,96,F,Cajamarca,Laboratorio,08/06/2024,363.31
+P02462,Sofía,73,M,Cajamarca,Ginecología,02/12/2020,109.69
+P02463,Valeria,63,F,NA,Odontología,31/10/2021,273.47
+P02464,Ana,76,M,Miraflores,Ginecología,06/10/2021,457.76
+P02465,Luis,13,F,Surco,NA,01/04/2021,201.41
+P02466,Pedro,5,NA,San Isidro,Emergencia,17/05/2016,455.34
+P02467,José,38,N/D,,Laboratorio,24/03/2022,196.47
+P02468,Miguel,59,F,Lince,Pediatría,19/05/2020,171.94
+P02469,José,3,M,Surco,Consulta médica,08/10/2024,null
+P02470,José,71,M,San Isidro,Consulta médica,09/04/2017,321.4
+P02471,María,80,M,San Isidro,Odontología,07/02/2015,386.78
+P02472,Carlos,94,M,Surco,Pediatría,31/05/2022,478.24
+P02473,NA,49,M,Surco,Laboratorio,15/05/2023,null
+P02474,Miguel,65,F,Miraflores,Pediatría,16/02/2023,426.62
+P02475,Carlos,40,M,Surco,Emergencia,N/D,284.01
+P02476,María,52,null,NA,Consulta médica,30/12/2023,null
+P02477,Pedro,24,F,Cajamarca,Ginecología,20/07/2021,N/D
+P02478,Miguel,88,M,La Molina,Consulta médica,11/11/2019,373.81
+P02479,null,33,F,San Isidro,Emergencia,07/02/2016,287.77
+P02480,Miguel,86,F,Callao,Consulta médica,20/07/2017,21.58
+P02481,José,97,M,Callao,Consulta médica,11/05/2019,226.98
+P02482,Pedro,65,F,Lince,Consulta médica,02/09/2017,413.25
+P02483,Pedro,47,N/D,Surco,Odontología,29/01/2018,117.04
+P02484,Miguel,80,,Callao,,04/02/2023,null
+P02485,José,null,NA,Cajamarca,Odontología,24/05/2015,484.01
+P02486,Ana,79,M,Cajamarca,Laboratorio,,151.75
+P02487,Sofía,70,F,San Isidro,Laboratorio,09/08/2016,477.61
+P02488,Carlos,null,F,Callao,Ginecología,10/09/2022,142.74
+P02489,Sofía,18,F,Surco,Consulta médica,18/01/2019,301.28
+P02490,Miguel,7,M,La Molina,Laboratorio,,33.53
+P02491,Pedro,37,M,Miraflores,Ginecología,10/06/2018,51.58
+P02492,José,,F,Lince,Pediatría,22/10/2021,478.0
+P02493,Pedro,52,M,Surco,Laboratorio,03/02/2017,28.97
+P02494,José,23,F,San Isidro,Pediatría,17/08/2022,31.28
+P02495,Pedro,27,M,Surco,Pediatría,01/03/2019,186.26
+P02496,José,51,M,Callao,Emergencia,21/02/2024,399.25
+P02497,Ana,90,M,La Molina,Emergencia,null,57.53
+P02498,Sofía,23,M,,Laboratorio,N/D,472.79
+P02499,José,87,F,San Isidro,Emergencia,29/03/2020,77.7
+P02500,José,57,M,Cajamarca,Laboratorio,24/06/2023,149.49
+P02501,Carlos,8,M,La Molina,Consulta médica,12/04/2015,356.55
+P02502,Pedro,40,null,Cajamarca,Ginecología,26/09/2022,N/D
+P02503,Valeria,38,F,null,Consulta médica,08/07/2015,97.72
+P02504,Lucía,null,M,Miraflores,Consulta médica,19/02/2018,344.37
+P02505,Sofía,29,F,N/D,Ginecología,05/12/2018,122.32
+P02506,Ana,67,null,San Isidro,Emergencia,03/01/2023,178.23
+P02507,Lucía,N/D,F,Miraflores,Odontología,01/10/2020,
+P02508,Pedro,64,F,NA,,04/07/2017,183.88
+P02509,Sofía,76,N/D,Callao,Consulta médica,NA,141.65
+P02510,Luis,42,F,San Isidro,Emergencia,15/03/2015,407.62
+P02511,Pedro,6,M,Miraflores,Ginecología,29/10/2021,null
+P02512,José,N/D,M,La Molina,Pediatría,18/01/2024,191.36
+P02513,José,64,F,N/D,Laboratorio,14/01/2019,70.87
+P02514,Miguel,97,F,Callao,Ginecología,12/12/2017,121.74
+P02515,NA,70,F,N/D,Pediatría,13/05/2016,246.54
+P02516,José,51,M,Cajamarca,Emergencia,25/04/2018,191.29
+P02517,Miguel,83,M,San Isidro,Consulta médica,16/05/2024,310.6
+P02518,Pedro,40,M,Miraflores,Pediatría,,20.58
+P02519,Sofía,19,M,Miraflores,Emergencia,12/11/2020,N/D
+P02520,,49,M,NA,Emergencia,15/06/2021,463.08
+P02521,Valeria,25,F,Lince,Consulta médica,17/07/2023,206.88
+P02522,Ana,74,M,Lince,Emergencia,09/03/2020,82.23
+P02523,NA,1,M,La Molina,Pediatría,08/06/2021,233.11
+P02524,Ana,8,F,La Molina,Consulta médica,26/04/2022,163.98
+P02525,María,NA,F,Lince,Laboratorio,N/D,410.05
+P02526,Luis,2,F,La Molina,Ginecología,03/12/2016,83.46
+P02527,Sofía,53,M,La Molina,Odontología,20/12/2015,75.96
+P02528,Carlos,56,M,Surco,Emergencia,27/08/2021,186.14
+P02529,Luis,92,M,La Molina,Consulta médica,05/06/2022,414.36
+P02530,Valeria,4,F,Surco,Laboratorio,NA,398.42
+P02531,Carlos,10,M,NA,Odontología,06/05/2015,388.34
+P02532,Lucía,88,F,La Molina,Emergencia,03/07/2021,101.4
+P02533,Luis,75,M,Cajamarca,Ginecología,25/11/2020,220.23
+P02534,NA,76,F,Surco,Emergencia,N/D,200.38
+P02535,Pedro,40,F,Surco,N/D,12/02/2016,
+P02536,Ana,42,F,La Molina,Pediatría,10/10/2017,null
+P02537,Sofía,55,M,Lince,Odontología,08/01/2023,95.41
+P02538,Luis,94,F,Callao,Laboratorio,20/12/2024,NA
+P02539,Lucía,67,F,Lince,Consulta médica,20/12/2024,74.41
+P02540,Ana,21,F,NA,Odontología,20/10/2024,184.1
+P02541,Valeria,14,F,La Molina,Consulta médica,29/12/2024,398.7
+P02542,NA,33,M,Miraflores,Odontología,18/02/2018,273.49
+P02543,Miguel,57,F,Callao,Odontología,,285.08
+P02544,Pedro,10,M,,Consulta médica,13/01/2023,299.69
+P02545,María,42,N/D,Callao,Pediatría,15/10/2015,N/D
+P02546,Miguel,37,F,Callao,Consulta médica,02/07/2023,108.68
+P02547,María,60,M,Miraflores,Laboratorio,12/03/2015,420.36
+P02548,Sofía,33,F,Miraflores,Consulta médica,25/06/2022,329.73
+P02549,José,86,F,Lince,N/D,17/05/2017,469.4
+P02550,Valeria,35,F,Cajamarca,Emergencia,03/07/2021,171.29
+P02551,Pedro,,F,La Molina,Pediatría,28/10/2017,192.46
+P02552,Luis,23,M,San Isidro,Ginecología,29/06/2016,423.43
+P02553,Lucía,6,F,Surco,NA,09/07/2024,480.24
+P02554,Lucía,null,M,La Molina,Pediatría,05/01/2021,186.92
+P02555,Pedro,86,F,Miraflores,Consulta médica,08/02/2015,79.69
+P02556,NA,57,M,La Molina,Consulta médica,N/D,320.94
+P02557,Ana,N/D,M,Cajamarca,Pediatría,17/05/2018,128.23
+P02558,Luis,33,M,La Molina,Emergencia,23/05/2024,170.29
+P02559,José,61,F,La Molina,Ginecología,20/06/2024,362.29
+P02560,Lucía,41,F,Lince,Laboratorio,24/06/2016,308.02
+P02561,José,26,M,La Molina,Laboratorio,26/12/2020,300.64
+P02562,Pedro,42,M,Cajamarca,NA,08/01/2022,222.97
+P02563,Ana,N/D,N/D,La Molina,Emergencia,18/01/2016,404.79
+P02564,Pedro,52,F,San Isidro,Odontología,15/08/2017,168.48
+P02565,Lucía,61,M,N/D,Pediatría,NA,459.16
+P02566,Ana,95,M,Cajamarca,Emergencia,24/07/2021,60.13
+P02567,María,65,M,La Molina,Ginecología,13/02/2018,359.97
+P02568,Lucía,2,F,,N/D,17/12/2016,347.61
+P02569,Miguel,41,M,Lince,Emergencia,31/12/2018,425.25
+P02570,María,78,NA,Surco,Ginecología,22/10/2022,124.48
+P02571,Pedro,null,M,Miraflores,Emergencia,22/11/2024,306.12
+P02572,Sofía,92,M,San Isidro,N/D,null,444.94
+P02573,Miguel,24,M,La Molina,Odontología,20/09/2024,58.48
+P02574,N/D,67,F,Miraflores,Pediatría,16/10/2020,42.6
+P02575,Ana,94,F,N/D,Ginecología,24/07/2017,84.51
+P02576,Miguel,57,M,Surco,Ginecología,12/10/2021,478.35
+P02577,María,82,M,Callao,Consulta médica,15/09/2022,343.5
+P02578,Sofía,85,N/D,Lince,Pediatría,01/03/2018,421.67
+P02579,Pedro,66,F,Miraflores,Emergencia,09/03/2019,128.79
+P02580,María,null,M,Callao,Ginecología,05/05/2021,219.8
+P02581,María,61,M,Cajamarca,NA,21/06/2019,NA
+P02582,Carlos,48,N/D,Cajamarca,Pediatría,N/D,237.38
+P02583,José,29,F,Lince,Emergencia,05/06/2021,415.12
+P02584,Ana,46,M,La Molina,Consulta médica,20/04/2024,200.43
+P02585,María,73,F,Callao,null,14/11/2022,null
+P02586,Ana,,F,San Isidro,Odontología,18/11/2023,307.75
+P02587,Luis,59,M,Lince,Consulta médica,14/03/2018,252.17
+P02588,Lucía,59,M,San Isidro,Emergencia,31/12/2020,338.6
+P02589,Carlos,32,F,Lince,Emergencia,,68.41
+P02590,Pedro,NA,M,La Molina,NA,08/03/2022,82.32
+P02591,Valeria,97,F,,Ginecología,,162.06
+P02592,Ana,14,M,NA,Odontología,01/04/2023,250.38
+P02593,Luis,NA,NA,Lince,Emergencia,28/06/2016,271.11
+P02594,Valeria,98,M,Miraflores,Laboratorio,02/10/2018,null
+P02595,Carlos,44,,La Molina,Ginecología,27/11/2024,488.52
+P02596,Luis,51,F,Miraflores,Pediatría,01/06/2024,N/D
+P02597,Valeria,NA,M,Surco,Emergencia,28/09/2018,319.02
+P02598,María,20,F,Cajamarca,Pediatría,07/02/2021,NA
+P02599,José,58,F,NA,Laboratorio,22/05/2021,315.35
+P02600,Carlos,98,M,Cajamarca,Pediatría,12/12/2022,236.55
+P02601,Lucía,50,F,Surco,,10/09/2016,411.0
+P02602,Miguel,87,M,,NA,19/05/2023,360.01
+P02603,Carlos,54,M,San Isidro,Pediatría,N/D,489.6
+P02604,Valeria,null,F,NA,Emergencia,NA,null
+P02605,Pedro,33,F,,Odontología,17/08/2022,316.88
+P02606,María,25,F,Miraflores,Emergencia,null,26.48
+P02607,Pedro,94,F,San Isidro,Laboratorio,14/11/2020,192.12
+P02608,Ana,78,F,,Odontología,06/12/2022,304.88
+P02609,Carlos,NA,M,Surco,Odontología,27/09/2024,341.44
+P02610,Miguel,46,M,Miraflores,Odontología,13/03/2019,86.02
+P02611,María,44,M,Cajamarca,Laboratorio,23/06/2016,26.74
+P02612,Ana,5,M,San Isidro,Laboratorio,24/03/2017,208.92
+P02613,Sofía,77,M,San Isidro,Laboratorio,09/12/2018,391.14
+P02614,Luis,37,M,Callao,Pediatría,26/09/2023,278.81
+P02615,Luis,8,null,La Molina,Odontología,22/09/2019,188.38
+P02616,Ana,47,M,,NA,04/06/2018,189.43
+P02617,null,30,M,San Isidro,Laboratorio,13/03/2022,175.86
+P02618,María,42,F,Lince,Laboratorio,12/01/2016,48.29
+P02619,null,82,M,Lince,Ginecología,27/12/2015,493.57
+P02620,null,32,F,N/D,Ginecología,17/12/2015,61.01
+P02621,Lucía,22,M,La Molina,Odontología,25/09/2019,395.38
+P02622,Miguel,61,M,Surco,Consulta médica,N/D,167.59
+P02623,Ana,79,F,Lince,Emergencia,24/09/2021,N/D
+P02624,Valeria,68,,Miraflores,Odontología,27/08/2023,65.76
+P02625,Sofía,53,M,Callao,Ginecología,09/03/2020,210.46
+P02626,Lucía,57,M,Cajamarca,NA,03/09/2015,498.05
+P02627,Miguel,67,F,Miraflores,Odontología,20/08/2023,45.17
+P02628,Lucía,27,M,Miraflores,Ginecología,N/D,232.06
+P02629,Luis,31,F,La Molina,Odontología,31/07/2016,313.31
+P02630,Lucía,57,F,Callao,Pediatría,21/04/2017,173.95
+P02631,Luis,55,F,Cajamarca,Emergencia,21/08/2015,378.43
+P02632,Pedro,43,M,La Molina,Emergencia,14/03/2023,484.15
+P02633,Valeria,null,F,Lince,Emergencia,N/D,377.05
+P02634,Miguel,37,M,Lince,null,27/03/2021,431.03
+P02635,Lucía,97,F,La Molina,Laboratorio,NA,438.1
+P02636,Carlos,73,F,Callao,Laboratorio,null,455.57
+P02637,N/D,21,F,Miraflores,Emergencia,17/07/2022,97.58
+P02638,NA,17,M,San Isidro,Ginecología,13/07/2020,428.06
+P02639,Miguel,13,F,Miraflores,Ginecología,17/06/2020,158.37
+P02640,null,65,F,Callao,Consulta médica,21/09/2019,67.25
+P02641,José,30,NA,La Molina,Laboratorio,19/10/2015,
+P02642,Pedro,91,F,null,Odontología,28/02/2016,306.26
+P02643,Carlos,null,N/D,San Isidro,Ginecología,24/05/2017,286.45
+P02644,Carlos,65,F,null,Consulta médica,18/09/2016,134.03
+P02645,Valeria,94,M,La Molina,Ginecología,04/07/2016,310.51
+P02646,Ana,91,F,Lince,Emergencia,23/01/2017,25.76
+P02647,Miguel,N/D,F,Lince,Odontología,17/06/2018,318.29
+P02648,María,33,N/D,Surco,Laboratorio,23/07/2024,365.24
+P02649,,43,F,Callao,Laboratorio,24/07/2022,100.22
+P02650,Lucía,85,M,La Molina,null,20/06/2023,424.24
+P02651,Pedro,62,F,Cajamarca,Consulta médica,27/03/2016,464.07
+P02652,Miguel,6,M,La Molina,Emergencia,24/04/2016,109.93
+P02653,Sofía,66,F,null,Laboratorio,28/08/2018,33.24
+P02654,Ana,null,F,Lince,Ginecología,01/02/2015,371.99
+P02655,Ana,61,M,Surco,Odontología,14/02/2017,92.29
+P02656,Valeria,88,F,San Isidro,Pediatría,21/01/2024,210.81
+P02657,José,18,F,Lince,Odontología,04/07/2018,376.81
+P02658,Carlos,NA,null,Cajamarca,Consulta médica,27/04/2020,388.2
+P02659,Luis,81,F,Surco,Laboratorio,16/04/2024,293.67
+P02660,Luis,61,M,Miraflores,Laboratorio,27/01/2022,79.01
+P02661,Valeria,78,M,Surco,Ginecología,N/D,211.21
+P02662,NA,73,F,Lince,Emergencia,15/08/2017,407.43
+P02663,null,4,F,San Isidro,Odontología,03/08/2017,40.92
+P02664,Pedro,34,F,Callao,NA,02/05/2024,NA
+P02665,Miguel,42,F,San Isidro,Ginecología,null,84.62
+P02666,Luis,76,M,Miraflores,Consulta médica,19/12/2023,497.53
+P02667,Ana,36,M,Miraflores,Emergencia,17/08/2015,N/D
+P02668,Valeria,93,F,Callao,Consulta médica,20/10/2022,null
+P02669,Ana,1,M,San Isidro,NA,02/07/2023,379.76
+P02670,José,null,M,Lince,Laboratorio,17/02/2023,446.02
+P02671,Sofía,25,M,Surco,Pediatría,24/09/2017,228.41
+P02672,Pedro,48,NA,Lince,Ginecología,18/05/2023,319.09
+P02673,Ana,79,M,Surco,Pediatría,21/11/2024,187.91
+P02674,Lucía,,F,La Molina,Ginecología,19/10/2016,116.67
+P02675,Ana,46,M,Cajamarca,Pediatría,05/08/2017,154.68
+P02676,Carlos,25,F,La Molina,Ginecología,02/10/2023,225.09
+P02677,Carlos,4,F,Lince,Laboratorio,09/10/2020,201.18
+P02678,María,9,M,Miraflores,Laboratorio,08/09/2022,41.45
+P02679,Lucía,81,F,Surco,Odontología,25/01/2020,145.4
+P02680,Sofía,26,M,La Molina,Emergencia,27/02/2024,215.17
+P02681,NA,56,F,Callao,Pediatría,19/08/2016,292.93
+P02682,Valeria,NA,M,San Isidro,Ginecología,13/05/2021,403.57
+P02683,Pedro,37,F,Cajamarca,Odontología,null,360.12
+P02684,Miguel,24,M,San Isidro,Emergencia,20/11/2018,251.48
+P02685,Luis,9,F,NA,Emergencia,28/01/2019,
+P02686,José,95,F,Miraflores,Ginecología,17/11/2020,260.59
+P02687,Carlos,54,F,La Molina,Emergencia,10/12/2015,347.47
+P02688,Pedro,5,M,La Molina,Consulta médica,29/08/2023,null
+P02689,Sofía,53,,N/D,Pediatría,12/07/2018,85.03
+P02690,Carlos,64,M,La Molina,N/D,05/04/2020,437.5
+P02691,Pedro,24,F,San Isidro,Pediatría,01/02/2023,296.56
+P02692,Carlos,null,null,Callao,Consulta médica,21/10/2018,468.67
+P02693,Lucía,17,F,Callao,N/D,29/06/2016,50.22
+P02694,Pedro,45,F,San Isidro,,06/07/2015,489.65
+P02695,Sofía,10,M,Surco,Odontología,20/12/2020,324.46
+P02696,María,49,M,Callao,Consulta médica,19/06/2018,346.6
+P02697,Sofía,70,F,La Molina,Odontología,07/10/2019,228.97
+P02698,Luis,81,M,Cajamarca,Ginecología,14/10/2020,464.5
+P02699,José,89,F,Surco,Odontología,16/05/2021,249.91
+P02700,Lucía,91,null,Callao,Pediatría,30/08/2023,71.32
+P02701,Lucía,61,F,,Consulta médica,29/10/2015,null
+P02702,María,85,F,Surco,NA,06/02/2021,307.88
+P02703,Valeria,85,F,Cajamarca,Odontología,06/03/2020,null
+P02704,José,59,M,Lince,Emergencia,06/03/2024,487.92
+P02705,Valeria,27,M,Lince,Pediatría,27/04/2017,262.68
+P02706,María,83,F,N/D,null,NA,77.22
+P02707,Sofía,29,F,Surco,Odontología,24/06/2015,189.43
+P02708,Pedro,49,F,Surco,Consulta médica,04/04/2018,168.03
+P02709,José,94,M,Surco,Odontología,14/12/2019,225.64
+P02710,Lucía,62,N/D,Cajamarca,Laboratorio,16/04/2021,118.94
+P02711,null,69,M,Callao,Laboratorio,25/07/2020,59.26
+P02712,María,52,M,La Molina,Ginecología,23/02/2023,418.3
+P02713,Lucía,37,,San Isidro,Laboratorio,02/09/2018,475.28
+P02714,Ana,null,NA,Lince,Odontología,03/01/2018,405.36
+P02715,Luis,85,F,Callao,Laboratorio,13/01/2023,132.16
+P02716,Pedro,19,M,Surco,Consulta médica,01/10/2020,357.0
+P02717,José,11,M,Surco,Pediatría,27/05/2020,191.93
+P02718,Carlos,47,,Surco,Odontología,10/08/2020,26.7
+P02719,Luis,64,F,Lince,Laboratorio,07/10/2024,469.42
+P02720,Lucía,31,M,Lince,Ginecología,21/01/2016,248.4
+P02721,Pedro,72,F,Miraflores,Ginecología,26/06/2017,299.85
+P02722,Lucía,60,F,Lince,Consulta médica,26/04/2018,488.91
+P02723,Ana,13,M,San Isidro,null,16/12/2015,141.99
+P02724,Valeria,80,F,Callao,Emergencia,26/05/2021,
+P02725,,68,F,La Molina,Ginecología,09/05/2016,377.07
+P02726,Carlos,63,F,Callao,Laboratorio,01/10/2019,113.0
+P02727,Ana,72,M,Callao,Consulta médica,18/05/2017,476.52
+P02728,Luis,47,M,Callao,Ginecología,13/10/2018,145.31
+P02729,Miguel,52,F,La Molina,Ginecología,10/05/2019,null
+P02730,null,null,F,La Molina,Odontología,NA,118.32
+P02731,Miguel,63,F,N/D,Ginecología,08/04/2024,55.17
+P02732,María,85,F,Surco,Pediatría,13/11/2015,408.6
+P02733,,37,F,Lince,Pediatría,10/10/2016,NA
+P02734,NA,16,F,San Isidro,Ginecología,01/04/2020,93.27
+P02735,Lucía,38,F,Lince,Pediatría,09/02/2015,412.05
+P02736,null,80,F,Cajamarca,Ginecología,05/04/2023,97.57
+P02737,José,30,M,,Consulta médica,22/07/2018,73.53
+P02738,,73,F,Callao,Laboratorio,04/06/2023,413.26
+P02739,Pedro,11,F,Cajamarca,Ginecología,28/05/2020,20.38
+P02740,María,46,F,Callao,NA,10/08/2017,132.03
+P02741,Carlos,N/D,M,Callao,Emergencia,03/02/2022,246.2
+P02742,,50,F,NA,Ginecología,11/05/2019,451.73
+P02743,Luis,17,NA,Miraflores,Odontología,15/12/2015,279.75
+P02744,Luis,30,F,Callao,Consulta médica,05/08/2016,472.12
+P02745,Lucía,99,F,Lince,Pediatría,23/04/2023,39.04
+P02746,Valeria,N/D,M,La Molina,Pediatría,30/10/2023,112.68
+P02747,Miguel,11,M,Lince,Ginecología,03/08/2018,149.43
+P02748,Pedro,97,F,Lince,Emergencia,04/12/2020,87.91
+P02749,Miguel,null,F,Callao,Consulta médica,20/10/2024,400.19
+P02750,Valeria,76,F,San Isidro,Pediatría,11/11/2020,448.19
+P02751,Lucía,79,F,Surco,Consulta médica,22/08/2024,NA
+P02752,José,1,M,Lince,Emergencia,18/04/2018,280.87
+P02753,Ana,80,F,Surco,Ginecología,15/11/2021,91.62
+P02754,Luis,62,F,Lince,Odontología,,383.95
+P02755,Miguel,45,M,San Isidro,Emergencia,09/09/2015,91.27
+P02756,María,10,M,Callao,Emergencia,13/01/2018,322.96
+P02757,Sofía,99,,La Molina,Laboratorio,26/08/2019,489.19
+P02758,José,35,M,Callao,Odontología,null,118.27
+P02759,Carlos,87,M,Callao,Emergencia,15/04/2019,73.45
+P02760,Miguel,,N/D,Lince,Laboratorio,24/10/2018,127.04
+P02761,José,79,F,Callao,Odontología,27/07/2019,359.13
+P02762,María,80,F,Miraflores,Pediatría,11/12/2021,58.13
+P02763,NA,38,M,Callao,Odontología,12/08/2015,69.8
+P02764,Lucía,4,M,Surco,Odontología,08/08/2023,null
+P02765,María,86,M,Lince,Pediatría,07/09/2020,165.82
+P02766,Sofía,24,F,N/D,Pediatría,16/03/2017,70.5
+P02767,Ana,82,F,Lince,Pediatría,14/03/2018,213.01
+P02768,Ana,44,F,Cajamarca,Pediatría,14/07/2021,380.61
+P02769,Luis,4,M,NA,Pediatría,13/09/2017,67.36
+P02770,Pedro,18,M,Callao,Odontología,15/06/2018,45.62
+P02771,NA,40,M,Miraflores,Pediatría,null,283.32
+P02772,N/D,27,F,Lince,Consulta médica,04/12/2016,
+P02773,José,49,M,Cajamarca,Ginecología,12/05/2022,360.92
+P02774,Luis,39,,Cajamarca,Emergencia,16/01/2018,393.5
+P02775,Lucía,42,M,Callao,Emergencia,N/D,55.1
+P02776,Pedro,54,M,Callao,Consulta médica,17/01/2024,166.19
+P02777,Sofía,39,F,Callao,Consulta médica,14/06/2016,199.21
+P02778,Miguel,59,M,San Isidro,Laboratorio,21/08/2024,54.94
+P02779,,58,F,null,Pediatría,15/11/2015,300.99
+P02780,Pedro,97,M,San Isidro,Consulta médica,06/10/2023,243.17
+P02781,Valeria,80,M,Callao,Consulta médica,28/03/2021,289.86
+P02782,José,78,F,Miraflores,Pediatría,08/06/2016,356.21
+P02783,null,86,F,La Molina,NA,31/03/2018,249.45
+P02784,Luis,10,M,La Molina,Ginecología,12/06/2018,211.63
+P02785,Miguel,62,F,Cajamarca,Pediatría,null,165.07
+P02786,María,NA,M,Lince,Odontología,17/11/2022,N/D
+P02787,Pedro,51,F,Callao,Pediatría,01/06/2015,117.13
+P02788,Lucía,NA,F,Miraflores,,16/05/2021,461.45
+P02789,N/D,,F,San Isidro,Odontología,26/11/2023,86.25
+P02790,Pedro,7,F,Cajamarca,Ginecología,23/11/2018,359.7
+P02791,Lucía,47,F,Lince,Pediatría,03/10/2018,143.5
+P02792,María,98,F,La Molina,Consulta médica,16/10/2019,61.05
+P02793,Valeria,20,F,Miraflores,Odontología,10/02/2015,118.26
+P02794,Luis,29,M,Callao,Odontología,19/05/2017,488.81
+P02795,Luis,51,F,Cajamarca,Laboratorio,05/01/2019,163.02
+P02796,Carlos,84,M,N/D,NA,23/01/2021,45.53
+P02797,Sofía,57,F,San Isidro,Odontología,21/08/2017,336.47
+P02798,NA,52,F,Callao,Laboratorio,12/10/2021,198.1
+P02799,María,37,F,La Molina,Consulta médica,,241.35
+P02800,Valeria,60,M,Surco,Odontología,05/01/2015,NA
+P02801,José,83,F,Miraflores,Ginecología,21/05/2019,46.4
+P02802,,33,M,San Isidro,Ginecología,16/10/2019,219.92
+P02803,Luis,11,M,Cajamarca,Laboratorio,06/07/2019,80.49
+P02804,Miguel,38,M,Surco,Emergencia,31/05/2023,309.03
+P02805,NA,73,F,Lince,Emergencia,19/09/2019,260.45
+P02806,María,43,F,Callao,Emergencia,04/01/2022,89.75
+P02807,Sofía,N/D,F,Cajamarca,Odontología,null,247.87
+P02808,Lucía,79,null,Surco,NA,28/12/2021,384.05
+P02809,NA,51,M,Lince,Pediatría,,
+P02810,Sofía,17,M,La Molina,Emergencia,NA,null
+P02811,Luis,34,F,San Isidro,Ginecología,11/02/2015,411.63
+P02812,Luis,25,F,Cajamarca,Consulta médica,06/03/2019,307.69
+P02813,Lucía,47,F,Miraflores,Laboratorio,N/D,98.02
+P02814,Pedro,68,M,Cajamarca,Pediatría,28/05/2024,396.47
+P02815,Miguel,37,F,Miraflores,Consulta médica,10/07/2015,376.64
+P02816,null,69,M,Surco,Laboratorio,13/04/2020,197.55
+P02817,Lucía,1,F,Cajamarca,NA,04/02/2023,368.79
+P02818,José,49,M,Miraflores,Ginecología,29/10/2023,146.06
+P02819,Lucía,43,null,Miraflores,Ginecología,,184.51
+P02820,Lucía,26,F,null,Consulta médica,11/10/2020,193.83
+P02821,María,36,M,San Isidro,Odontología,31/10/2021,153.22
+P02822,Carlos,99,F,La Molina,Consulta médica,NA,N/D
+P02823,María,36,M,Miraflores,Emergencia,null,442.36
+P02824,Ana,,M,San Isidro,Emergencia,15/03/2019,359.63
+P02825,Carlos,36,M,,Odontología,13/08/2024,222.05
+P02826,Miguel,26,F,La Molina,Ginecología,29/06/2016,152.22
+P02827,Pedro,57,F,Lince,Consulta médica,07/04/2016,487.57
+P02828,Sofía,44,M,Miraflores,null,01/01/2018,276.74
+P02829,Pedro,29,M,Lince,,20/09/2020,118.74
+P02830,María,16,M,Lince,Ginecología,01/12/2022,164.35
+P02831,N/D,29,F,San Isidro,,06/12/2015,302.3
+P02832,Luis,19,M,Lince,Consulta médica,06/11/2019,NA
+P02833,María,19,M,Lince,Pediatría,22/04/2022,291.95
+P02834,Ana,28,F,San Isidro,Odontología,23/02/2018,411.39
+P02835,María,53,M,Cajamarca,Laboratorio,28/10/2019,257.38
+P02836,Ana,55,F,Callao,Odontología,25/02/2015,274.0
+P02837,,98,M,La Molina,Consulta médica,11/09/2021,437.7
+P02838,Carlos,97,M,Lince,Laboratorio,26/04/2017,N/D
+P02839,Luis,47,null,Lince,Laboratorio,07/11/2016,302.56
+P02840,Miguel,29,F,Callao,N/D,05/05/2015,425.88
+P02841,Pedro,,M,La Molina,N/D,29/12/2017,90.65
+P02842,María,,M,NA,Consulta médica,09/04/2023,441.42
+P02843,N/D,68,F,,,20/11/2018,223.72
+P02844,María,8,N/D,Surco,,27/04/2024,260.52
+P02845,NA,53,F,Lince,Pediatría,10/02/2024,153.19
+P02846,null,79,M,Cajamarca,Pediatría,07/08/2022,57.46
+P02847,Carlos,41,F,Miraflores,Emergencia,05/06/2023,190.48
+P02848,Carlos,24,M,Lince,null,16/08/2023,301.55
+P02849,José,N/D,M,San Isidro,Odontología,21/08/2020,356.31
+P02850,José,71,F,Miraflores,Emergencia,11/01/2021,119.64
+P02851,Carlos,60,M,San Isidro,Laboratorio,12/02/2023,115.31
+P02852,José,32,F,Lince,Laboratorio,29/08/2015,230.96
+P02853,NA,54,N/D,Cajamarca,Consulta médica,10/02/2023,259.89
+P02854,María,99,F,San Isidro,Emergencia,12/02/2018,33.32
+P02855,José,31,M,Surco,Pediatría,N/D,365.97
+P02856,Pedro,N/D,F,Cajamarca,Laboratorio,31/10/2019,291.79
+P02857,Valeria,8,null,Callao,,29/03/2016,388.15
+P02858,María,92,M,Surco,Pediatría,06/10/2020,117.68
+P02859,Ana,39,F,Cajamarca,Ginecología,10/11/2017,407.92
+P02860,Valeria,12,M,San Isidro,Odontología,30/08/2024,null
+P02861,Lucía,5,N/D,La Molina,N/D,28/12/2019,476.97
+P02862,José,85,F,NA,Odontología,02/01/2021,466.78
+P02863,Sofía,66,M,NA,Ginecología,02/07/2017,444.21
+P02864,Pedro,25,M,La Molina,Emergencia,03/12/2017,95.15
+P02865,Luis,88,F,Cajamarca,Ginecología,05/06/2021,405.36
+P02866,Sofía,null,F,N/D,Ginecología,12/02/2022,460.99
+P02867,Lucía,23,M,San Isidro,Laboratorio,05/02/2016,158.48
+P02868,Lucía,71,F,Lince,,23/05/2020,118.8
+P02869,Miguel,77,M,null,Emergencia,05/04/2015,366.64
+P02870,Pedro,88,M,La Molina,Odontología,20/07/2023,364.39
+P02871,Valeria,12,null,Miraflores,Pediatría,13/10/2021,165.11
+P02872,Sofía,28,M,Lince,Laboratorio,12/08/2017,253.09
+P02873,Sofía,45,F,Cajamarca,Ginecología,23/10/2021,24.72
+P02874,N/D,60,N/D,null,Pediatría,29/10/2021,414.04
+P02875,Lucía,59,M,Lince,Ginecología,26/11/2020,59.85
+P02876,Ana,70,M,Surco,Pediatría,20/02/2021,50.45
+P02877,NA,60,F,Miraflores,Ginecología,01/01/2016,175.12
+P02878,Ana,35,F,Lince,Consulta médica,19/12/2017,475.12
+P02879,Carlos,16,M,Cajamarca,Ginecología,20/05/2018,243.44
+P02880,María,34,F,,null,15/11/2020,136.08
+P02881,Ana,91,F,NA,Laboratorio,12/06/2015,297.04
+P02882,Lucía,11,F,Callao,Laboratorio,27/02/2020,445.15
+P02883,Pedro,9,M,Lince,Emergencia,01/12/2023,278.37
+P02884,José,9,M,Callao,Ginecología,25/06/2020,246.84
+P02885,Pedro,28,M,Callao,Ginecología,06/12/2016,126.61
+P02886,Miguel,53,null,Cajamarca,Odontología,22/03/2020,51.86
+P02887,Luis,28,F,Surco,Emergencia,13/06/2022,147.08
+P02888,Pedro,24,M,La Molina,Emergencia,22/01/2024,320.65
+P02889,Miguel,14,F,Miraflores,Pediatría,21/06/2020,84.59
+P02890,María,N/D,M,Lince,null,07/02/2019,24.07
+P02891,Carlos,70,M,San Isidro,Emergencia,27/01/2022,451.91
+P02892,Pedro,48,F,,Ginecología,26/12/2016,257.69
+P02893,María,99,F,Miraflores,Pediatría,18/06/2016,316.38
+P02894,Lucía,87,M,,Odontología,06/07/2015,303.81
+P02895,Carlos,4,N/D,null,Emergencia,14/03/2020,NA
+P02896,Luis,92,F,San Isidro,,21/11/2016,402.44
+P02897,María,22,F,Callao,Laboratorio,06/07/2019,416.47
+P02898,José,89,M,La Molina,Ginecología,02/02/2015,62.79
+P02899,,N/D,F,Cajamarca,Pediatría,18/02/2017,86.04
+P02900,Carlos,19,M,San Isidro,Pediatría,24/08/2017,333.11
+P02901,José,78,M,Lince,Laboratorio,03/06/2023,460.9
+P02902,Luis,73,F,Callao,Odontología,25/01/2024,311.61
+P02903,NA,1,F,Miraflores,Laboratorio,15/01/2019,283.36
+P02904,Valeria,58,NA,Callao,Consulta médica,11/03/2021,362.93
+P02905,Pedro,67,F,La Molina,Emergencia,N/D,143.14
+P02906,Pedro,10,F,Lince,N/D,null,306.37
+P02907,José,99,M,Miraflores,Consulta médica,09/06/2024,169.11
+P02908,Sofía,85,M,Cajamarca,Consulta médica,,25.17
+P02909,Lucía,99,,Lince,Pediatría,02/06/2023,463.64
+P02910,Miguel,,null,Lince,Pediatría,28/06/2021,66.35
+P02911,José,98,F,Cajamarca,NA,23/07/2024,147.28
+P02912,Carlos,99,F,Cajamarca,null,20/12/2023,337.41
+P02913,Sofía,70,F,N/D,Ginecología,20/07/2017,207.0
+P02914,Carlos,71,F,La Molina,Laboratorio,N/D,457.87
+P02915,Ana,5,M,Cajamarca,Pediatría,04/10/2024,NA
+P02916,Pedro,N/D,F,La Molina,Consulta médica,06/08/2018,330.98
+P02917,Lucía,44,M,,Laboratorio,17/11/2019,
+P02918,Valeria,NA,M,La Molina,Emergencia,27/08/2016,499.18
+P02919,Valeria,22,F,Cajamarca,Consulta médica,22/01/2024,NA
+P02920,NA,51,M,N/D,Consulta médica,01/07/2022,272.93
+P02921,Sofía,62,M,La Molina,Consulta médica,06/09/2015,NA
+P02922,José,16,M,Callao,Odontología,23/11/2020,151.66
+P02923,Luis,55,M,Surco,Laboratorio,07/09/2022,218.81
+P02924,Pedro,NA,M,La Molina,Laboratorio,14/05/2024,104.9
+P02925,N/D,25,M,Cajamarca,Laboratorio,08/04/2021,439.36
+P02926,Luis,20,F,Lince,Odontología,29/08/2022,316.53
+P02927,Carlos,55,null,Lince,Laboratorio,null,210.2
+P02928,Sofía,13,F,Lince,Consulta médica,08/09/2020,345.62
+P02929,José,,M,Surco,Ginecología,01/11/2024,164.32
+P02930,María,NA,F,Callao,Ginecología,24/09/2020,398.16
+P02931,Valeria,NA,M,NA,Odontología,08/11/2015,NA
+P02932,María,29,F,Miraflores,Consulta médica,18/11/2017,282.38
+P02933,Valeria,27,F,San Isidro,Pediatría,16/07/2018,214.44
+P02934,N/D,96,F,Surco,Consulta médica,19/01/2016,233.39
+P02935,María,21,F,La Molina,Pediatría,15/12/2022,292.98
+P02936,Lucía,7,N/D,Miraflores,NA,21/04/2023,185.08
+P02937,Valeria,39,M,NA,Pediatría,04/07/2019,349.47
+P02938,José,49,F,Miraflores,,30/11/2022,457.95
+P02939,Carlos,43,M,La Molina,Ginecología,01/06/2022,72.34
+P02940,María,79,F,Cajamarca,Odontología,21/06/2024,174.99
+P02941,Valeria,61,F,Cajamarca,Pediatría,04/05/2015,82.04
+P02942,Miguel,35,F,La Molina,Emergencia,25/02/2020,342.53
+P02943,Pedro,N/D,F,Miraflores,Ginecología,28/05/2015,421.1
+P02944,Miguel,9,M,La Molina,Odontología,10/08/2021,416.05
+P02945,Luis,39,M,San Isidro,Odontología,16/03/2015,456.6
+P02946,Carlos,8,M,null,Emergencia,10/03/2016,499.45
+P02947,Sofía,25,M,Callao,Odontología,08/09/2019,392.94
+P02948,Pedro,72,M,Miraflores,Ginecología,30/12/2016,321.1
+P02949,Luis,34,F,Callao,Consulta médica,16/08/2019,162.13
+P02950,Pedro,59,F,Surco,Emergencia,28/03/2019,438.67
+P02951,N/D,32,M,Callao,Odontología,14/12/2015,423.67
+P02952,Miguel,13,null,San Isidro,Pediatría,07/01/2016,409.86
+P02953,Luis,75,F,La Molina,Ginecología,12/06/2015,497.4
+P02954,José,4,M,,Odontología,22/08/2022,304.16
+P02955,María,59,M,San Isidro,null,05/07/2022,null
+P02956,Miguel,86,M,Lince,Laboratorio,11/02/2024,199.25
+P02957,Valeria,46,F,San Isidro,Pediatría,05/08/2019,266.96
+P02958,Sofía,47,M,Callao,Ginecología,30/07/2021,443.19
+P02959,,26,M,Cajamarca,Emergencia,NA,478.13
+P02960,Ana,98,M,Surco,Ginecología,11/07/2023,368.95
+P02961,Miguel,53,M,San Isidro,Ginecología,12/06/2021,129.19
+P02962,Pedro,27,M,Cajamarca,Laboratorio,01/09/2021,81.57
+P02963,Luis,60,M,Lince,Ginecología,22/01/2017,224.12
+P02964,Luis,96,M,San Isidro,Pediatría,02/04/2019,206.51
+P02965,María,64,F,San Isidro,Odontología,08/06/2016,455.26
+P02966,Miguel,35,M,Cajamarca,Laboratorio,15/09/2024,86.57
+P02967,Lucía,91,M,null,Emergencia,05/04/2020,164.76
+P02968,María,36,null,San Isidro,Consulta médica,05/04/2020,206.12
+P02969,Carlos,5,N/D,Surco,Consulta médica,14/06/2020,83.18
+P02970,Sofía,null,M,Lince,Laboratorio,28/08/2018,215.03
+P02971,Valeria,77,F,La Molina,Laboratorio,17/10/2016,
+P02972,Carlos,80,M,La Molina,NA,29/06/2021,NA
+P02973,Lucía,48,,Surco,Pediatría,20/10/2024,113.72
+P02974,Pedro,46,M,Miraflores,Consulta médica,22/09/2022,323.66
+P02975,Luis,56,NA,San Isidro,Emergencia,16/11/2023,229.84
+P02976,null,62,NA,,Consulta médica,05/03/2024,275.95
+P02977,Ana,83,M,La Molina,Pediatría,19/03/2019,68.22
+P02978,Lucía,10,M,San Isidro,Ginecología,29/04/2015,288.52
+P02979,Sofía,25,M,Miraflores,Consulta médica,03/06/2021,362.04
+P02980,Pedro,71,F,N/D,Odontología,29/12/2018,183.53
+P02981,Miguel,74,M,La Molina,Pediatría,26/12/2022,276.34
+P02982,Lucía,74,F,Lince,NA,NA,163.28
+P02983,Luis,48,F,Lince,Odontología,22/10/2017,52.01
+P02984,Lucía,N/D,M,San Isidro,Ginecología,25/07/2016,247.79
+P02985,Pedro,70,F,San Isidro,null,14/10/2022,305.79
+P02986,Sofía,75,F,San Isidro,Laboratorio,08/02/2021,203.09
+P02987,Luis,2,F,Callao,Ginecología,06/10/2019,87.6
+P02988,Sofía,NA,M,Miraflores,Odontología,26/02/2021,113.59
+P02989,José,89,F,La Molina,NA,11/06/2016,143.51
+P02990,Valeria,33,N/D,Cajamarca,Laboratorio,08/07/2021,177.74
+P02991,Carlos,,F,Surco,Laboratorio,25/08/2017,319.33
+P02992,Lucía,60,F,Surco,Emergencia,01/04/2023,22.64
+P02993,Miguel,74,M,Miraflores,Ginecología,15/09/2022,419.82
+P02994,null,34,F,Surco,Emergencia,20/01/2023,459.33
+P02995,Pedro,,F,Lince,Pediatría,26/02/2019,442.13
+P02996,Luis,38,M,Cajamarca,Consulta médica,24/11/2019,206.24
+P02997,María,24,M,Lince,Pediatría,08/10/2022,462.96
+P02998,Miguel,N/D,M,Lince,Consulta médica,07/12/2022,276.8
+P02999,Carlos,23,F,Callao,Laboratorio,26/11/2017,NA
+P03000,Pedro,5,M,La Molina,Emergencia,22/12/2020,197.83
